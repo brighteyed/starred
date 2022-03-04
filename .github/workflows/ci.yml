@@ -1,7 +1,9 @@
-name: ci
+name: Update stars
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron:  '0 1 * * *'
 
 jobs:
   build:

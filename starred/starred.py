@@ -37,7 +37,7 @@ Options:
     --help             Show this message and exit.
 ```
 
-## Demo
+## Example
 
 ```bash
 # Automatically create the repository
@@ -47,7 +47,7 @@ $ starred --username yourname --repository awesome-stars --sort
 
 ## Stars
 
-> A curated list of my GitHub stars
+A curated list of my GitHub stars
 
 '''
 
