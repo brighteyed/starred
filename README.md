@@ -29,5 +29,3 @@ Options:
 $ export GITHUB_TOKEN=yourtoken
 $ starred --username yourname --repository awesome-stars --sort
 ```
-
-See [`brighteyed/awesome-stars`](https://github.com/brighteyed/awesome-stars)
