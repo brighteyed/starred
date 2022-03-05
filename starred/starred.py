@@ -14,6 +14,7 @@ from starred import VERSION
 
 header = '''
 # Starred
+A curated list of my GitHub stars
 
 ## Usage
 
@@ -46,9 +47,6 @@ $ starred --username yourname --repository awesome-stars --sort
 ```
 
 ## Stars
-
-A curated list of my GitHub stars
-
 '''
 
 
