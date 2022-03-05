@@ -408,7 +408,7 @@ A curated list of my GitHub stars
 
 ## Others 
 
-- [mkrl/misbrands](https://github.com/mkrl/misbrands) – The world's most hated IT stickers
+- [amritb/poor-mans-vpn](https://github.com/amritb/poor-mans-vpn) – An ansible playbook to set up wireguard server.
 - [GyanD/codexffmpeg](https://github.com/GyanD/codexffmpeg) – Support for https://www.gyan.dev/ffmpeg
 - [tomzorz/awesome-uwp](https://github.com/tomzorz/awesome-uwp) – Awesome UWP libs
 - [Upcycle-Electronics/game-and-watch-hardware](https://github.com/Upcycle-Electronics/game-and-watch-hardware) – 
