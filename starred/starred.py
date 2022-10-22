@@ -115,7 +115,11 @@ def starred(username, token, sort, repository, message):
         try:
             rep = gh.repository(username, repository)
             readme = rep.readme()
-            readme.update(message, file.getvalue())
+
+            contents = file.getvalue()
+            if readme.decoded != contents:
+                readme.update(message, contents)
+
         except NotFoundError:
             print("Repository not found")
 
