@@ -182,6 +182,7 @@ $ starred --username yourname --repository awesome-stars --sort
 
 ## Dart 
 
+- [immich-app/immich](https://github.com/immich-app/immich) – Self-hosted photo and video backup solution directly from your mobile phone.
 - [GitJournal/GitJournal](https://github.com/GitJournal/GitJournal) – Mobile first Note Taking integrated with Git
 - [thielepaul/photoprism-mobile](https://github.com/thielepaul/photoprism-mobile) – Flutter App for PhotoPrism
 - [flutter/samples](https://github.com/flutter/samples) – A collection of Flutter examples and demos
@@ -197,6 +198,7 @@ $ starred --username yourname --repository awesome-stars --sort
 
 ## Go 
 
+- [wailsapp/wails](https://github.com/wailsapp/wails) – Create beautiful applications using Go
 - [PuerkitoBio/goquery](https://github.com/PuerkitoBio/goquery) – A little like that j-thing, only in Go.
 - [dewey/feedbridge](https://github.com/dewey/feedbridge) – Plugin based RSS feed generator for sites that don't offer any. Serves RSS, Atom and JSON Feeds.
 - [tidwall/gjson](https://github.com/tidwall/gjson) – Get JSON values quickly - JSON parser for Go
@@ -408,7 +410,6 @@ $ starred --username yourname --repository awesome-stars --sort
 
 ## HTML 
 
-- [immich-app/immich](https://github.com/immich-app/immich) – Self-hosted photo and video backup solution directly from your mobile phone.
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) – Awesome Docker Compose samples
 - [dfrencham/rad-gate](https://github.com/dfrencham/rad-gate) – Arduino powered BMX gate controller with spoken cadence and random start
 
