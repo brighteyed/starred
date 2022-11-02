@@ -198,6 +198,7 @@ $ starred --username yourname --repository awesome-stars --sort
 
 ## Go 
 
+- [Masterminds/sprig](https://github.com/Masterminds/sprig) – Useful template functions for Go templates.
 - [elves/elvish](https://github.com/elves/elvish) – Elvish = Expressive Programming Language + Versatile Interactive Shell
 - [wailsapp/wails](https://github.com/wailsapp/wails) – Create beautiful applications using Go
 - [PuerkitoBio/goquery](https://github.com/PuerkitoBio/goquery) – A little like that j-thing, only in Go.
