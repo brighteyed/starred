@@ -289,7 +289,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [schollz/progressbar](https://github.com/schollz/progressbar) – A really basic thread-safe progress bar for Golang applications
 - [rwcarlsen/goexif](https://github.com/rwcarlsen/goexif) – Decode embedded EXIF meta data from image files.
 - [vbauerster/mpb](https://github.com/vbauerster/mpb) – multi progress bar for Go cli applications
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) – Fast and extensible multi-platform HTTP/3 web server with automatic HTTPS
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) – Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [spf13/tri](https://github.com/spf13/tri) – Todo CLI app
 - [spf13/mgphoto](https://github.com/spf13/mgphoto) – A dead simple photo import tool
 - [mgerb/mgphoto](https://github.com/mgerb/mgphoto) – A dead simple command line photo import tool
