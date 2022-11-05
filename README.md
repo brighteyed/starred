@@ -149,7 +149,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [leozide/leocad](https://github.com/leozide/leocad) – A CAD application for creating virtual LEGO models
 - [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) – Tesseract Open Source OCR Engine (main repository)
 - [ProtonVPN/win-app](https://github.com/ProtonVPN/win-app) – Official ProtonVPN Windows app
-- [uglide/RedisDesktopManager](https://github.com/uglide/RedisDesktopManager) – :wrench: Cross-platform Developer GUI for Redis
+- [RedisInsight/RedisDesktopManager](https://github.com/RedisInsight/RedisDesktopManager) – :wrench: Cross-platform Developer GUI for Redis
 - [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) – Protocol Buffers - Google's data interchange format
 - [grpc/grpc](https://github.com/grpc/grpc) – The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
 - [priyankchheda/algorithms](https://github.com/priyankchheda/algorithms) – Data Structure Libraries and Algorithms implementation
