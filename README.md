@@ -501,6 +501,7 @@ $ starred --username yourname --repository awesome-stars --sort
 
 ## Python 
 
+- [JuanPotato/Legofy](https://github.com/JuanPotato/Legofy) – Make images look as if they are made out of 1x1 LEGO blocks
 - [edgedb/edgedb](https://github.com/edgedb/edgedb) – A graph-relational database with declarative schema, built-in migration system, and a next-generation query language
 - [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) – Project documentation with Markdown.
 - [datafold/data-diff](https://github.com/datafold/data-diff) – Efficiently diff data in or across relational databases
