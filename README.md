@@ -437,7 +437,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [NUKnightLab/sql-mysteries](https://github.com/NUKnightLab/sql-mysteries) – Inspired by @veltman's command-line mystery, use SQL to research clues and find out whodunit!
 - [subnub/myDrive](https://github.com/subnub/myDrive) – Node.js and mongoDB Google Drive Clone
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) – A utility-first CSS framework for rapid UI development.
-- [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) – Build blazing fast, modern apps and websites with React
+- [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) – The fastest frontend for the headless web. Build modern websites with React.
 - [jellyfin/jellyfin-web](https://github.com/jellyfin/jellyfin-web) – Web Client for Jellyfin
 - [joeferner/redis-commander](https://github.com/joeferner/redis-commander) – Redis management tool written in node.js
 - [BretFisher/node-docker-good-defaults](https://github.com/BretFisher/node-docker-good-defaults) – sample node app for Docker examples
