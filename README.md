@@ -622,7 +622,7 @@ $ starred --username yourname --repository awesome-stars --sort
 ## TypeScript 
 
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) – Easy to maintain open source documentation websites.
-- [lindylearn/unclutter](https://github.com/lindylearn/unclutter) – A modern reader mode and article library for your browser.
+- [lindylearn/unclutter](https://github.com/lindylearn/unclutter) – Modern reader mode and article library for your browser.
 - [alexta69/metube](https://github.com/alexta69/metube) – youtube-dl web UI
 - [axentix/axentix](https://github.com/axentix/axentix) – The framework mixing fully customizable components and utility-first classes, leaving the design choice to the developer.
 - [MaxLeiter/Drift](https://github.com/MaxLeiter/Drift) – Drift is a self-hostable Gist alternative and paste service
