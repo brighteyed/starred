@@ -125,6 +125,7 @@ $ starred --username yourname --repository awesome-stars --sort
 
 ## C++ 
 
+- [facebook/watchman](https://github.com/facebook/watchman) – Watches files and records, or triggers actions, when they change.
 - [qpdf/qpdf](https://github.com/qpdf/qpdf) – Primary QPDF source code and documentation
 - [GothenburgBitFactory/taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior) – Taskwarrior - Command line Task Management
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) – A modern replacement for Redis and Memcached
