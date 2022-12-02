@@ -93,7 +93,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [microsoft/WindowsCompositionSamples](https://github.com/microsoft/WindowsCompositionSamples) – Windows Composition Samples the place for getting the latest code samples and demos using Windows.UI.Xaml and Windows.UI.Composition to make beautiful Universal Windows Platform applications.
 - [XamlFlair/XamlFlair](https://github.com/XamlFlair/XamlFlair) – XamlFlair is an animation library for UWP, WPF, and Uno, built to facilitate Xaml animations using only attached properties.
 - [MarcAnt01/Fluent-Screen-Recorder](https://github.com/MarcAnt01/Fluent-Screen-Recorder) – An award-winning minimal screen recorder for Windows
-- [microsoft/dotnet-podcasts](https://github.com/microsoft/dotnet-podcasts) – .NET 6 reference application shown at .NET Conf 2021 featuring ASP.NET Core, Blazor, .NET MAUI, Microservices, and more!
+- [microsoft/dotnet-podcasts](https://github.com/microsoft/dotnet-podcasts) – .NET reference application shown at .NET Conf featuring ASP.NET Core, Blazor, .NET MAUI, Microservices, Orleans, Playwright, and more!
 - [veler/DevToys](https://github.com/veler/DevToys) – A Swiss Army knife for developers.
 - [unoplatform/uno](https://github.com/unoplatform/uno) – Build Mobile, Desktop and WebAssembly apps with C# and XAML. Today. Open source and professionally supported.
 - [CommunityToolkit/WindowsCommunityToolkit](https://github.com/CommunityToolkit/WindowsCommunityToolkit) – The Windows Community Toolkit is a collection of helpers, extensions, and custom controls. It simplifies and demonstrates common developer tasks building .NET apps with UWP and the Windows App SDK / WinUI 3 for Windows 10 and Windows 11. The toolkit is part of the .NET Foundation.
