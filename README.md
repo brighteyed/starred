@@ -235,7 +235,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [wagslane/go-rabbitmq](https://github.com/wagslane/go-rabbitmq) – A wrapper of streadway/amqp that provides reconnection logic and sane defaults
 - [o1egl/govatar](https://github.com/o1egl/govatar) – Avatar generation library for GO language
 - [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) – 📂 Web File Browser
-- [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go) – Algorithms implemented in Go for beginners, following best practices.
+- [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go) – Algorithms and Data Structures implemented in Go for beginners, following best practices.
 - [golang/go](https://github.com/golang/go) – The Go programming language
 - [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) – Cloudflare Tunnel client (formerly Argo Tunnel)
 - [vultr/vultr-cli](https://github.com/vultr/vultr-cli) – Official command line tool for Vultr services
