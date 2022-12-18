@@ -188,6 +188,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [thielepaul/photoprism-mobile](https://github.com/thielepaul/photoprism-mobile) – Flutter App for PhotoPrism
 - [flutter/samples](https://github.com/flutter/samples) – A collection of Flutter examples and demos
 - [flutter/flutter](https://github.com/flutter/flutter) – Flutter makes it easy and fast to build beautiful apps for mobile and beyond
+- [TheLastGimbus/GooglePhotosTakeoutHelper](https://github.com/TheLastGimbus/GooglePhotosTakeoutHelper) – Script that organizes the Google Takeout archive into one big chronological folder
 
 ## Elixir 
 
@@ -532,7 +533,6 @@ $ starred --username yourname --repository awesome-stars --sort
 - [jftuga/less-Windows](https://github.com/jftuga/less-Windows) – GNU less compiled for Windows 10. Stand-alone version with no dependencies.
 - [sethblack/python-gift-exchange](https://github.com/sethblack/python-gift-exchange) – pyge: Holiday Gift Exchange Picker
 - [WyattBlue/auto-editor](https://github.com/WyattBlue/auto-editor) – Auto-Editor: Effort free video editing!
-- [TheLastGimbus/GooglePhotosTakeoutHelper](https://github.com/TheLastGimbus/GooglePhotosTakeoutHelper) – Script that organizes the Google Takeout archive into one big chronological folder
 - [gpdaniels/spike-prime](https://github.com/gpdaniels/spike-prime) – Experiments with the LEGO Mindstorms (51515) and SPIKE Prime (45678)
 - [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) – get things from one computer to another, safely
 - [ponty/PyVirtualDisplay](https://github.com/ponty/PyVirtualDisplay) – Python wrapper for Xvfb, Xephyr and Xvnc
