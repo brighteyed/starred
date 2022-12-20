@@ -627,7 +627,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [lindylearn/unclutter](https://github.com/lindylearn/unclutter) – A modern reader mode and article library for your browser.
 - [alexta69/metube](https://github.com/alexta69/metube) – youtube-dl web UI
 - [axentix/axentix](https://github.com/axentix/axentix) – The framework mixing fully customizable components and utility-first classes, leaving the design choice to the developer.
-- [MaxLeiter/Drift](https://github.com/MaxLeiter/Drift) – Drift is a self-hostable Gist alternative and paste service
+- [MaxLeiter/Drift](https://github.com/MaxLeiter/Drift) – Drift is a self-hostable Gist and paste service. Built with Next.js 13.
 - [gristlabs/grist-core](https://github.com/gristlabs/grist-core) – Grist is the evolution of spreadsheets.
 - [laurent22/joplin](https://github.com/laurent22/joplin) – Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
 - [pawelmalak/flame](https://github.com/pawelmalak/flame) – Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.
