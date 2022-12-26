@@ -200,6 +200,8 @@ $ starred --username yourname --repository awesome-stars --sort
 
 ## Go 
 
+- [uptrace/bun](https://github.com/uptrace/bun) – SQL-first Golang ORM
+- [volatiletech/sqlboiler](https://github.com/volatiletech/sqlboiler) – Generate a Go ORM tailored to your database schema.
 - [zladovan/gorched](https://github.com/zladovan/gorched) – Gorched is terminal based game written in Go inspired by "The Mother of all games" Scorched Earth
 - [Masterminds/sprig](https://github.com/Masterminds/sprig) – Useful template functions for Go templates.
 - [elves/elvish](https://github.com/elves/elvish) – Elvish = Expressive Programming Language + Versatile Interactive Shell
