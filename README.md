@@ -281,7 +281,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [x-motemen/gobump](https://github.com/x-motemen/gobump) – Bumps up Go program version
 - [traefik/yaegi](https://github.com/traefik/yaegi) – Yaegi is Another Elegant Go Interpreter
 - [robfig/cron](https://github.com/robfig/cron) – a cron library for go
-- [stashapp/stash](https://github.com/stashapp/stash) – An organizer for your porn, written in Go
+- [stashapp/stash](https://github.com/stashapp/stash) – An organizer for your porn, written in Go.  Documentation:  https://docs.stashapp.cc
 - [itchyny/gojq](https://github.com/itchyny/gojq) – Pure Go implementation of jq
 - [codenotary/immudb](https://github.com/codenotary/immudb) – immudb - immutable database based on zero trust, SQL and Key-Value, tamperproof, data change history
 - [GoogleChromeLabs/go-hackernews](https://github.com/GoogleChromeLabs/go-hackernews) – A Hacker News client written in Go
