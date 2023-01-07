@@ -486,6 +486,7 @@ $ starred --username yourname --repository awesome-stars --sort
 
 ## Others 
 
+- [sedyh/awesome-ebitengine](https://github.com/sedyh/awesome-ebitengine) – A curated list of awesome Ebitengine frameworks, libraries and software
 - [GyanD/codexffmpeg](https://github.com/GyanD/codexffmpeg) – Support for https://www.gyan.dev/ffmpeg
 - [tomzorz/awesome-uwp](https://github.com/tomzorz/awesome-uwp) – Awesome UWP libs
 - [Upcycle-Electronics/game-and-watch-hardware](https://github.com/Upcycle-Electronics/game-and-watch-hardware) – 
@@ -511,6 +512,7 @@ $ starred --username yourname --repository awesome-stars --sort
 
 ## Python 
 
+- [lordmauve/pgzero](https://github.com/lordmauve/pgzero) – A zero-boilerplate games programming framework for Python 3, based on Pygame.
 - [JuanPotato/Legofy](https://github.com/JuanPotato/Legofy) – Make images look as if they are made out of 1x1 LEGO blocks
 - [edgedb/edgedb](https://github.com/edgedb/edgedb) – A graph-relational database with declarative schema, built-in migration system, and a next-generation query language
 - [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) – Project documentation with Markdown.
