@@ -70,6 +70,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [Keychron/qmk_firmware](https://github.com/Keychron/qmk_firmware) – Open-source keyboard firmware for Atmel AVR and Arm USB families
 - [ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) – GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)
 - [krallin/tini](https://github.com/krallin/tini) – A tiny but valid `init` for containers
+- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) – a structural diff that understands syntax 🟥🟩
 - [esnet/iperf](https://github.com/esnet/iperf) – iperf3:  A TCP, UDP, and SCTP network bandwidth measurement tool
 - [jpmens/jo](https://github.com/jpmens/jo) – JSON output from a shell
 - [zerotier/DesktopUI](https://github.com/zerotier/DesktopUI) – ZeroTier Desktop Tray Application and UI
@@ -598,7 +599,6 @@ $ starred --username yourname --repository awesome-stars --sort
 - [getzola/zola](https://github.com/getzola/zola) – A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) – Hurl, run and test HTTP requests with plain text.
 - [shadowsocks/shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust) – A Rust port of shadowsocks
-- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) – a structural diff that understands syntax 🟥🟩
 - [agrinman/tunnelto](https://github.com/agrinman/tunnelto) – Expose your local web server to the internet with a public URL.
 - [rapiz1/rathole](https://github.com/rapiz1/rathole) – A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) – A terminal workspace with batteries included
