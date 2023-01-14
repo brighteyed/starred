@@ -425,6 +425,7 @@ $ starred --username yourname --repository awesome-stars --sort
 ## HTML 
 
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) – Awesome Docker Compose samples
+- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) – A utility-first CSS framework for rapid UI development.
 - [dfrencham/rad-gate](https://github.com/dfrencham/rad-gate) – Arduino powered BMX gate controller with spoken cadence and random start
 
 ## Java 
@@ -448,7 +449,6 @@ $ starred --username yourname --repository awesome-stars --sort
 - [googlesamples/google-photos](https://github.com/googlesamples/google-photos) – Samples for the Google Photos Library API 📸
 - [NUKnightLab/sql-mysteries](https://github.com/NUKnightLab/sql-mysteries) – Inspired by @veltman's command-line mystery, use SQL to research clues and find out whodunit!
 - [subnub/myDrive](https://github.com/subnub/myDrive) – Node.js and mongoDB Google Drive Clone
-- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) – A utility-first CSS framework for rapid UI development.
 - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) – The fastest frontend for the headless web. Build modern websites with React.
 - [jellyfin/jellyfin-web](https://github.com/jellyfin/jellyfin-web) – Web Client for Jellyfin
 - [joeferner/redis-commander](https://github.com/joeferner/redis-commander) – Redis management tool written in node.js
