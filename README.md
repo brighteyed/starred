@@ -365,7 +365,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [TwiN/gatus](https://github.com/TwiN/gatus) – ⛑ Automated developer-oriented status page
 - [golobby/config](https://github.com/golobby/config) – A lightweight yet powerful configuration manager for the Go programming language
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) – A process for automating Docker container base image updates.
-- [evanw/esbuild](https://github.com/evanw/esbuild) – An extremely fast JavaScript and CSS bundler and minifier
+- [evanw/esbuild](https://github.com/evanw/esbuild) – An extremely fast bundler for the web
 - [antonmedv/fx](https://github.com/antonmedv/fx) – Terminal JSON viewer
 - [stretchr/testify](https://github.com/stretchr/testify) – A toolkit with common assertions and mocks that plays nicely with the standard library
 - [jessevdk/go-flags](https://github.com/jessevdk/go-flags) – go command line option parser
