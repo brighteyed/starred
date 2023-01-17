@@ -66,6 +66,7 @@ $ starred --username yourname --repository awesome-stars --sort
 
 ## C 
 
+- [jordansissel/xdotool](https://github.com/jordansissel/xdotool) – fake keyboard/mouse input, window management, and more
 - [pygame/pygame](https://github.com/pygame/pygame) – 🐍🎮 pygame (the library) is a Free and Open Source python programming language library for making multimedia applications like games built on top of the excellent SDL library. C, Python, Native, OpenGL.
 - [Keychron/qmk_firmware](https://github.com/Keychron/qmk_firmware) – Open-source keyboard firmware for Atmel AVR and Arm USB families
 - [ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) – GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)
