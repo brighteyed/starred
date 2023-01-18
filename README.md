@@ -125,7 +125,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [microsoft/WPF-Samples](https://github.com/microsoft/WPF-Samples) – Repository for WPF related samples
 - [MaterialDesignInXAML/MaterialDesignInXamlToolkit](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit) – Google's Material Design in XAML & WPF, for C# & VB.Net.
 - [snoopwpf/snoopwpf](https://github.com/snoopwpf/snoopwpf) – Snoop - The WPF Spy Utility
-- [OfficeDev/Open-XML-SDK](https://github.com/OfficeDev/Open-XML-SDK) – Open XML SDK by Microsoft
+- [dotnet/Open-XML-SDK](https://github.com/dotnet/Open-XML-SDK) – Open XML SDK by Microsoft
 
 ## C++ 
 
