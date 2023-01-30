@@ -104,7 +104,6 @@ $ starred --username yourname --repository awesome-stars --sort
 - [dotnet/maui](https://github.com/dotnet/maui) – .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) – Windows system utilities to maximize productivity
 - [MathewSachin/Captura](https://github.com/MathewSachin/Captura) – Capture Screen, Audio, Cursor, Mouse Clicks and Keystrokes
-- [JuniperPhoton/MyerSplash.UWP](https://github.com/JuniperPhoton/MyerSplash.UWP) – Yet anothor simple and elegant photos & wallpaper app for all platforms.
 - [microsoft/Appsample-Photosharing](https://github.com/microsoft/Appsample-Photosharing) – Sample code for a UWP photo sharing app.
 - [microsoft/Windows-appsample-rssreader](https://github.com/microsoft/Windows-appsample-rssreader) – An RSS aggregator sample for the Universal Windows Platform.
 - [charri/Font-Awesome-WPF](https://github.com/charri/Font-Awesome-WPF) – FontAwesome controls for WPF+UWP
