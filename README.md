@@ -632,6 +632,7 @@ $ starred --username yourname --repository awesome-stars --sort
 
 ## TypeScript 
 
+- [dicebear/dicebear](https://github.com/dicebear/dicebear) – DiceBear is an avatar library for designers and developers. 🌍
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) – Easy to maintain open source documentation websites.
 - [lindylearn/unclutter](https://github.com/lindylearn/unclutter) – A modern reader mode and article library for your browser.
 - [alexta69/metube](https://github.com/alexta69/metube) – youtube-dl web UI
