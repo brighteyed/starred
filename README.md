@@ -34,6 +34,7 @@ $ starred --username yourname --repository awesome-stars --sort
 
 ## Stars
 
+  - [Batchfile](#batchfile)
   - [C](#c)
   - [C#](#c#)
   - [C++](#c++)
@@ -63,6 +64,10 @@ $ starred --username yourname --repository awesome-stars --sort
   - [Shell](#shell)
   - [TypeScript](#typescript)
   - [Vue](#vue)
+
+## Batchfile 
+
+- [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) – Scripts to build a trimmed-down Windows 11 image.
 
 ## C 
 
