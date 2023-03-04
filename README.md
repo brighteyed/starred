@@ -526,7 +526,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [DavidMStraub/homeconnect](https://github.com/DavidMStraub/homeconnect) – 
 - [osresearch/hcpy](https://github.com/osresearch/hcpy) – Python tool to talk to Home Connect appliances over the local network (no cloud required)
 - [varunsridharan/github-gitea-mirror](https://github.com/varunsridharan/github-gitea-mirror) – Simple Python Script To Mirror Repository From Github To Gitea
-- [evilsocket/opensnitch](https://github.com/evilsocket/opensnitch) – OpenSnitch is a GNU/Linux port of the Little Snitch application firewall
+- [evilsocket/opensnitch](https://github.com/evilsocket/opensnitch) – OpenSnitch is a GNU/Linux interactive application firewall inspired by LittleSnitch.
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) – An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) – Terminal session recorder 📹
 - [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) – The official source code repository for the calibre ebook manager
@@ -579,7 +579,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [pympler/pympler](https://github.com/pympler/pympler) – Development tool to measure, monitor and analyze the memory behavior of Python objects in a running Python application.
 - [matplotlib/matplotlib](https://github.com/matplotlib/matplotlib) – matplotlib: plotting with Python
 - [mwaskom/seaborn](https://github.com/mwaskom/seaborn) – Statistical data visualization in Python
-- [plotly/plotly.py](https://github.com/plotly/plotly.py) – The interactive graphing library for Python (includes Plotly Express) :sparkles:
+- [plotly/plotly.py](https://github.com/plotly/plotly.py) – The interactive graphing library for Python :sparkles: This project now includes Plotly Express!
 - [wireservice/leather](https://github.com/wireservice/leather) – Python charting for 80% of humans.
 - [mozilla/bleach](https://github.com/mozilla/bleach) – Bleach is an allowed-list-based HTML sanitizing library that escapes or strips markup and attributes
 - [MortenHannemose/pytorch-vfi-cft](https://github.com/MortenHannemose/pytorch-vfi-cft) – Generate slow-motion videos by interpolating more frames
