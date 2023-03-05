@@ -526,7 +526,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [DavidMStraub/homeconnect](https://github.com/DavidMStraub/homeconnect) – 
 - [osresearch/hcpy](https://github.com/osresearch/hcpy) – Python tool to talk to Home Connect appliances over the local network (no cloud required)
 - [varunsridharan/github-gitea-mirror](https://github.com/varunsridharan/github-gitea-mirror) – Simple Python Script To Mirror Repository From Github To Gitea
-- [evilsocket/opensnitch](https://github.com/evilsocket/opensnitch) – OpenSnitch is a GNU/Linux interactive application firewall inspired by LittleSnitch.
+- [evilsocket/opensnitch](https://github.com/evilsocket/opensnitch) – OpenSnitch is a GNU/Linux interactive application firewall inspired by Little Snitch.
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) – An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) – Terminal session recorder 📹
 - [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) – The official source code repository for the calibre ebook manager
