@@ -434,6 +434,7 @@ $ starred --username yourname --repository awesome-stars --sort
 
 ## Java 
 
+- [syncthing/syncthing-android](https://github.com/syncthing/syncthing-android) – Wrapper of syncthing for Android.
 - [geogebra/geogebra](https://github.com/geogebra/geogebra) – GeoGebra apps (mirror)
 
 ## JavaScript 
