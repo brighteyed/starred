@@ -357,7 +357,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [jroimartin/gocui](https://github.com/jroimartin/gocui) – Minimalist Go package aimed at creating Console User Interfaces.
 - [hashicorp/vault](https://github.com/hashicorp/vault) – A tool for secrets management, encryption as a service, and privileged access management
 - [jesseduffield/horcrux](https://github.com/jesseduffield/horcrux) – Split your file into encrypted fragments so that you don't need to remember a passcode
-- [fyne-io/fyne](https://github.com/fyne-io/fyne) – Cross platform GUI in Go inspired by Material Design
+- [fyne-io/fyne](https://github.com/fyne-io/fyne) – Cross platform GUI toolkit in Go inspired by Material Design
 - [jesseduffield/horcrux-ui](https://github.com/jesseduffield/horcrux-ui) – GUI for horcrux
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) – The lazier way to manage everything docker
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) – simple terminal UI for git commands
