@@ -71,6 +71,7 @@ $ starred --username yourname --repository awesome-stars --sort
 
 ## C 
 
+- [woltapp/blurhash](https://github.com/woltapp/blurhash) – A very compact representation of a placeholder for an image.
 - [jordansissel/xdotool](https://github.com/jordansissel/xdotool) – fake keyboard/mouse input, window management, and more
 - [pygame/pygame](https://github.com/pygame/pygame) – 🐍🎮 pygame (the library) is a Free and Open Source python programming language library for making multimedia applications like games built on top of the excellent SDL library. C, Python, Native, OpenGL.
 - [Keychron/qmk_firmware](https://github.com/Keychron/qmk_firmware) – Open-source keyboard firmware for Atmel AVR and Arm USB families
@@ -524,7 +525,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [JuanPotato/Legofy](https://github.com/JuanPotato/Legofy) – Make images look as if they are made out of 1x1 LEGO blocks
 - [edgedb/edgedb](https://github.com/edgedb/edgedb) – A graph-relational database with declarative schema, built-in migration system, and a next-generation query language
 - [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) – Project documentation with Markdown.
-- [datafold/data-diff](https://github.com/datafold/data-diff) – Efficiently diff data in or across relational databases
+- [datafold/data-diff](https://github.com/datafold/data-diff) – Compare tables within or across databases
 - [anufrievroman/calcure](https://github.com/anufrievroman/calcure) – Modern TUI calendar and task manager with minimal and customizable UI.
 - [DavidMStraub/homeconnect](https://github.com/DavidMStraub/homeconnect) – 
 - [osresearch/hcpy](https://github.com/osresearch/hcpy) – Python tool to talk to Home Connect appliances over the local network (no cloud required)
