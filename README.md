@@ -133,6 +133,7 @@ $ starred --username yourname --repository awesome-stars --sort
 
 ## C++ 
 
+- [godotengine/godot](https://github.com/godotengine/godot) – Godot Engine – Multi-platform 2D and 3D game engine
 - [facebook/watchman](https://github.com/facebook/watchman) – Watches files and records, or triggers actions, when they change.
 - [qpdf/qpdf](https://github.com/qpdf/qpdf) – Primary QPDF source code and documentation
 - [GothenburgBitFactory/taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior) – Taskwarrior - Command line Task Management
@@ -334,7 +335,6 @@ $ starred --username yourname --repository awesome-stars --sort
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) – Open Source Continuous File Synchronization
 - [fogleman/gg](https://github.com/fogleman/gg) – Go Graphics - 2D rendering in Go with a simple API.
 - [cli/cli](https://github.com/cli/cli) – GitHub’s official command line tool
-- [profclems/glab](https://github.com/profclems/glab) – The GitLab CLI tool. Archived: now officially adopted by GitLab as the official CLI tool and maintained at https://gitlab.com/gitlab-org/cli. See https://github.com/profclems/glab/issues/983
 - [goproxy/goproxy](https://github.com/goproxy/goproxy) – A minimalist Go module proxy handler.
 - [gomods/athens](https://github.com/gomods/athens) – A Go module datastore and proxy
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) – Deliver Go binaries as fast and easily as possible
