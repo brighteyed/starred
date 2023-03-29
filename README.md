@@ -421,7 +421,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [dolthub/dolt](https://github.com/dolthub/dolt) – Dolt – Git for Data
 - [umputun/dkll](https://github.com/umputun/dkll) – Agent, server and client to collect and access logs in dockerized infrastructure
 - [hoanhan101/ultimate-go](https://github.com/hoanhan101/ultimate-go) – The Ultimate Go Study Guide
-- [go-gitea/gitea](https://github.com/go-gitea/gitea) – Git with a cup of tea, painless self-hosted git service
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) – Git with a cup of tea! Painless self-hosted all-in-one software development service, includes Git hosting, code review, team collaboration, package registry and CI/CD
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) – The Prometheus monitoring system and time series database.
 - [mmcgrana/gobyexample](https://github.com/mmcgrana/gobyexample) – Go by Example
 - [quii/learn-go-with-tests](https://github.com/quii/learn-go-with-tests) – Learn Go with test-driven development
