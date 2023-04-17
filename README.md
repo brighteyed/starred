@@ -531,6 +531,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [DavidMStraub/homeconnect](https://github.com/DavidMStraub/homeconnect) – 
 - [osresearch/hcpy](https://github.com/osresearch/hcpy) – Python tool to talk to Home Connect appliances over the local network (no cloud required)
 - [varunsridharan/github-gitea-mirror](https://github.com/varunsridharan/github-gitea-mirror) – Simple Python Script To Mirror Repository From Github To Gitea
+- [alexta69/metube](https://github.com/alexta69/metube) – youtube-dl web UI
 - [evilsocket/opensnitch](https://github.com/evilsocket/opensnitch) – OpenSnitch is a GNU/Linux interactive application firewall inspired by Little Snitch.
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) – An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) – Terminal session recorder 📹
@@ -645,7 +646,6 @@ $ starred --username yourname --repository awesome-stars --sort
 - [dicebear/dicebear](https://github.com/dicebear/dicebear) – DiceBear is an avatar library for designers and developers. 🌍
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) – Easy to maintain open source documentation websites.
 - [lindylearn/unclutter](https://github.com/lindylearn/unclutter) – A modern reader mode and article library for your browser.
-- [alexta69/metube](https://github.com/alexta69/metube) – youtube-dl web UI
 - [axentix/axentix](https://github.com/axentix/axentix) – The framework mixing fully customizable components and utility-first classes, leaving the design choice to the developer.
 - [MaxLeiter/Drift](https://github.com/MaxLeiter/Drift) – Drift is a self-hostable Gist and paste service. Built with Next.js 13 and React Server Components.
 - [gristlabs/grist-core](https://github.com/gristlabs/grist-core) – Grist is the evolution of spreadsheets.
