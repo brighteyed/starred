@@ -662,7 +662,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [actions/starter-workflows](https://github.com/actions/starter-workflows) – Accelerating new GitHub Actions workflows
 - [coder/code-server](https://github.com/coder/code-server) – VS Code in the browser
 - [material-motion/direct](https://github.com/material-motion/direct) – Direct is a tool that helps motion designers provide clear, precise motion direction for engineers.
-- [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) – Headless Chrome Node.js API
+- [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) – Node.js API for Chrome
 - [microsoft/playwright](https://github.com/microsoft/playwright) – Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [caprover/caprover](https://github.com/caprover/caprover) – Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [grafana/grafana](https://github.com/grafana/grafana) – The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
