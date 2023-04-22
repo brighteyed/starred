@@ -285,7 +285,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour) – Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) – Style definitions for nice terminal layouts 👄
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) – TUI components for Bubble Tea 🫧
-- [knipferrc/fm](https://github.com/knipferrc/fm) – A terminal based file manager
+- [mistakenelf/fm](https://github.com/mistakenelf/fm) – A terminal based file manager
 - [x-motemen/gobump](https://github.com/x-motemen/gobump) – Bumps up Go program version
 - [traefik/yaegi](https://github.com/traefik/yaegi) – Yaegi is Another Elegant Go Interpreter
 - [robfig/cron](https://github.com/robfig/cron) – a cron library for go
@@ -522,6 +522,7 @@ $ starred --username yourname --repository awesome-stars --sort
 
 ## Python 
 
+- [fogleman/Minecraft](https://github.com/fogleman/Minecraft) – Simple Minecraft-inspired program using Python and Pyglet
 - [huggingface/transformers](https://github.com/huggingface/transformers) – 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [JuanPotato/Legofy](https://github.com/JuanPotato/Legofy) – Make images look as if they are made out of 1x1 LEGO blocks
 - [edgedb/edgedb](https://github.com/edgedb/edgedb) – A graph-relational database with declarative schema, built-in migration system, and a next-generation query language
