@@ -544,7 +544,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [1132719438/starred](https://github.com/1132719438/starred) – creating your own Awesome List by GitHub stars!
 - [bram2w/baserow](https://github.com/bram2w/baserow) – Baserow is an open source no-code database tool and Airtable alternative. This is a mirrored repository, the official one is hosted on https://gitlab.com/bramw/baserow.
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) – 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
-- [sissbruecker/linkding](https://github.com/sissbruecker/linkding) – Self-hosted bookmark service
+- [sissbruecker/linkding](https://github.com/sissbruecker/linkding) – Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
 - [dbcli/pgcli](https://github.com/dbcli/pgcli) – Postgres CLI with autocompletion and syntax highlighting
 - [ansible/ansible](https://github.com/ansible/ansible) – Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.
 - [josegonzalez/python-github-backup](https://github.com/josegonzalez/python-github-backup) – backup a github user or organization
