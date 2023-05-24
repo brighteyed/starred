@@ -213,6 +213,7 @@ $ starred --username yourname --repository awesome-stars --sort
 
 ## Go 
 
+- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) – Your CLI home video recorder 📼
 - [uptrace/bun](https://github.com/uptrace/bun) – SQL-first Golang ORM
 - [volatiletech/sqlboiler](https://github.com/volatiletech/sqlboiler) – Generate a Go ORM tailored to your database schema.
 - [zladovan/gorched](https://github.com/zladovan/gorched) – Gorched is terminal based game written in Go inspired by "The Mother of all games" Scorched Earth
