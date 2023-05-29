@@ -87,7 +87,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) – 🎥 Command line video player
 - [yrutschle/sslh](https://github.com/yrutschle/sslh) – Applicative Protocol Multiplexer (e.g. share SSH and HTTPS on the same port)
 - [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg) – Mirror of https://git.ffmpeg.org/ffmpeg.git
-- [stedolan/jq](https://github.com/stedolan/jq) – Command-line JSON processor
+- [jqlang/jq](https://github.com/jqlang/jq) – Command-line JSON processor
 - [arut/nginx-rtmp-module](https://github.com/arut/nginx-rtmp-module) – NGINX-based Media Streaming Server
 - [symisc/vedis](https://github.com/symisc/vedis) – An Embedded Implementation of Redis
 - [dekuNukem/daytripper](https://github.com/dekuNukem/daytripper) – Hide-My-Windows Laser Tripwire
