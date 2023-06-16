@@ -292,7 +292,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [robfig/cron](https://github.com/robfig/cron) – a cron library for go
 - [stashapp/stash](https://github.com/stashapp/stash) – An organizer for your porn, written in Go.  Documentation:  https://docs.stashapp.cc
 - [itchyny/gojq](https://github.com/itchyny/gojq) – Pure Go implementation of jq
-- [codenotary/immudb](https://github.com/codenotary/immudb) – immudb - immutable database based on zero trust, SQL and Key-Value, tamperproof, data change history
+- [codenotary/immudb](https://github.com/codenotary/immudb) – immudb - immutable database based on zero trust, SQL/Key-Value/Document model, tamperproof, data change history
 - [GoogleChromeLabs/go-hackernews](https://github.com/GoogleChromeLabs/go-hackernews) – A Hacker News client written in Go
 - [zyedidia/micro](https://github.com/zyedidia/micro) – A modern and intuitive terminal-based text editor
 - [gopherjs/gopherjs](https://github.com/gopherjs/gopherjs) – A compiler from Go to JavaScript for running Go code in a browser
