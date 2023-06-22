@@ -52,6 +52,7 @@ $ starred --username yourname --repository awesome-stars --sort
   - [Jinja](#jinja)
   - [Jupyter Notebook](#jupyter-notebook)
   - [Kotlin](#kotlin)
+  - [MDX](#mdx)
   - [Makefile](#makefile)
   - [Others](#others)
   - [PHP](#php)
@@ -219,7 +220,6 @@ $ starred --username yourname --repository awesome-stars --sort
 - [zladovan/gorched](https://github.com/zladovan/gorched) – Gorched is terminal based game written in Go inspired by "The Mother of all games" Scorched Earth
 - [Masterminds/sprig](https://github.com/Masterminds/sprig) – Useful template functions for Go templates.
 - [elves/elvish](https://github.com/elves/elvish) – Elvish = Expressive Programming Language + Versatile Interactive Shell
-- [wailsapp/wails](https://github.com/wailsapp/wails) – Create beautiful applications using Go
 - [PuerkitoBio/goquery](https://github.com/PuerkitoBio/goquery) – A little like that j-thing, only in Go.
 - [dewey/feedbridge](https://github.com/dewey/feedbridge) – Plugin based RSS feed generator for sites that don't offer any. Serves RSS, Atom and JSON Feeds.
 - [tidwall/gjson](https://github.com/tidwall/gjson) – Get JSON values quickly - JSON parser for Go
@@ -489,6 +489,10 @@ $ starred --username yourname --repository awesome-stars --sort
 - [jellyfin/jellyfin-android](https://github.com/jellyfin/jellyfin-android) – Android Client for Jellyfin
 - [square/picasso](https://github.com/square/picasso) – A powerful image downloading and caching library for Android
 - [muzei/muzei](https://github.com/muzei/muzei) – Muzei Live Wallpaper for Android
+
+## MDX 
+
+- [wailsapp/wails](https://github.com/wailsapp/wails) – Create beautiful applications using Go
 
 ## Makefile 
 
