@@ -177,7 +177,6 @@ $ starred --username yourname --repository awesome-stars --sort
 ## CSS 
 
 - [jgthms/bulma](https://github.com/jgthms/bulma) – Modern CSS framework based on Flexbox
-- [astrit/css.gg](https://github.com/astrit/css.gg) – 700+ Pure CSS, SVG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API
 - [theicfire/vimsheet](https://github.com/theicfire/vimsheet) – Vim cheat sheet from beginners to pros
 - [30-seconds/30-seconds-of-css](https://github.com/30-seconds/30-seconds-of-css) – Short CSS code snippets for all your development needs
 - [animate-css/animate.css](https://github.com/animate-css/animate.css) – 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
@@ -228,7 +227,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [fsnotify/fsnotify](https://github.com/fsnotify/fsnotify) – Cross-platform file system notifications for Go.
 - [edgedb/edgedb-go](https://github.com/edgedb/edgedb-go) – The official Go client library for EdgeDB
 - [adnanh/webhook](https://github.com/adnanh/webhook) – webhook is a lightweight incoming webhook server to run shell commands
-- [life4/genesis](https://github.com/life4/genesis) – All generic functions for Go 1.18 you ever need!
+- [life4/genesis](https://github.com/life4/genesis) – All generic functions for Go you ever need!
 - [golang-jwt/jwt](https://github.com/golang-jwt/jwt) – Community maintained clone of https://github.com/dgrijalva/jwt-go
 - [go-oauth2/oauth2](https://github.com/go-oauth2/oauth2) – OAuth 2.0 server library for the Go programming language.
 - [alexedwards/scs](https://github.com/alexedwards/scs) – HTTP Session Management for Go
@@ -632,6 +631,7 @@ $ starred --username yourname --repository awesome-stars --sort
 
 ## SCSS 
 
+- [astrit/css.gg](https://github.com/astrit/css.gg) – 700+ Pure CSS, SVG, PNG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API and 6000 glyphs
 - [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) – My cheatsheets
 
 ## Shell 
