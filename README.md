@@ -440,6 +440,8 @@ $ starred --username yourname --repository awesome-stars --sort
 
 ## JavaScript 
 
+- [webpro/reveal-md](https://github.com/webpro/reveal-md) – reveal.js on steroids! Get beautiful reveal.js presentations from any Markdown file
+- [hakimel/reveal.js](https://github.com/hakimel/reveal.js) – The HTML Presentation Framework
 - [immich-app/CLI](https://github.com/immich-app/CLI) – CLI utilities for Immich to help with upload images and videos from a location on a desktop machine or a server to the Immich's server
 - [illuspas/Node-Media-Server](https://github.com/illuspas/Node-Media-Server) – A Node.js implementation of RTMP/HTTP-FLV/WS-FLV/HLS/DASH/MP4 Media Server
 - [qmk/qmk_configurator](https://github.com/qmk/qmk_configurator) – The QMK Configurator
