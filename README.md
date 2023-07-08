@@ -613,6 +613,7 @@ $ starred --username yourname --repository awesome-stars --sort
 
 ## Rust 
 
+- [Schniz/fnm](https://github.com/Schniz/fnm) – 🚀 Fast and simple Node.js version manager, built in Rust
 - [getzola/zola](https://github.com/getzola/zola) – A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) – Hurl, run and test HTTP requests with plain text.
 - [shadowsocks/shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust) – A Rust port of shadowsocks
