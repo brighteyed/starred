@@ -384,9 +384,9 @@ $ starred --username yourname --repository awesome-stars --sort
 - [etcd-io/bbolt](https://github.com/etcd-io/bbolt) – An embedded key/value database for Go.
 - [vmihailenco/taskq](https://github.com/vmihailenco/taskq) – Golang asynchronous task/job queue with Redis, SQS, IronMQ, and in-memory backends
 - [umputun/reproxy](https://github.com/umputun/reproxy) – Simple edge server / reverse proxy
-- [gorilla/websocket](https://github.com/gorilla/websocket) – A fast, well-tested and widely used WebSocket implementation for Go.
+- [gorilla/websocket](https://github.com/gorilla/websocket) – Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.
 - [gorilla/schema](https://github.com/gorilla/schema) – Package gorilla/schema fills a struct with form values.
-- [gorilla/handlers](https://github.com/gorilla/handlers) – A collection of useful middleware for Go HTTP services & web applications 🛃
+- [gorilla/handlers](https://github.com/gorilla/handlers) – Package gorilla/handlers is a collection of useful middleware for Go HTTP services & web applications 🛃
 - [gorilla/sessions](https://github.com/gorilla/sessions) – Package gorilla/sessions provides cookie and filesystem sessions and infrastructure for custom session backends.
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) – AI-Powered Photos App for the Decentralized Web 🌈💎✨
 - [maxence-charriere/go-app](https://github.com/maxence-charriere/go-app) – A package to build progressive web apps with Go programming language and WebAssembly.
@@ -613,6 +613,7 @@ $ starred --username yourname --repository awesome-stars --sort
 
 ## Rust 
 
+- [orf/gping](https://github.com/orf/gping) – Ping, but with a graph
 - [Schniz/fnm](https://github.com/Schniz/fnm) – 🚀 Fast and simple Node.js version manager, built in Rust
 - [getzola/zola](https://github.com/getzola/zola) – A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) – Hurl, run and test HTTP requests with plain text.
@@ -659,7 +660,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [MaxLeiter/Drift](https://github.com/MaxLeiter/Drift) – Drift is a self-hostable Gist and paste service. Built with Next.js 13 and React Server Components.
 - [immich-app/immich](https://github.com/immich-app/immich) – Self-hosted photo and video backup solution directly from your mobile phone.
 - [gristlabs/grist-core](https://github.com/gristlabs/grist-core) – Grist is the evolution of spreadsheets.
-- [laurent22/joplin](https://github.com/laurent22/joplin) – Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
+- [laurent22/joplin](https://github.com/laurent22/joplin) – Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
 - [pawelmalak/flame](https://github.com/pawelmalak/flame) – Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.
 - [porn-vault/porn-vault](https://github.com/porn-vault/porn-vault) – 💋 Manage your ever-growing porn collection. Using Vue & GraphQL
 - [jeffvli/sonixd](https://github.com/jeffvli/sonixd) – A full-featured Subsonic/Jellyfin compatible desktop music player
