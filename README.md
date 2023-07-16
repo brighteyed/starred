@@ -34,7 +34,6 @@ $ starred --username yourname --repository awesome-stars --sort
 
 ## Stars
 
-  - [Batchfile](#batchfile)
   - [C](#c)
   - [C#](#c#)
   - [C++](#c++)
@@ -65,10 +64,6 @@ $ starred --username yourname --repository awesome-stars --sort
   - [Shell](#shell)
   - [TypeScript](#typescript)
   - [Vue](#vue)
-
-## Batchfile 
-
-- [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) – Scripts to build a trimmed-down Windows 11 image.
 
 ## C 
 
@@ -219,7 +214,6 @@ $ starred --username yourname --repository awesome-stars --sort
 - [volatiletech/sqlboiler](https://github.com/volatiletech/sqlboiler) – Generate a Go ORM tailored to your database schema.
 - [zladovan/gorched](https://github.com/zladovan/gorched) – Gorched is terminal based game written in Go inspired by "The Mother of all games" Scorched Earth
 - [Masterminds/sprig](https://github.com/Masterminds/sprig) – Useful template functions for Go templates.
-- [elves/elvish](https://github.com/elves/elvish) – Elvish = Expressive Programming Language + Versatile Interactive Shell
 - [PuerkitoBio/goquery](https://github.com/PuerkitoBio/goquery) – A little like that j-thing, only in Go.
 - [dewey/feedbridge](https://github.com/dewey/feedbridge) – Plugin based RSS feed generator for sites that don't offer any. Serves RSS, Atom and JSON Feeds.
 - [tidwall/gjson](https://github.com/tidwall/gjson) – Get JSON values quickly - JSON parser for Go
@@ -444,7 +438,6 @@ $ starred --username yourname --repository awesome-stars --sort
 - [webpro/reveal-md](https://github.com/webpro/reveal-md) – reveal.js on steroids! Get beautiful reveal.js presentations from any Markdown file
 - [hakimel/reveal.js](https://github.com/hakimel/reveal.js) – The HTML Presentation Framework
 - [immich-app/CLI](https://github.com/immich-app/CLI) – CLI utilities for Immich to help with upload images and videos from a location on a desktop machine or a server to the Immich's server
-- [illuspas/Node-Media-Server](https://github.com/illuspas/Node-Media-Server) – A Node.js implementation of RTMP/HTTP-FLV/WS-FLV/HLS/DASH/MP4 Media Server
 - [qmk/qmk_configurator](https://github.com/qmk/qmk_configurator) – The QMK Configurator
 - [SadeghHayeri/GreenTunnel](https://github.com/SadeghHayeri/GreenTunnel) – GreenTunnel is an anti-censorship utility designed to bypass the DPI system that is put in place by various ISPs to block access to certain websites.
 - [asciinema/asciinema-player](https://github.com/asciinema/asciinema-player) – Web player for terminal session recordings
@@ -662,7 +655,6 @@ $ starred --username yourname --repository awesome-stars --sort
 - [gristlabs/grist-core](https://github.com/gristlabs/grist-core) – Grist is the evolution of spreadsheets.
 - [laurent22/joplin](https://github.com/laurent22/joplin) – Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
 - [pawelmalak/flame](https://github.com/pawelmalak/flame) – Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.
-- [porn-vault/porn-vault](https://github.com/porn-vault/porn-vault) – 💋 Manage your ever-growing porn collection. Using Vue & GraphQL
 - [jeffvli/sonixd](https://github.com/jeffvli/sonixd) – A full-featured Subsonic/Jellyfin compatible desktop music player
 - [material-components/material-components-web](https://github.com/material-components/material-components-web) – Modular and customizable Material Design UI components for the web
 - [banga/git-split-diffs](https://github.com/banga/git-split-diffs) – GitHub style split diffs in your terminal
