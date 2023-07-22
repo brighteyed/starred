@@ -121,7 +121,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [microsoft/microsoft-ui-xaml](https://github.com/microsoft/microsoft-ui-xaml) – Windows UI Library: the latest Windows 10 native controls and Fluent styles for your applications
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) – The Free Software Media System
 - [MediaBrowser/Emby](https://github.com/MediaBrowser/Emby) – Emby Server is a personal media server with apps on just about every device.
-- [mbdavid/LiteDB](https://github.com/mbdavid/LiteDB) – LiteDB - A .NET NoSQL Document Store in a single data file - https://www.litedb.org
+- [mbdavid/LiteDB](https://github.com/mbdavid/LiteDB) – LiteDB - A .NET NoSQL Document Store in a single data file
 - [dotnet/BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet) – Powerful .NET library for benchmarking
 - [microsoft/WPF-Samples](https://github.com/microsoft/WPF-Samples) – Repository for WPF related samples
 - [MaterialDesignInXAML/MaterialDesignInXamlToolkit](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit) – Google's Material Design in XAML & WPF, for C# & VB.Net.
