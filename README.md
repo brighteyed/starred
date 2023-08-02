@@ -189,7 +189,6 @@ $ starred --username yourname --repository awesome-stars --sort
 
 ## Dart 
 
-- [immich-app/immich](https://github.com/immich-app/immich) – Self-hosted photo and video backup solution directly from your mobile phone.
 - [GitJournal/GitJournal](https://github.com/GitJournal/GitJournal) – Mobile first Note Taking integrated with Git
 - [thielepaul/photoprism-mobile](https://github.com/thielepaul/photoprism-mobile) – Flutter App for PhotoPrism
 - [flutter/samples](https://github.com/flutter/samples) – A collection of Flutter examples and demos
@@ -361,7 +360,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) – The lazier way to manage everything docker
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) – simple terminal UI for git commands
 - [lima-vm/lima](https://github.com/lima-vm/lima) – Linux virtual machines, typically on macOS, for running containerd
-- [imdario/mergo](https://github.com/imdario/mergo) – Mergo: merging Go structs and maps since 2013
+- [darccio/mergo](https://github.com/darccio/mergo) – Mergo: merging Go structs and maps since 2013
 - [nektos/act](https://github.com/nektos/act) – Run your GitHub Actions locally 🚀
 - [brendonmatos/golive](https://github.com/brendonmatos/golive) – ⚡ Live views for GoLang with reactive HTML over WebSockets 🔌
 - [direnv/direnv](https://github.com/direnv/direnv) – unclutter your .profile
@@ -657,6 +656,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [lindylearn/unclutter](https://github.com/lindylearn/unclutter) – A modern reader mode and article library for your browser.
 - [axentix/axentix](https://github.com/axentix/axentix) – The framework mixing fully customizable components and utility-first classes, leaving the design choice to the developer.
 - [MaxLeiter/Drift](https://github.com/MaxLeiter/Drift) – Drift is a self-hostable Gist and paste service. Built with Next.js 13 and React Server Components.
+- [immich-app/immich](https://github.com/immich-app/immich) – Self-hosted photo and video backup solution directly from your mobile phone.
 - [gristlabs/grist-core](https://github.com/gristlabs/grist-core) – Grist is the evolution of spreadsheets.
 - [laurent22/joplin](https://github.com/laurent22/joplin) – Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
 - [pawelmalak/flame](https://github.com/pawelmalak/flame) – Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.
