@@ -361,7 +361,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [jesseduffield/horcrux-ui](https://github.com/jesseduffield/horcrux-ui) – GUI for horcrux
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) – The lazier way to manage everything docker
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) – simple terminal UI for git commands
-- [lima-vm/lima](https://github.com/lima-vm/lima) – Linux virtual machines, typically on macOS, for running containerd
+- [lima-vm/lima](https://github.com/lima-vm/lima) – Linux virtual machines
 - [darccio/mergo](https://github.com/darccio/mergo) – Mergo: merging Go structs and maps since 2013
 - [nektos/act](https://github.com/nektos/act) – Run your GitHub Actions locally 🚀
 - [brendonmatos/golive](https://github.com/brendonmatos/golive) – ⚡ Live views for GoLang with reactive HTML over WebSockets 🔌
