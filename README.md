@@ -580,7 +580,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [maxhumber/gif](https://github.com/maxhumber/gif) – The matplotlib Animation Extension
 - [zedr/clean-code-python](https://github.com/zedr/clean-code-python) – :bathtub: Clean Code concepts adapted for Python
 - [kkroening/ffmpeg-python](https://github.com/kkroening/ffmpeg-python) – Python bindings for FFmpeg - with complex filtering support
-- [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) – Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 400 universities from 60 countries including Stanford, MIT, Harvard, and Cambridge.
+- [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) – Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 universities from 70 countries including Stanford, MIT, Harvard, and Cambridge.
 - [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) – Automated nginx proxy for Docker containers using docker-gen
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) – Command-line program to download videos from YouTube.com and other video sites
 - [SPSCommerce/redlock-py](https://github.com/SPSCommerce/redlock-py) – Redis distributed locks in Python
