@@ -121,6 +121,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [microsoft/microsoft-ui-xaml](https://github.com/microsoft/microsoft-ui-xaml) – Windows UI Library: the latest Windows 10 native controls and Fluent styles for your applications
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) – The Free Software Media System
 - [MediaBrowser/Emby](https://github.com/MediaBrowser/Emby) – Emby Server is a personal media server with apps on just about every device.
+- [ProtonVPN/win-app](https://github.com/ProtonVPN/win-app) – Official ProtonVPN Windows app
 - [mbdavid/LiteDB](https://github.com/mbdavid/LiteDB) – LiteDB - A .NET NoSQL Document Store in a single data file
 - [dotnet/BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet) – Powerful .NET library for benchmarking
 - [microsoft/WPF-Samples](https://github.com/microsoft/WPF-Samples) – Repository for WPF related samples
@@ -157,7 +158,6 @@ $ starred --username yourname --repository awesome-stars --sort
 - [trevorsandy/lpub3d](https://github.com/trevorsandy/lpub3d) – An LDraw™ editor for LEGO® style digital building instructions.
 - [leozide/leocad](https://github.com/leozide/leocad) – A CAD application for creating virtual LEGO models
 - [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) – Tesseract Open Source OCR Engine (main repository)
-- [ProtonVPN/win-app](https://github.com/ProtonVPN/win-app) – Official ProtonVPN Windows app
 - [RedisInsight/RedisDesktopManager](https://github.com/RedisInsight/RedisDesktopManager) – 
 - [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) – Protocol Buffers - Google's data interchange format
 - [grpc/grpc](https://github.com/grpc/grpc) – The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
