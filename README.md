@@ -496,12 +496,12 @@ $ starred --username yourname --repository awesome-stars --sort
 
 ## Makefile 
 
-- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) – A list of Free Software network services and web applications which can be hosted on your own servers
 - [jncraton/rebrickable-sqlite](https://github.com/jncraton/rebrickable-sqlite) – Set of scripts to create a local copy of the Rebrickable database
 
 ## Others 
 
 - [sedyh/awesome-ebitengine](https://github.com/sedyh/awesome-ebitengine) – A curated list of awesome Ebitengine frameworks, libraries and software
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) – A list of Free Software network services and web applications which can be hosted on your own servers
 - [GyanD/codexffmpeg](https://github.com/GyanD/codexffmpeg) – Support for https://www.gyan.dev/ffmpeg
 - [tomzorz/awesome-uwp](https://github.com/tomzorz/awesome-uwp) – Awesome UWP libs
 - [Upcycle-Electronics/game-and-watch-hardware](https://github.com/Upcycle-Electronics/game-and-watch-hardware) – 
