@@ -435,6 +435,7 @@ $ starred --username yourname --repository awesome-stars --sort
 
 ## Java 
 
+- [AntennaPod/AntennaPod](https://github.com/AntennaPod/AntennaPod) – A podcast manager for Android
 - [syncthing/syncthing-android](https://github.com/syncthing/syncthing-android) – Wrapper of syncthing for Android.
 - [geogebra/geogebra](https://github.com/geogebra/geogebra) – GeoGebra apps (mirror)
 
@@ -484,6 +485,7 @@ $ starred --username yourname --repository awesome-stars --sort
 
 ## Kotlin 
 
+- [OxygenCobalt/Auxio](https://github.com/OxygenCobalt/Auxio) – A simple, rational music player for android
 - [VREMSoftwareDevelopment/WiFiAnalyzer](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer) – Android application to analyze WiFi signals.
 - [Waboodoo/HTTP-Shortcuts](https://github.com/Waboodoo/HTTP-Shortcuts) – Android app to create home screen shortcuts that trigger arbitrary HTTP requests
 - [shadowsocks/shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) – A shadowsocks client for Android
