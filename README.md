@@ -560,7 +560,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [ivandokov/phockup](https://github.com/ivandokov/phockup) – Media sorting tool to organize photos and videos from your camera in folders by year, month and day.
 - [jellyfin/jellyfin-mpv-shim](https://github.com/jellyfin/jellyfin-mpv-shim) – MPV Cast Client for Jellyfin
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) – A youtube-dl fork with additional features and fixes
-- [jftuga/less-Windows](https://github.com/jftuga/less-Windows) – GNU less compiled for Windows 10. Stand-alone version with no dependencies.
+- [jftuga/less-Windows](https://github.com/jftuga/less-Windows) – GNU less compiled for Windows 10 & 11. Stand-alone version with no dependencies.
 - [decalage2/oletools](https://github.com/decalage2/oletools) – oletools - python tools to analyze MS OLE2 files (Structured Storage, Compound File Binary Format) and MS Office documents, for malware analysis, forensics and debugging.
 - [sethblack/python-gift-exchange](https://github.com/sethblack/python-gift-exchange) – pyge: Holiday Gift Exchange Picker
 - [WyattBlue/auto-editor](https://github.com/WyattBlue/auto-editor) – Auto-Editor: Effort free video editing!
