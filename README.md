@@ -371,7 +371,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [golobby/config](https://github.com/golobby/config) – A lightweight yet powerful configuration manager for the Go programming language
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) – A process for automating Docker container base image updates.
 - [evanw/esbuild](https://github.com/evanw/esbuild) – An extremely fast bundler for the web
-- [antonmedv/fx](https://github.com/antonmedv/fx) – Terminal JSON viewer
+- [antonmedv/fx](https://github.com/antonmedv/fx) – Terminal JSON viewer & processor
 - [stretchr/testify](https://github.com/stretchr/testify) – A toolkit with common assertions and mocks that plays nicely with the standard library
 - [jessevdk/go-flags](https://github.com/jessevdk/go-flags) – go command line option parser
 - [VKCOM/joy4](https://github.com/VKCOM/joy4) – Golang audio/video library and streaming server
