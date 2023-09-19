@@ -441,6 +441,7 @@ $ starred --username yourname --repository awesome-stars --sort
 
 ## JavaScript 
 
+- [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) – Self-hosted audiobook and podcast server
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) – &lt;/&gt; htmx - high power tools for HTML
 - [webpro/reveal-md](https://github.com/webpro/reveal-md) – reveal.js on steroids! Get beautiful reveal.js presentations from any Markdown file
 - [hakimel/reveal.js](https://github.com/hakimel/reveal.js) – The HTML Presentation Framework
@@ -591,7 +592,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [pika/pika](https://github.com/pika/pika) – Pure Python RabbitMQ/AMQP 0-9-1 client library
 - [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub) – Typed interactions with the GitHub API v3
 - [microservices-demo/microservices-demo](https://github.com/microservices-demo/microservices-demo) – Deployment scripts & config for Sock Shop
-- [coleifer/peewee](https://github.com/coleifer/peewee) – a small, expressive orm -- supports postgresql, mysql and sqlite
+- [coleifer/peewee](https://github.com/coleifer/peewee) – a small, expressive orm -- supports postgresql, mysql, sqlite and cockroachdb
 - [pympler/pympler](https://github.com/pympler/pympler) – Development tool to measure, monitor and analyze the memory behavior of Python objects in a running Python application.
 - [matplotlib/matplotlib](https://github.com/matplotlib/matplotlib) – matplotlib: plotting with Python
 - [mwaskom/seaborn](https://github.com/mwaskom/seaborn) – Statistical data visualization in Python
