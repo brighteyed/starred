@@ -410,7 +410,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [schollz/croc](https://github.com/schollz/croc) – Easily and securely send things from one computer to another :crocodile: :package:
 - [MichaelMure/git-bug](https://github.com/MichaelMure/git-bug) – Distributed, offline-first bug tracker embedded in git, with bridges
 - [akrylysov/pogreb](https://github.com/akrylysov/pogreb) – Embedded key-value store for read-heavy workloads written in Go
-- [harness/drone](https://github.com/harness/drone) – Drone is a Container-Native, Continuous Delivery Platform
+- [harness/gitness](https://github.com/harness/gitness) – Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery.
 - [coder/sshcode](https://github.com/coder/sshcode) – Run VS Code on any server over SSH.
 - [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) – Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.
 - [mholt/timeliner](https://github.com/mholt/timeliner) – All your digital life on a single timeline, stored locally
