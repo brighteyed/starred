@@ -62,7 +62,6 @@ $ starred --username yourname --repository awesome-stars --sort
   - [SCSS](#scss)
   - [Shell](#shell)
   - [TypeScript](#typescript)
-  - [Vue](#vue)
 
 ## C 
 
@@ -677,8 +676,4 @@ $ starred --username yourname --repository awesome-stars --sort
 - [grafana/grafana](https://github.com/grafana/grafana) – The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [nodegui/react-nodegui](https://github.com/nodegui/react-nodegui) – Build performant, native and cross-platform desktop applications with native React + powerful CSS like styling.🚀
 - [nathankellenicki/node-poweredup](https://github.com/nathankellenicki/node-poweredup) – A Javascript module to interface with LEGO Powered Up components.
-
-## Vue 
-
-- [bastienwirtz/homer](https://github.com/bastienwirtz/homer) – A very simple static homepage for your server.
 
