@@ -440,6 +440,7 @@ $ starred --username yourname --repository awesome-stars --sort
 
 ## JavaScript 
 
+- [usebruno/bruno](https://github.com/usebruno/bruno) – Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
 - [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) – Self-hosted audiobook and podcast server
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) – &lt;/&gt; htmx - high power tools for HTML
 - [webpro/reveal-md](https://github.com/webpro/reveal-md) – reveal.js on steroids! Get beautiful reveal.js presentations from any Markdown file
