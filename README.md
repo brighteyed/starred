@@ -208,6 +208,7 @@ $ starred --username yourname --repository awesome-stars --sort
 
 ## Go 
 
+- [a-h/templ](https://github.com/a-h/templ) – A language for writing HTML user interfaces in Go.
 - [jmorganca/ollama](https://github.com/jmorganca/ollama) – Get up and running with Llama 2 and other large language models locally
 - [cosmtrek/air](https://github.com/cosmtrek/air) – ☁️ Live reload for Go apps
 - [usememos/memos](https://github.com/usememos/memos) – A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts
