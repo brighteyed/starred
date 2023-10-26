@@ -174,7 +174,7 @@ $ starred --username yourname --repository awesome-stars --sort
 
 - [jgthms/bulma](https://github.com/jgthms/bulma) – Modern CSS framework based on Flexbox
 - [theicfire/vimsheet](https://github.com/theicfire/vimsheet) – Vim cheat sheet from beginners to pros
-- [30-seconds/30-seconds-of-css](https://github.com/30-seconds/30-seconds-of-css) – Short CSS code snippets for all your development needs
+- [Chalarangelo/30-seconds-of-css](https://github.com/Chalarangelo/30-seconds-of-css) – Short CSS code snippets for all your development needs
 - [animate-css/animate.css](https://github.com/animate-css/animate.css) – 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
 - [coredns/coredns.io](https://github.com/coredns/coredns.io) – CoreDNS website
 
