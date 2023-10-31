@@ -211,7 +211,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [a-h/templ](https://github.com/a-h/templ) – A language for writing HTML user interfaces in Go.
 - [jmorganca/ollama](https://github.com/jmorganca/ollama) – Get up and running with Llama 2 and other large language models locally
 - [cosmtrek/air](https://github.com/cosmtrek/air) – ☁️ Live reload for Go apps
-- [usememos/memos](https://github.com/usememos/memos) – A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts
+- [usememos/memos](https://github.com/usememos/memos) – A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts.
 - [samber/lo](https://github.com/samber/lo) – 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) – Your CLI home video recorder 📼
 - [uptrace/bun](https://github.com/uptrace/bun) – SQL-first Golang ORM
