@@ -472,7 +472,6 @@ $ starred --username yourname --repository awesome-stars --sort
 - [chaijs/chai](https://github.com/chaijs/chai) – BDD / TDD assertion framework for node.js and the browser that can be paired with any testing framework.
 - [postmanlabs/newman](https://github.com/postmanlabs/newman) – Newman is a command-line collection runner for Postman
 - [plotly/plotly.js](https://github.com/plotly/plotly.js) – Open-source JavaScript charting library behind Plotly and Dash
-- [electron/electron-packager](https://github.com/electron/electron-packager) – Customize and package your Electron app with OS-specific bundles (.app, .exe, etc.) via JS or CLI
 
 ## Jinja 
 
