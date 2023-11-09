@@ -548,7 +548,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [hylang/hy](https://github.com/hylang/hy) – A dialect of Lisp that's embedded in Python
 - [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) – Your self hosted YouTube media server
 - [1132719438/starred](https://github.com/1132719438/starred) – creating your own Awesome List by GitHub stars!
-- [bram2w/baserow](https://github.com/bram2w/baserow) – Baserow is an open source no-code database tool and Airtable alternative. This is a mirrored repository, the official one is hosted on https://gitlab.com/bramw/baserow.
+- [bram2w/baserow](https://github.com/bram2w/baserow) – The official repository is hosted on https://gitlab.com/bramw/baserow. Baserow is an open source no-code database tool and Airtable alternative.
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) – 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [sissbruecker/linkding](https://github.com/sissbruecker/linkding) – Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
 - [dbcli/pgcli](https://github.com/dbcli/pgcli) – Postgres CLI with autocompletion and syntax highlighting
