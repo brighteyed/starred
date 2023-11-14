@@ -116,7 +116,6 @@ $ starred --username yourname --repository awesome-stars --sort
 - [bitwarden/mobile](https://github.com/bitwarden/mobile) – The mobile app vault (iOS and Android).
 - [PowerShell/PSReadLine](https://github.com/PowerShell/PSReadLine) – A bash inspired readline implementation for PowerShell
 - [ravibpatel/AutoUpdater.NET](https://github.com/ravibpatel/AutoUpdater.NET) – AutoUpdater.NET is a class library that allows .NET developers to easily add auto update functionality to their classic desktop application projects.
-- [microsoft/microsoft-ui-xaml](https://github.com/microsoft/microsoft-ui-xaml) – Windows UI Library: the latest Windows 10 native controls and Fluent styles for your applications
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) – The Free Software Media System
 - [MediaBrowser/Emby](https://github.com/MediaBrowser/Emby) – Emby Server is a personal media server with apps on just about every device.
 - [ProtonVPN/win-app](https://github.com/ProtonVPN/win-app) – Official ProtonVPN Windows app
@@ -506,6 +505,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [tomzorz/awesome-uwp](https://github.com/tomzorz/awesome-uwp) – Awesome UWP libs
 - [Upcycle-Electronics/game-and-watch-hardware](https://github.com/Upcycle-Electronics/game-and-watch-hardware) – 
 - [github/gitignore](https://github.com/github/gitignore) – A collection of useful .gitignore templates
+- [microsoft/microsoft-ui-xaml](https://github.com/microsoft/microsoft-ui-xaml) – Windows UI Library: the latest Windows 10 native controls and Fluent styles for your applications
 - [nivbend/gitstery](https://github.com/nivbend/gitstery) – A Git Murder Mystery
 - [emacs-tw/awesome-emacs](https://github.com/emacs-tw/awesome-emacs) – A community driven list of useful Emacs packages, libraries and other items.
 - [pandoc/pandoc-action-example](https://github.com/pandoc/pandoc-action-example) – using the pandoc document converter on GitHub Actions
