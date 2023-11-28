@@ -132,7 +132,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [defold/defold](https://github.com/defold/defold) – Defold is a completely free to use game engine for development of desktop, mobile and web games.
 - [godotengine/godot](https://github.com/godotengine/godot) – Godot Engine – Multi-platform 2D and 3D game engine
 - [facebook/watchman](https://github.com/facebook/watchman) – Watches files and records, or triggers actions, when they change.
-- [qpdf/qpdf](https://github.com/qpdf/qpdf) – Primary QPDF source code and documentation
+- [qpdf/qpdf](https://github.com/qpdf/qpdf) – QPDF: A content-preserving PDF document transformer
 - [GothenburgBitFactory/taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior) – Taskwarrior - Command line Task Management
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) – A modern replacement for Redis and Memcached
 - [mumble-voip/mumble](https://github.com/mumble-voip/mumble) – Mumble is an open-source, low-latency, high quality voice chat software.
