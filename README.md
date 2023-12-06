@@ -207,6 +207,7 @@ $ starred --username yourname --repository awesome-stars --sort
 
 ## Go 
 
+- [riverqueue/river](https://github.com/riverqueue/river) – Fast and reliable background jobs in Go
 - [a-h/templ](https://github.com/a-h/templ) – A language for writing HTML user interfaces in Go.
 - [jmorganca/ollama](https://github.com/jmorganca/ollama) – Get up and running with Llama 2 and other large language models locally
 - [cosmtrek/air](https://github.com/cosmtrek/air) – ☁️ Live reload for Go apps
