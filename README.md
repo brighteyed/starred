@@ -199,7 +199,7 @@ $ starred --username yourname --repository awesome-stars --sort
 
 ## Elixir 
 
-- [asciinema/asciinema-server](https://github.com/asciinema/asciinema-server) – Web app for hosting asciicasts
+- [asciinema/asciinema-server](https://github.com/asciinema/asciinema-server) – Platform for hosting and sharing terminal session recordings
 
 ## FreeMarker 
 
