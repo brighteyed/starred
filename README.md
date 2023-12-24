@@ -128,7 +128,7 @@ $ starred --username yourname --repository awesome-stars --sort
 
 ## C++ 
 
-- [microsoft/proxy](https://github.com/microsoft/proxy) – Proxy: Easy Polymorphism in C++
+- [microsoft/proxy](https://github.com/microsoft/proxy) – Proxy: Next Generation Polymorphism in C++
 - [defold/defold](https://github.com/defold/defold) – Defold is a completely free to use game engine for development of desktop, mobile and web games.
 - [godotengine/godot](https://github.com/godotengine/godot) – Godot Engine – Multi-platform 2D and 3D game engine
 - [facebook/watchman](https://github.com/facebook/watchman) – Watches files and records, or triggers actions, when they change.
