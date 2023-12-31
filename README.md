@@ -667,7 +667,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [pawelmalak/flame](https://github.com/pawelmalak/flame) – Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.
 - [jeffvli/sonixd](https://github.com/jeffvli/sonixd) – A full-featured Subsonic/Jellyfin compatible desktop music player
 - [material-components/material-components-web](https://github.com/material-components/material-components-web) – Modular and customizable Material Design UI components for the web
-- [banga/git-split-diffs](https://github.com/banga/git-split-diffs) – GitHub style split diffs in your terminal
+- [banga/git-split-diffs](https://github.com/banga/git-split-diffs) – Syntax highlighted side-by-side diffs in your terminal
 - [photoview/photoview](https://github.com/photoview/photoview) – Photo gallery for self-hosted personal servers
 - [bitwarden/cli](https://github.com/bitwarden/cli) – The command line vault (Windows, macOS, & Linux).
 - [bitwarden/clients](https://github.com/bitwarden/clients) – Bitwarden client applications (web, browser extension, desktop, and cli)
