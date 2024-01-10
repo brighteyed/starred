@@ -259,7 +259,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [niklasfasching/go-org](https://github.com/niklasfasching/go-org) – Org mode parser with html & pretty printed org rendering. also shitty static site generator.
 - [go-git/go-git](https://github.com/go-git/go-git) – A highly extensible Git implementation in pure Go.
 - [araddon/dateparse](https://github.com/araddon/dateparse) – GoLang Parse many date strings without knowing format in advance.
-- [golang-module/carbon](https://github.com/golang-module/carbon) – A simple, semantic and developer-friendly golang package for datetime
+- [golang-module/carbon](https://github.com/golang-module/carbon) – A simple, semantic and developer-friendly golang package for time
 - [go-resty/resty](https://github.com/go-resty/resty) – Simple HTTP and REST client library for Go
 - [joewalnes/websocketd](https://github.com/joewalnes/websocketd) – Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets.
 - [juanfont/headscale](https://github.com/juanfont/headscale) – An open source, self-hosted implementation of the Tailscale control server
