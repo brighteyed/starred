@@ -209,7 +209,7 @@ $ starred --username yourname --repository awesome-stars --sort
 
 - [riverqueue/river](https://github.com/riverqueue/river) – Fast and reliable background jobs in Go
 - [a-h/templ](https://github.com/a-h/templ) – A language for writing HTML user interfaces in Go.
-- [jmorganca/ollama](https://github.com/jmorganca/ollama) – Get up and running with Llama 2 and other large language models locally
+- [jmorganca/ollama](https://github.com/jmorganca/ollama) – Get up and running with Llama 2, Mistral, and other large language models locally.
 - [cosmtrek/air](https://github.com/cosmtrek/air) – ☁️ Live reload for Go apps
 - [usememos/memos](https://github.com/usememos/memos) – An open source, lightweight note-taking service. Easily capture and share your great thoughts.
 - [samber/lo](https://github.com/samber/lo) – 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
@@ -543,7 +543,6 @@ $ starred --username yourname --repository awesome-stars --sort
 - [alexta69/metube](https://github.com/alexta69/metube) – Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)
 - [evilsocket/opensnitch](https://github.com/evilsocket/opensnitch) – OpenSnitch is a GNU/Linux interactive application firewall inspired by Little Snitch.
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) – An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
-- [asciinema/asciinema](https://github.com/asciinema/asciinema) – Terminal session recorder 📹
 - [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) – The official source code repository for the calibre ebook manager
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) – All Algorithms implemented in Python
 - [rbaron/catprinter](https://github.com/rbaron/catprinter) – 🐱🖨
@@ -620,6 +619,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [Schniz/fnm](https://github.com/Schniz/fnm) – 🚀 Fast and simple Node.js version manager, built in Rust
 - [getzola/zola](https://github.com/getzola/zola) – A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) – Hurl, run and test HTTP requests with plain text.
+- [asciinema/asciinema](https://github.com/asciinema/asciinema) – Terminal session recorder 📹
 - [shadowsocks/shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust) – A Rust port of shadowsocks
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) – a structural diff that understands syntax 🟥🟩
 - [agrinman/tunnelto](https://github.com/agrinman/tunnelto) – Expose your local web server to the internet with a public URL.
