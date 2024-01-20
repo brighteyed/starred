@@ -413,7 +413,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [harness/gitness](https://github.com/harness/gitness) – Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery.
 - [coder/sshcode](https://github.com/coder/sshcode) – Run VS Code on any server over SSH.
 - [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) – Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.
-- [mholt/timeliner](https://github.com/mholt/timeliner) – All your digital life on a single timeline, stored locally
+- [mholt/timeliner](https://github.com/mholt/timeliner) – All your digital life on a single timeline, stored locally -- DEPRECATED, SEE TIMELINIZE (link below)
 - [upspin/upspin](https://github.com/upspin/upspin) – Upspin: A framework for naming everyone's everything.
 - [perkeep/perkeep](https://github.com/perkeep/perkeep) – Perkeep (née Camlistore) is your personal storage system for life: a way of storing, syncing, sharing, modelling and backing up content.
 - [hasura/gitkube](https://github.com/hasura/gitkube) – Build and deploy docker images to Kubernetes using git push
