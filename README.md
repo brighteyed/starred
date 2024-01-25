@@ -243,7 +243,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [itchyny/bed](https://github.com/itchyny/bed) – Binary editor written in Go
 - [itchyny/mmv](https://github.com/itchyny/mmv) – rename multiple files with editor
 - [itchyny/gojo](https://github.com/itchyny/gojo) – Yet another Go implementation of jo
-- [carlmjohnson/pomodoro](https://github.com/carlmjohnson/pomodoro) – Command line pomodoro timer
+- [earthboundkid/pomodoro](https://github.com/earthboundkid/pomodoro) – Command line pomodoro timer
 - [variadico/noti](https://github.com/variadico/noti) – Monitor a process and trigger a notification.
 - [cespare/go-tetris](https://github.com/cespare/go-tetris) – A console-based tetris implementation in go.
 - [cespare/reflex](https://github.com/cespare/reflex) – Run a command when files change
