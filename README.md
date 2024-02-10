@@ -65,6 +65,7 @@ $ starred --username yourname --repository awesome-stars --sort
 
 ## C 
 
+- [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) – Port of OpenAI's Whisper model in C/C++
 - [fogleman/Craft](https://github.com/fogleman/Craft) – A simple Minecraft clone written in C using modern OpenGL (shaders).
 - [woltapp/blurhash](https://github.com/woltapp/blurhash) – A very compact representation of a placeholder for an image.
 - [jordansissel/xdotool](https://github.com/jordansissel/xdotool) – fake keyboard/mouse input, window management, and more
@@ -128,6 +129,8 @@ $ starred --username yourname --repository awesome-stars --sort
 
 ## C++ 
 
+- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) – Port of Facebook's LLaMA model in C/C++
+- [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) – Distribute and run LLMs with a single file.
 - [microsoft/proxy](https://github.com/microsoft/proxy) – Proxy: Next Generation Polymorphism in C++
 - [defold/defold](https://github.com/defold/defold) – Defold is a completely free to use game engine for development of desktop, mobile and web games.
 - [godotengine/godot](https://github.com/godotengine/godot) – Godot Engine – Multi-platform 2D and 3D game engine
@@ -657,6 +660,7 @@ $ starred --username yourname --repository awesome-stars --sort
 
 ## TypeScript 
 
+- [iohub/collama](https://github.com/iohub/collama) – VSCode AI coding assistant powered by self-hosted llama.cpp endpoint.
 - [dicebear/dicebear](https://github.com/dicebear/dicebear) – DiceBear is an avatar library for designers and developers. 🌍
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) – Easy to maintain open source documentation websites.
 - [lindylearn/unclutter](https://github.com/lindylearn/unclutter) – A modern reader mode and article library for your browser.
