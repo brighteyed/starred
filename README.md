@@ -129,6 +129,7 @@ $ starred --username yourname --repository awesome-stars --sort
 
 ## C++ 
 
+- [AlexandreRouma/SDRPlusPlus](https://github.com/AlexandreRouma/SDRPlusPlus) – Cross-Platform SDR Software
 - [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) – Port of Facebook's LLaMA model in C/C++
 - [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) – Distribute and run LLMs with a single file.
 - [microsoft/proxy](https://github.com/microsoft/proxy) – Proxy: Next Generation Polymorphism in C++
