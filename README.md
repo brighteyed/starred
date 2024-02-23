@@ -402,7 +402,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [mackerelio/go-osstat](https://github.com/mackerelio/go-osstat) – OS system statistics library for Go
 - [uber-go/goleak](https://github.com/uber-go/goleak) – Goroutine leak detector
 - [ory/hydra](https://github.com/ory/hydra) – OpenID Certified™ OpenID Connect and OAuth Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language. Works with Hardware Security Modules. Compatible with MITREid.
-- [ory/kratos](https://github.com/ory/kratos) – Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, PassKeys, MFA, FIDO2, TOTP, WebAuthn, profile management, identity schemas, social sign in, registration, account recovery, passwordless. Golang, headless, API-only - without templating or theming headaches. Available as a cloud service.
+- [ory/kratos](https://github.com/ory/kratos) – Next-gen identity server replacing your Auth0, Okta, Firebase with hardened security and PassKeys, SMS, OIDC, Social Sign In, MFA, FIDO, TOTP and OTP, WebAuthn, passwordless and much more. Golang, headless, API-first. Available as a worry-free SaaS with the fairest pricing on the market!
 - [skratchdot/open-golang](https://github.com/skratchdot/open-golang) – Open a file, directory, or URI using the OS's default application for that object type. Optionally, you can specify an application to use.
 - [uber-go/zap](https://github.com/uber-go/zap) – Blazing fast, structured, leveled logging in Go.
 - [patrickmn/go-cache](https://github.com/patrickmn/go-cache) – An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications.
