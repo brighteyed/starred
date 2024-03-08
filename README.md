@@ -129,6 +129,7 @@ $ starred --username yourname --repository awesome-stars --sort
 
 ## C++ 
 
+- [a-a-maly/kumir2](https://github.com/a-a-maly/kumir2) – New home for Kumir2.
 - [AlexandreRouma/SDRPlusPlus](https://github.com/AlexandreRouma/SDRPlusPlus) – Cross-Platform SDR Software
 - [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) – LLM inference in C/C++
 - [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) – Distribute and run LLMs with a single file.
