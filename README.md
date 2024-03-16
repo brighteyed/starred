@@ -133,6 +133,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [AlexandreRouma/SDRPlusPlus](https://github.com/AlexandreRouma/SDRPlusPlus) – Cross-Platform SDR Software
 - [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) – LLM inference in C/C++
 - [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) – Distribute and run LLMs with a single file.
+- [ollama/ollama](https://github.com/ollama/ollama) – Get up and running with Llama 2, Mistral, Gemma, and other large language models.
 - [microsoft/proxy](https://github.com/microsoft/proxy) – Proxy: Next Generation Polymorphism in C++
 - [defold/defold](https://github.com/defold/defold) – Defold is a completely free to use game engine for development of desktop, mobile and web games.
 - [godotengine/godot](https://github.com/godotengine/godot) – Godot Engine – Multi-platform 2D and 3D game engine
@@ -212,12 +213,12 @@ $ starred --username yourname --repository awesome-stars --sort
 
 ## Go 
 
+- [bojand/ghz](https://github.com/bojand/ghz) – Simple gRPC benchmarking and load testing tool
 - [steebchen/prisma-client-go](https://github.com/steebchen/prisma-client-go) – Prisma Client Go is an auto-generated and fully type-safe database client
 - [tmrts/go-patterns](https://github.com/tmrts/go-patterns) – Curated list of Go design patterns, recipes and idioms
 - [simulot/immich-go](https://github.com/simulot/immich-go) – An alternative to the immich-CLI command that doesn't depend on nodejs installation. It tries its best for importing google photos takeout archives.
 - [riverqueue/river](https://github.com/riverqueue/river) – Fast and reliable background jobs in Go
 - [a-h/templ](https://github.com/a-h/templ) – A language for writing HTML user interfaces in Go.
-- [ollama/ollama](https://github.com/ollama/ollama) – Get up and running with Llama 2, Mistral, Gemma, and other large language models.
 - [cosmtrek/air](https://github.com/cosmtrek/air) – ☁️ Live reload for Go apps
 - [usememos/memos](https://github.com/usememos/memos) – An open source, lightweight note-taking service. Easily capture and share your great thoughts.
 - [samber/lo](https://github.com/samber/lo) – 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
