@@ -129,6 +129,7 @@ $ starred --username yourname --repository awesome-stars --sort
 
 ## C++ 
 
+- [Edzelf/ESP32Radio-V2](https://github.com/Edzelf/ESP32Radio-V2) – New version of the well known ESP32 Radio.  Now optional I2S output!
 - [a-a-maly/kumir2](https://github.com/a-a-maly/kumir2) – New home for Kumir2.
 - [AlexandreRouma/SDRPlusPlus](https://github.com/AlexandreRouma/SDRPlusPlus) – Cross-Platform SDR Software
 - [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) – LLM inference in C/C++
@@ -177,7 +178,6 @@ $ starred --username yourname --repository awesome-stars --sort
 
 ## CSS 
 
-- [jgthms/bulma](https://github.com/jgthms/bulma) – Modern CSS framework based on Flexbox
 - [theicfire/vimsheet](https://github.com/theicfire/vimsheet) – Vim cheat sheet from beginners to pros
 - [Chalarangelo/30-seconds-of-css](https://github.com/Chalarangelo/30-seconds-of-css) – Short CSS code snippets for all your development needs
 - [animate-css/animate.css](https://github.com/animate-css/animate.css) – 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
@@ -439,7 +439,6 @@ $ starred --username yourname --repository awesome-stars --sort
 ## HTML 
 
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) – Awesome Docker Compose samples
-- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) – A utility-first CSS framework for rapid UI development.
 - [dfrencham/rad-gate](https://github.com/dfrencham/rad-gate) – Arduino powered BMX gate controller with spoken cadence and random start
 
 ## Java 
@@ -470,6 +469,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [googlesamples/google-photos](https://github.com/googlesamples/google-photos) – Samples for the Google Photos Library API 📸
 - [NUKnightLab/sql-mysteries](https://github.com/NUKnightLab/sql-mysteries) – Inspired by @veltman's command-line mystery, use SQL to research clues and find out whodunit!
 - [subnub/myDrive](https://github.com/subnub/myDrive) – Node.js and mongoDB Google Drive Clone
+- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) – A utility-first CSS framework for rapid UI development.
 - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) – The best React-based framework with performance, scalability and security built in.
 - [jellyfin/jellyfin-web](https://github.com/jellyfin/jellyfin-web) – Web Client for Jellyfin
 - [joeferner/redis-commander](https://github.com/joeferner/redis-commander) – Redis management tool written in node.js
@@ -647,6 +647,7 @@ $ starred --username yourname --repository awesome-stars --sort
 
 ## SCSS 
 
+- [jgthms/bulma](https://github.com/jgthms/bulma) – Modern CSS framework based on Flexbox
 - [astrit/css.gg](https://github.com/astrit/css.gg) – 700+ Pure CSS, SVG, PNG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API and 6000 glyphs
 - [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) – My cheatsheets
 
