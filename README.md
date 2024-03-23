@@ -256,7 +256,6 @@ $ starred --username yourname --repository awesome-stars --sort
 - [variadico/noti](https://github.com/variadico/noti) – Monitor a process and trigger a notification.
 - [cespare/go-tetris](https://github.com/cespare/go-tetris) – A console-based tetris implementation in go.
 - [cespare/reflex](https://github.com/cespare/reflex) – Run a command when files change
-- [tailscale/tailscale-android](https://github.com/tailscale/tailscale-android) – Tailscale Android Client
 - [wagslane/go-rabbitmq](https://github.com/wagslane/go-rabbitmq) – A wrapper of streadway/amqp that provides reconnection logic and sane defaults
 - [o1egl/govatar](https://github.com/o1egl/govatar) – Avatar generation library for GO language
 - [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) – 📂 Web File Browser
@@ -499,6 +498,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [VREMSoftwareDevelopment/WiFiAnalyzer](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer) – Android application to analyze WiFi signals.
 - [Waboodoo/HTTP-Shortcuts](https://github.com/Waboodoo/HTTP-Shortcuts) – Android app to create home screen shortcuts that trigger arbitrary HTTP requests
 - [shadowsocks/shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) – A shadowsocks client for Android
+- [tailscale/tailscale-android](https://github.com/tailscale/tailscale-android) – Tailscale Android Client
 - [jellyfin/jellyfin-android](https://github.com/jellyfin/jellyfin-android) – Android Client for Jellyfin
 - [square/picasso](https://github.com/square/picasso) – A powerful image downloading and caching library for Android
 - [muzei/muzei](https://github.com/muzei/muzei) – Muzei Live Wallpaper for Android
