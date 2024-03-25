@@ -536,6 +536,7 @@ $ starred --username yourname --repository awesome-stars --sort
 
 ## Python 
 
+- [duracell80/oceaneyes](https://github.com/duracell80/oceaneyes) – Python API for Ocean Digital Internet Radios
 - [pypa/pipx](https://github.com/pypa/pipx) – Install and Run Python Applications in Isolated Environments
 - [coqui-ai/TTS](https://github.com/coqui-ai/TTS) – 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
 - [fogleman/Minecraft](https://github.com/fogleman/Minecraft) – Simple Minecraft-inspired program using Python and Pyglet
