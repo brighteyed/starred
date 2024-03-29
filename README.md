@@ -649,7 +649,7 @@ $ starred --username yourname --repository awesome-stars --sort
 
 - [jgthms/bulma](https://github.com/jgthms/bulma) – Modern CSS framework based on Flexbox
 - [astrit/css.gg](https://github.com/astrit/css.gg) – 700+ Pure CSS, SVG, PNG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API and 6000 glyphs
-- [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) – My cheatsheets
+- [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) – Cheatsheets for web development - devhints.io
 
 ## Shell 
 
