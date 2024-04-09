@@ -51,6 +51,7 @@ $ starred --username yourname --repository awesome-stars --sort
   - [Jinja](#jinja)
   - [Jupyter Notebook](#jupyter-notebook)
   - [Kotlin](#kotlin)
+  - [MDX](#mdx)
   - [Makefile](#makefile)
   - [Others](#others)
   - [PHP](#php)
@@ -386,7 +387,6 @@ $ starred --username yourname --repository awesome-stars --sort
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) – Network-wide ads & trackers blocking DNS server
 - [hibiken/asynq](https://github.com/hibiken/asynq) – Simple, reliable, and efficient distributed task queue in Go
 - [markbates/grift](https://github.com/markbates/grift) – Go based task runner
-- [go-task/task](https://github.com/go-task/task) – A task runner / simpler Make alternative written in Go
 - [dgraph-io/badger](https://github.com/dgraph-io/badger) – Fast key-value DB in Go.
 - [asdine/storm](https://github.com/asdine/storm) – Simple and powerful toolkit for BoltDB
 - [etcd-io/bbolt](https://github.com/etcd-io/bbolt) – An embedded key/value database for Go.
@@ -501,6 +501,10 @@ $ starred --username yourname --repository awesome-stars --sort
 - [jellyfin/jellyfin-android](https://github.com/jellyfin/jellyfin-android) – Android Client for Jellyfin
 - [square/picasso](https://github.com/square/picasso) – A powerful image downloading and caching library for Android
 - [muzei/muzei](https://github.com/muzei/muzei) – Muzei Live Wallpaper for Android
+
+## MDX 
+
+- [go-task/task](https://github.com/go-task/task) – A task runner / simpler Make alternative written in Go
 
 ## Makefile 
 
