@@ -311,7 +311,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [alexflint/go-arg](https://github.com/alexflint/go-arg) – Struct-based argument parsing in Go
 - [mgutz/str](https://github.com/mgutz/str) – Package str is a string library to build more Go awesomeness
 - [x-motemen/ghq](https://github.com/x-motemen/ghq) – Remote repository management made easy
-- [drakkan/sftpgo](https://github.com/drakkan/sftpgo) – Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob
+- [drakkan/sftpgo](https://github.com/drakkan/sftpgo) – Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server - S3, Google Cloud Storage, Azure Blob
 - [docopt/docopt.go](https://github.com/docopt/docopt.go) – A command-line arguments parser that will make you smile.
 - [schollz/progressbar](https://github.com/schollz/progressbar) – A really basic thread-safe progress bar for Golang applications
 - [rwcarlsen/goexif](https://github.com/rwcarlsen/goexif) – Decode embedded EXIF meta data from image files.
