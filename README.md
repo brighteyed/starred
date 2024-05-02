@@ -235,7 +235,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [tidwall/gjson](https://github.com/tidwall/gjson) – Get JSON values quickly - JSON parser for Go
 - [gobuffalo/buffalo](https://github.com/gobuffalo/buffalo) – Rapid Web Development w/ Go
 - [radovskyb/watcher](https://github.com/radovskyb/watcher) – watcher is a Go package for watching for files or directory changes without using filesystem events.
-- [fsnotify/fsnotify](https://github.com/fsnotify/fsnotify) – Cross-platform file system notifications for Go.
+- [fsnotify/fsnotify](https://github.com/fsnotify/fsnotify) – Cross-platform filesystem notifications for Go.
 - [edgedb/edgedb-go](https://github.com/edgedb/edgedb-go) – The official Go client library for EdgeDB
 - [adnanh/webhook](https://github.com/adnanh/webhook) – webhook is a lightweight incoming webhook server to run shell commands
 - [life4/genesis](https://github.com/life4/genesis) – All generic functions for Go you ever need!
