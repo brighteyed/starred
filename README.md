@@ -581,7 +581,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [ponty/PyVirtualDisplay](https://github.com/ponty/PyVirtualDisplay) – Python wrapper for Xvfb, Xephyr and Xvnc
 - [ionelmc/python-redis-lock](https://github.com/ionelmc/python-redis-lock) – Lock context manager implemented via redis SET NX EX and BLPOP.
 - [xxao/rebrick](https://github.com/xxao/rebrick) – Retrieve data from Rebrickable.com
-- [pyinfra-dev/pyinfra](https://github.com/pyinfra-dev/pyinfra) – pyinfra automates infrastructure using Python. It’s fast and scales from one server to thousands. Great for ad-hoc command execution, service deployment, configuration management and more.
+- [pyinfra-dev/pyinfra](https://github.com/pyinfra-dev/pyinfra) – pyinfra turns your Python code into shell commands and runs them on your servers. Execute ad-hoc commands and write declarative operations. Target SSH servers, local machine and Docker containers. Fast and scales from one server to thousands.
 - [scrapy/scrapyd](https://github.com/scrapy/scrapyd) – A service daemon to run Scrapy spiders
 - [rmax/scrapy-redis](https://github.com/rmax/scrapy-redis) – Redis-based components for Scrapy.
 - [scrapy/scrapy](https://github.com/scrapy/scrapy) – Scrapy, a fast high-level web crawling & scraping framework for Python.
