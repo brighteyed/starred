@@ -158,7 +158,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) – A Smart Ethernet Switch for Earth
 - [opentx/opentx](https://github.com/opentx/opentx) – OpenTX custom firmware for Transmitters
 - [microsoft/terminal](https://github.com/microsoft/terminal) – The new Windows Terminal and the original Windows console host, all in the same place!
-- [google/mediapipe](https://github.com/google/mediapipe) – Cross-platform, customizable ML solutions for live and streaming media.
+- [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) – Cross-platform, customizable ML solutions for live and streaming media.
 - [trevorsandy/lpub3d](https://github.com/trevorsandy/lpub3d) – An LDraw™ editor for LEGO® style digital building instructions.
 - [leozide/leocad](https://github.com/leozide/leocad) – A CAD application for creating virtual LEGO models
 - [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) – Tesseract Open Source OCR Engine (main repository)
