@@ -643,7 +643,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) – Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) – A high-performance observability data pipeline.
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) – Multi functional app to find duplicates, empty folders, similar images etc.
-- [dandavison/delta](https://github.com/dandavison/delta) – A syntax-highlighting pager for git, diff, and grep output
+- [dandavison/delta](https://github.com/dandavison/delta) – A syntax-highlighting pager for git, diff, grep, and blame output
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) – ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) – A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) – Secure and fast microVMs for serverless computing.
