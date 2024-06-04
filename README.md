@@ -220,7 +220,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [riverqueue/river](https://github.com/riverqueue/river) – Fast and reliable background jobs in Go
 - [a-h/templ](https://github.com/a-h/templ) – A language for writing HTML user interfaces in Go.
 - [ollama/ollama](https://github.com/ollama/ollama) – Get up and running with Llama 3, Mistral, Gemma, and other large language models.
-- [cosmtrek/air](https://github.com/cosmtrek/air) – ☁️ Live reload for Go apps
+- [air-verse/air](https://github.com/air-verse/air) – ☁️ Live reload for Go apps
 - [usememos/memos](https://github.com/usememos/memos) – An open source, lightweight note-taking service. Easily capture and share your great thoughts.
 - [samber/lo](https://github.com/samber/lo) – 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) – Your CLI home video recorder 📼
