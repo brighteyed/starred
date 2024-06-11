@@ -95,7 +95,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [qmk/qmk_toolbox](https://github.com/qmk/qmk_toolbox) – A Toolbox companion for QMK Firmware
 - [imurvai/brickcontroller2](https://github.com/imurvai/brickcontroller2) – Cross platform application for controlling Lego creations using a bluetooth gamepad.
 - [shadowsocks/shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) – A C# port of shadowsocks
-- [microsoft/WindowsCompositionSamples](https://github.com/microsoft/WindowsCompositionSamples) – Windows Composition Samples the place for getting the latest code samples and demos using Windows.UI.Xaml and Windows.UI.Composition to make beautiful Universal Windows Platform applications.
+- [microsoft/WindowsCompositionSamples](https://github.com/microsoft/WindowsCompositionSamples) – The Windows Composition Samples have moved here: https://github.com/microsoft/WindowsAppSDK-Samples/tree/main/Samples/SceneGraph
 - [XamlFlair/XamlFlair](https://github.com/XamlFlair/XamlFlair) – XamlFlair is an animation library for UWP, WPF, and Uno, built to facilitate Xaml animations using only attached properties.
 - [MarcAnt01/Fluent-Screen-Recorder](https://github.com/MarcAnt01/Fluent-Screen-Recorder) – An award-winning minimal screen recorder for Windows
 - [microsoft/dotnet-podcasts](https://github.com/microsoft/dotnet-podcasts) – .NET reference application shown at .NET Conf featuring ASP.NET Core, Blazor, .NET MAUI, Microservices, Orleans, Playwright, and more!
