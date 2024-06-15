@@ -571,7 +571,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [jftuga/less-Windows](https://github.com/jftuga/less-Windows) – GNU less compiled for Windows 10 & 11. Stand-alone version with no dependencies.
 - [decalage2/oletools](https://github.com/decalage2/oletools) – oletools - python tools to analyze MS OLE2 files (Structured Storage, Compound File Binary Format) and MS Office documents, for malware analysis, forensics and debugging.
 - [sethblack/python-gift-exchange](https://github.com/sethblack/python-gift-exchange) – pyge: Holiday Gift Exchange Picker
-- [WyattBlue/auto-editor](https://github.com/WyattBlue/auto-editor) – Auto-Editor: Effort free video editing!
+- [WyattBlue/auto-editor](https://github.com/WyattBlue/auto-editor) – Auto-Editor: Efficient media analyze and rendering
 - [gpdaniels/spike-prime](https://github.com/gpdaniels/spike-prime) – Experiments with the LEGO Mindstorms (51515) and SPIKE Prime (45678)
 - [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) – get things from one computer to another, safely
 - [ponty/PyVirtualDisplay](https://github.com/ponty/PyVirtualDisplay) – Python wrapper for Xvfb, Xephyr and Xvnc
