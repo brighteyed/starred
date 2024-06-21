@@ -113,8 +113,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [MicrosoftDocs/windows-dev-docs](https://github.com/MicrosoftDocs/windows-dev-docs) – Conceptual and overview content for developing Windows apps
 - [microsoft/WinUI-Gallery](https://github.com/microsoft/WinUI-Gallery) – This app demonstrates the controls available in WinUI and the Fluent Design System.
 - [roddone/YeelightAPI](https://github.com/roddone/YeelightAPI) – C# API (.Net) to control Xiaomi Yeelight devices
-- [bitwarden/server](https://github.com/bitwarden/server) – The core infrastructure backend (API, database, Docker, etc).
-- [bitwarden/mobile](https://github.com/bitwarden/mobile) – The mobile app vault (iOS and Android).
+- [bitwarden/server](https://github.com/bitwarden/server) – Bitwarden infrastructure/backend (API, database, Docker, etc).
 - [PowerShell/PSReadLine](https://github.com/PowerShell/PSReadLine) – A bash inspired readline implementation for PowerShell
 - [ravibpatel/AutoUpdater.NET](https://github.com/ravibpatel/AutoUpdater.NET) – AutoUpdater.NET is a class library that allows .NET developers to easily add auto update functionality to their classic desktop application projects.
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) – The Free Software Media System
@@ -500,6 +499,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [shadowsocks/shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) – A shadowsocks client for Android
 - [tailscale/tailscale-android](https://github.com/tailscale/tailscale-android) – Tailscale Android Client
 - [jellyfin/jellyfin-android](https://github.com/jellyfin/jellyfin-android) – Android Client for Jellyfin
+- [bitwarden/android](https://github.com/bitwarden/android) – Bitwarden mobile app for Android.
 - [square/picasso](https://github.com/square/picasso) – A powerful image downloading and caching library for Android
 - [muzei/muzei](https://github.com/muzei/muzei) – Muzei Live Wallpaper for Android
 
@@ -681,7 +681,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [banga/git-split-diffs](https://github.com/banga/git-split-diffs) – Syntax highlighted side-by-side diffs in your terminal
 - [photoview/photoview](https://github.com/photoview/photoview) – Photo gallery for self-hosted personal servers
 - [bitwarden/cli](https://github.com/bitwarden/cli) – The command line vault (Windows, macOS, & Linux).
-- [bitwarden/clients](https://github.com/bitwarden/clients) – Bitwarden client applications (web, browser extension, desktop, and cli)
+- [bitwarden/clients](https://github.com/bitwarden/clients) – Bitwarden client apps (web, browser extension, desktop, and cli).
 - [bitwarden/desktop](https://github.com/bitwarden/desktop) – The desktop vault (Windows, macOS, & Linux).
 - [actions/starter-workflows](https://github.com/actions/starter-workflows) – Accelerating new GitHub Actions workflows
 - [coder/code-server](https://github.com/coder/code-server) – VS Code in the browser
