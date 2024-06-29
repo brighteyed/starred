@@ -587,7 +587,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [psf/black](https://github.com/psf/black) – The uncompromising Python code formatter
 - [channable/opnieuw](https://github.com/channable/opnieuw) – One weird trick to make your code more reliable
 - [neozhaoliang/pywonderland](https://github.com/neozhaoliang/pywonderland) – A tour in the wonderland of math with python.
-- [adamcharnock/lightbus](https://github.com/adamcharnock/lightbus) – RPC & event framework for Python 3
+- [adamcharnock/lightbus](https://github.com/adamcharnock/lightbus) – RPC & event framework for Python
 - [jar-o/rotvpn](https://github.com/jar-o/rotvpn) – Run a personal VPN in the cloud. And rotate it regularly.
 - [maxhumber/gif](https://github.com/maxhumber/gif) – The matplotlib Animation Extension
 - [zedr/clean-code-python](https://github.com/zedr/clean-code-python) – :bathtub: Clean Code concepts adapted for Python
