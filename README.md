@@ -453,7 +453,6 @@ $ starred --username yourname --repository awesome-stars --sort
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) – &lt;/&gt; htmx - high power tools for HTML
 - [webpro/reveal-md](https://github.com/webpro/reveal-md) – reveal.js on steroids! Get beautiful reveal.js presentations from any Markdown file
 - [hakimel/reveal.js](https://github.com/hakimel/reveal.js) – The HTML Presentation Framework
-- [immich-app/CLI](https://github.com/immich-app/CLI) – CLI utilities for Immich to help with upload images and videos from a location on a desktop machine or a server to the Immich's server
 - [qmk/qmk_configurator](https://github.com/qmk/qmk_configurator) – The QMK Configurator
 - [SadeghHayeri/GreenTunnel](https://github.com/SadeghHayeri/GreenTunnel) – GreenTunnel is an anti-censorship utility designed to bypass the DPI system that is put in place by various ISPs to block access to certain websites.
 - [asciinema/asciinema-player](https://github.com/asciinema/asciinema-player) – Web player for terminal session recordings
