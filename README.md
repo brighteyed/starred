@@ -212,6 +212,7 @@ $ starred --username yourname --repository awesome-stars --sort
 
 ## Go 
 
+- [AllenDang/giu](https://github.com/AllenDang/giu) – Cross platform rapid GUI framework for golang based on Dear ImGui.
 - [bojand/ghz](https://github.com/bojand/ghz) – Simple gRPC benchmarking and load testing tool
 - [steebchen/prisma-client-go](https://github.com/steebchen/prisma-client-go) – Prisma Client Go is an auto-generated and fully type-safe database client
 - [tmrts/go-patterns](https://github.com/tmrts/go-patterns) – Curated list of Go design patterns, recipes and idioms
