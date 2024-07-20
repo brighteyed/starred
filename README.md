@@ -155,6 +155,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [Legion2/CorsairLightingProtocol](https://github.com/Legion2/CorsairLightingProtocol) – Control LEDs connected to an Arduino with iCUE, create an unofficial Corsair iCUE compatible Arduino LED controller.
 - [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) – A Smart Ethernet Switch for Earth
 - [opentx/opentx](https://github.com/opentx/opentx) – OpenTX custom firmware for Transmitters
+- [microsoft/microsoft-ui-xaml](https://github.com/microsoft/microsoft-ui-xaml) – Windows UI Library: the latest Windows 10 native controls and Fluent styles for your applications
 - [microsoft/terminal](https://github.com/microsoft/terminal) – The new Windows Terminal and the original Windows console host, all in the same place!
 - [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) – Cross-platform, customizable ML solutions for live and streaming media.
 - [trevorsandy/lpub3d](https://github.com/trevorsandy/lpub3d) – An LDraw™ editor for LEGO® style digital building instructions.
@@ -515,7 +516,6 @@ $ starred --username yourname --repository awesome-stars --sort
 - [tomzorz/awesome-uwp](https://github.com/tomzorz/awesome-uwp) – Awesome UWP libs
 - [Upcycle-Electronics/game-and-watch-hardware](https://github.com/Upcycle-Electronics/game-and-watch-hardware) – 
 - [github/gitignore](https://github.com/github/gitignore) – A collection of useful .gitignore templates
-- [microsoft/microsoft-ui-xaml](https://github.com/microsoft/microsoft-ui-xaml) – Windows UI Library: the latest Windows 10 native controls and Fluent styles for your applications
 - [nivbend/gitstery](https://github.com/nivbend/gitstery) – A Git Murder Mystery
 - [emacs-tw/awesome-emacs](https://github.com/emacs-tw/awesome-emacs) – A community driven list of useful Emacs packages, libraries and other items.
 - [pandoc/pandoc-action-example](https://github.com/pandoc/pandoc-action-example) – using the pandoc document converter on GitHub Actions
