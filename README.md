@@ -418,7 +418,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [elazarl/goproxy](https://github.com/elazarl/goproxy) – An HTTP proxy library for Go
 - [kisielk/errcheck](https://github.com/kisielk/errcheck) – errcheck checks that you checked errors.
 - [schollz/croc](https://github.com/schollz/croc) – Easily and securely send things from one computer to another :crocodile: :package:
-- [MichaelMure/git-bug](https://github.com/MichaelMure/git-bug) – Distributed, offline-first bug tracker embedded in git, with bridges
+- [git-bug/git-bug](https://github.com/git-bug/git-bug) – Distributed, offline-first bug tracker embedded in git, with bridges
 - [akrylysov/pogreb](https://github.com/akrylysov/pogreb) – Embedded key-value store for read-heavy workloads written in Go
 - [harness/gitness](https://github.com/harness/gitness) – Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery.
 - [coder/sshcode](https://github.com/coder/sshcode) – Run VS Code on any server over SSH.
@@ -460,7 +460,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [asciinema/asciinema-player](https://github.com/asciinema/asciinema-player) – Web player for terminal session recordings
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) – Simple bookmark manager built with Go
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) – Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) – 🦄 A modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) – 🦄 A file manager / web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
 - [jwplayer/jwplayer](https://github.com/jwplayer/jwplayer) – JW Player is the world's most popular embeddable media player.
 - [xat/castnow](https://github.com/xat/castnow) – commandline chromecast player
 - [microsoft/Windows-universal-samples](https://github.com/microsoft/Windows-universal-samples) – API samples for the Universal Windows Platform.
