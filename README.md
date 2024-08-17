@@ -239,7 +239,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [edgedb/edgedb-go](https://github.com/edgedb/edgedb-go) – The official Go client library for EdgeDB
 - [adnanh/webhook](https://github.com/adnanh/webhook) – webhook is a lightweight incoming webhook server to run shell commands
 - [life4/genesis](https://github.com/life4/genesis) – All generic functions for Go you ever need!
-- [golang-jwt/jwt](https://github.com/golang-jwt/jwt) – Community maintained clone of https://github.com/dgrijalva/jwt-go
+- [golang-jwt/jwt](https://github.com/golang-jwt/jwt) – Go implementation of JSON Web Tokens (JWT).
 - [go-oauth2/oauth2](https://github.com/go-oauth2/oauth2) – OAuth 2.0 server library for the Go programming language.
 - [alexedwards/scs](https://github.com/alexedwards/scs) – HTTP Session Management for Go
 - [go-pkgz/auth](https://github.com/go-pkgz/auth) – Authenticator via oauth2, direct, email and telegram
