@@ -469,6 +469,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [googlesamples/google-photos](https://github.com/googlesamples/google-photos) – Samples for the Google Photos Library API 📸
 - [NUKnightLab/sql-mysteries](https://github.com/NUKnightLab/sql-mysteries) – Inspired by @veltman's command-line mystery, use SQL to research clues and find out whodunit!
 - [subnub/myDrive](https://github.com/subnub/myDrive) – Node.js and mongoDB Google Drive Clone
+- [astrit/css.gg](https://github.com/astrit/css.gg) – 700+ Pure CSS, SVG & Figma UI Icons, 6000+ glyphs, patterns, colors and layouts.
 - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) – The best React-based framework with performance, scalability and security built in.
 - [jellyfin/jellyfin-web](https://github.com/jellyfin/jellyfin-web) – Web Client for Jellyfin
 - [joeferner/redis-commander](https://github.com/joeferner/redis-commander) – Redis management tool written in node.js
@@ -648,7 +649,6 @@ $ starred --username yourname --repository awesome-stars --sort
 
 ## SCSS 
 
-- [astrit/css.gg](https://github.com/astrit/css.gg) – 700+ Pure CSS, SVG, PNG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API and 6000 glyphs
 - [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) – Cheatsheets for web development - devhints.io
 
 ## Shell 
