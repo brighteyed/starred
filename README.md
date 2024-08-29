@@ -459,7 +459,6 @@ $ starred --username yourname --repository awesome-stars --sort
 - [SadeghHayeri/GreenTunnel](https://github.com/SadeghHayeri/GreenTunnel) – GreenTunnel is an anti-censorship utility designed to bypass the DPI system that is put in place by various ISPs to block access to certain websites.
 - [asciinema/asciinema-player](https://github.com/asciinema/asciinema-player) – Web player for terminal session recordings
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) – Simple bookmark manager built with Go
-- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) – Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) – 🦄 A file manager / web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
 - [jwplayer/jwplayer](https://github.com/jwplayer/jwplayer) – JW Player is the world's most popular embeddable media player.
 - [xat/castnow](https://github.com/xat/castnow) – commandline chromecast player
@@ -673,6 +672,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [axentix/axentix](https://github.com/axentix/axentix) – The framework mixing fully customizable components and utility-first classes, leaving the design choice to the developer.
 - [MaxLeiter/Drift](https://github.com/MaxLeiter/Drift) – Drift is a self-hostable Gist and paste service. Built with Next.js 13 and React Server Components.
 - [immich-app/immich](https://github.com/immich-app/immich) – High performance self-hosted photo and video management solution.
+- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) – Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [gristlabs/grist-core](https://github.com/gristlabs/grist-core) – Grist is the evolution of spreadsheets.
 - [laurent22/joplin](https://github.com/laurent22/joplin) – Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
 - [pawelmalak/flame](https://github.com/pawelmalak/flame) – Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.
