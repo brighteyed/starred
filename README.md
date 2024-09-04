@@ -674,7 +674,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [MaxLeiter/Drift](https://github.com/MaxLeiter/Drift) – Drift is a self-hostable Gist and paste service. Built with Next.js 13 and React Server Components.
 - [immich-app/immich](https://github.com/immich-app/immich) – High performance self-hosted photo and video management solution.
 - [gristlabs/grist-core](https://github.com/gristlabs/grist-core) – Grist is the evolution of spreadsheets.
-- [laurent22/joplin](https://github.com/laurent22/joplin) – Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
+- [laurent22/joplin](https://github.com/laurent22/joplin) – Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 - [pawelmalak/flame](https://github.com/pawelmalak/flame) – Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.
 - [jeffvli/sonixd](https://github.com/jeffvli/sonixd) – A full-featured Subsonic/Jellyfin compatible desktop music player
 - [material-components/material-components-web](https://github.com/material-components/material-components-web) – Modular and customizable Material Design UI components for the web
