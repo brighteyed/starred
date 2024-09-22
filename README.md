@@ -213,6 +213,7 @@ $ starred --username yourname --repository awesome-stars --sort
 
 ## Go 
 
+- [charmbracelet/glow](https://github.com/charmbracelet/glow) – Render markdown on the CLI, with pizzazz! 💅🏻
 - [AllenDang/giu](https://github.com/AllenDang/giu) – Cross platform rapid GUI framework for golang based on Dear ImGui.
 - [bojand/ghz](https://github.com/bojand/ghz) – Simple gRPC benchmarking and load testing tool
 - [steebchen/prisma-client-go](https://github.com/steebchen/prisma-client-go) – Prisma Client Go is an auto-generated and fully type-safe database client
