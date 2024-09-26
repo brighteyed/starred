@@ -221,9 +221,9 @@ $ starred --username yourname --repository awesome-stars --sort
 - [simulot/immich-go](https://github.com/simulot/immich-go) – An alternative to the immich-CLI command that doesn't depend on nodejs installation. It tries its best for importing google photos takeout archives.
 - [riverqueue/river](https://github.com/riverqueue/river) – Fast and reliable background jobs in Go
 - [a-h/templ](https://github.com/a-h/templ) – A language for writing HTML user interfaces in Go.
-- [ollama/ollama](https://github.com/ollama/ollama) – Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) – Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
 - [air-verse/air](https://github.com/air-verse/air) – ☁️ Live reload for Go apps
-- [usememos/memos](https://github.com/usememos/memos) – An open source, lightweight note-taking service. Easily capture and share your great thoughts.
+- [usememos/memos](https://github.com/usememos/memos) – An open source, lightweight note-taking solution. The pain-less way to create your meaningful notes.
 - [samber/lo](https://github.com/samber/lo) – 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) – Your CLI home video recorder 📼
 - [uptrace/bun](https://github.com/uptrace/bun) – SQL-first Golang ORM
@@ -421,7 +421,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [schollz/croc](https://github.com/schollz/croc) – Easily and securely send things from one computer to another :crocodile: :package:
 - [git-bug/git-bug](https://github.com/git-bug/git-bug) – Distributed, offline-first bug tracker embedded in git, with bridges
 - [akrylysov/pogreb](https://github.com/akrylysov/pogreb) – Embedded key-value store for read-heavy workloads written in Go
-- [harness/harness](https://github.com/harness/harness) – Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery.
+- [harness/harness](https://github.com/harness/harness) – Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.
 - [coder/sshcode](https://github.com/coder/sshcode) – Run VS Code on any server over SSH.
 - [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) – Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.
 - [mholt/timeliner](https://github.com/mholt/timeliner) – All your digital life on a single timeline, stored locally -- DEPRECATED, SEE TIMELINIZE (link below)
