@@ -223,7 +223,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [a-h/templ](https://github.com/a-h/templ) – A language for writing HTML user interfaces in Go.
 - [ollama/ollama](https://github.com/ollama/ollama) – Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
 - [air-verse/air](https://github.com/air-verse/air) – ☁️ Live reload for Go apps
-- [usememos/memos](https://github.com/usememos/memos) – An open source, lightweight note-taking solution. The pain-less way to create your meaningful notes.
+- [usememos/memos](https://github.com/usememos/memos) – An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes.
 - [samber/lo](https://github.com/samber/lo) – 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) – Your CLI home video recorder 📼
 - [uptrace/bun](https://github.com/uptrace/bun) – SQL-first Golang ORM
