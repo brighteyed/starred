@@ -538,6 +538,7 @@ $ starred --username yourname --repository awesome-stars --sort
 
 ## Python 
 
+- [openai/whisper](https://github.com/openai/whisper) – Robust Speech Recognition via Large-Scale Weak Supervision
 - [duracell80/oceaneyes](https://github.com/duracell80/oceaneyes) – Python API for Ocean Digital Internet Radios
 - [pypa/pipx](https://github.com/pypa/pipx) – Install and Run Python Applications in Isolated Environments
 - [coqui-ai/TTS](https://github.com/coqui-ai/TTS) – 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
