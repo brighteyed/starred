@@ -128,6 +128,7 @@ $ starred --username yourname --repository awesome-stars --sort
 
 ## C++ 
 
+- [razimantv/mazegenerator](https://github.com/razimantv/mazegenerator) – Generate mazes of different shapes and arbitrary sizes using graph theory
 - [Edzelf/ESP32Radio-V2](https://github.com/Edzelf/ESP32Radio-V2) – New version of the well known ESP32 Radio.  Now optional I2S output!
 - [a-a-maly/kumir2](https://github.com/a-a-maly/kumir2) – New home for Kumir2.
 - [AlexandreRouma/SDRPlusPlus](https://github.com/AlexandreRouma/SDRPlusPlus) – Cross-Platform SDR Software
@@ -213,6 +214,15 @@ $ starred --username yourname --repository awesome-stars --sort
 
 ## Go 
 
+- [ebitengine/oto](https://github.com/ebitengine/oto) – ♪ A low-level library to play sound on multiple platforms ♪
+- [aldernero/sketchy](https://github.com/aldernero/sketchy) – A framework for creating generative art in Go
+- [deadpixi/wasm-maze-generator](https://github.com/deadpixi/wasm-maze-generator) – A simple WASM maze generator in Go
+- [brad811/go-dungeon](https://github.com/brad811/go-dungeon) – Random dungeon generator written in go. Based on the method described here: http://journal.stuffwithstuff.com/2014/12/21/rooms-and-mazes/
+- [contribsys/faktory](https://github.com/contribsys/faktory) – Language-agnostic persistent background job server
+- [agejevasv/goradion](https://github.com/agejevasv/goradion) – Terminal based online radio player
+- [nalgeon/redka](https://github.com/nalgeon/redka) – Redis re-implemented with SQLite
+- [reugn/go-quartz](https://github.com/reugn/go-quartz) – Minimalist and zero-dependency scheduling library for Go
+- [sosedoff/pgweb](https://github.com/sosedoff/pgweb) – Cross-platform client for PostgreSQL databases
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) – Render markdown on the CLI, with pizzazz! 💅🏻
 - [AllenDang/giu](https://github.com/AllenDang/giu) – Cross platform rapid GUI framework for golang based on Dear ImGui.
 - [bojand/ghz](https://github.com/bojand/ghz) – Simple gRPC benchmarking and load testing tool
@@ -538,6 +548,8 @@ $ starred --username yourname --repository awesome-stars --sort
 
 ## Python 
 
+- [kiltum/litres-backup](https://github.com/kiltum/litres-backup) – Backup tool for litres.ru site
+- [MyBook/litresapi](https://github.com/MyBook/litresapi) – python-обёртка вокруг API ЛитРес на базе requests и xmltodict
 - [openai/whisper](https://github.com/openai/whisper) – Robust Speech Recognition via Large-Scale Weak Supervision
 - [duracell80/oceaneyes](https://github.com/duracell80/oceaneyes) – Python API for Ocean Digital Internet Radios
 - [pypa/pipx](https://github.com/pypa/pipx) – Install and Run Python Applications in Isolated Environments
@@ -626,6 +638,7 @@ $ starred --username yourname --repository awesome-stars --sort
 
 ## Rust 
 
+- [pkolaczk/fclones](https://github.com/pkolaczk/fclones) – Efficient Duplicate File Finder
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) – Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 - [orf/gping](https://github.com/orf/gping) – Ping, but with a graph
 - [Schniz/fnm](https://github.com/Schniz/fnm) – 🚀 Fast and simple Node.js version manager, built in Rust
