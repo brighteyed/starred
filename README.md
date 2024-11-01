@@ -214,6 +214,7 @@ $ starred --username yourname --repository awesome-stars --sort
 
 ## Go 
 
+- [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) – A PDF processor written in Go.
 - [cue-lang/cue](https://github.com/cue-lang/cue) – The home of the CUE language! Validate and define text-based and dynamic configuration
 - [charmbracelet/freeze](https://github.com/charmbracelet/freeze) – Generate images of code and terminal output 📸
 - [ebitengine/oto](https://github.com/ebitengine/oto) – ♪ A low-level library to play sound on multiple platforms ♪
