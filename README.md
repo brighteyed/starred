@@ -551,6 +551,7 @@ $ starred --username yourname --repository awesome-stars --sort
 
 ## Python 
 
+- [gruns/icecream](https://github.com/gruns/icecream) – 🍦 Never use print() to debug again.
 - [kiltum/litres-backup](https://github.com/kiltum/litres-backup) – Backup tool for litres.ru site
 - [MyBook/litresapi](https://github.com/MyBook/litresapi) – python-обёртка вокруг API ЛитРес на базе requests и xmltodict
 - [openai/whisper](https://github.com/openai/whisper) – Robust Speech Recognition via Large-Scale Weak Supervision
