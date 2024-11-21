@@ -118,7 +118,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) – The Free Software Media System
 - [MediaBrowser/Emby](https://github.com/MediaBrowser/Emby) – Emby Server is a personal media server with apps on just about every device.
 - [ProtonVPN/win-app](https://github.com/ProtonVPN/win-app) – Official ProtonVPN Windows app
-- [mbdavid/LiteDB](https://github.com/mbdavid/LiteDB) – LiteDB - A .NET NoSQL Document Store in a single data file
+- [litedb-org/LiteDB](https://github.com/litedb-org/LiteDB) – LiteDB - A .NET NoSQL Document Store in a single data file
 - [dotnet/BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet) – Powerful .NET library for benchmarking
 - [microsoft/WPF-Samples](https://github.com/microsoft/WPF-Samples) – Repository for WPF related samples
 - [MaterialDesignInXAML/MaterialDesignInXamlToolkit](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit) – Google's Material Design in XAML & WPF, for C# & VB.Net.
@@ -156,7 +156,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [Legion2/CorsairLightingProtocol](https://github.com/Legion2/CorsairLightingProtocol) – Control LEDs connected to an Arduino with iCUE, create an unofficial Corsair iCUE compatible Arduino LED controller.
 - [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) – A Smart Ethernet Switch for Earth
 - [opentx/opentx](https://github.com/opentx/opentx) – OpenTX custom firmware for Transmitters
-- [microsoft/microsoft-ui-xaml](https://github.com/microsoft/microsoft-ui-xaml) – Windows UI Library: the latest Windows 10 native controls and Fluent styles for your applications
+- [microsoft/microsoft-ui-xaml](https://github.com/microsoft/microsoft-ui-xaml) – WinUI: a modern UI framework with a rich set of controls and styles to build dynamic and high-performing Windows applications.
 - [microsoft/terminal](https://github.com/microsoft/terminal) – The new Windows Terminal and the original Windows console host, all in the same place!
 - [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) – Cross-platform, customizable ML solutions for live and streaming media.
 - [trevorsandy/lpub3d](https://github.com/trevorsandy/lpub3d) – An LDraw™ editor for LEGO® style digital building instructions.
