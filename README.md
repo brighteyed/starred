@@ -115,7 +115,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [bitwarden/server](https://github.com/bitwarden/server) – Bitwarden infrastructure/backend (API, database, Docker, etc).
 - [PowerShell/PSReadLine](https://github.com/PowerShell/PSReadLine) – A bash inspired readline implementation for PowerShell
 - [ravibpatel/AutoUpdater.NET](https://github.com/ravibpatel/AutoUpdater.NET) – AutoUpdater.NET is a class library that allows .NET developers to easily add auto update functionality to their classic desktop application projects.
-- [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) – The Free Software Media System
+- [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) – The Free Software Media System - Server Backend & API
 - [MediaBrowser/Emby](https://github.com/MediaBrowser/Emby) – Emby Server is a personal media server with apps on just about every device.
 - [ProtonVPN/win-app](https://github.com/ProtonVPN/win-app) – Official ProtonVPN Windows app
 - [litedb-org/LiteDB](https://github.com/litedb-org/LiteDB) – LiteDB - A .NET NoSQL Document Store in a single data file
@@ -283,7 +283,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [niklasfasching/go-org](https://github.com/niklasfasching/go-org) – Org mode parser with html & pretty printed org rendering. also shitty static site generator.
 - [go-git/go-git](https://github.com/go-git/go-git) – A highly extensible Git implementation in pure Go.
 - [araddon/dateparse](https://github.com/araddon/dateparse) – GoLang Parse many date strings without knowing format in advance.
-- [dromara/carbon](https://github.com/dromara/carbon) – A simple, semantic and developer-friendly golang package for time.
+- [dromara/carbon](https://github.com/dromara/carbon) – A simple, semantic and developer-friendly  time  package for golang
 - [go-resty/resty](https://github.com/go-resty/resty) – Simple HTTP and REST client library for Go
 - [joewalnes/websocketd](https://github.com/joewalnes/websocketd) – Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets.
 - [juanfont/headscale](https://github.com/juanfont/headscale) – An open source, self-hosted implementation of the Tailscale control server
@@ -484,7 +484,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [subnub/myDrive](https://github.com/subnub/myDrive) – Node.js and mongoDB Google Drive Clone
 - [astrit/css.gg](https://github.com/astrit/css.gg) – 700+ Pure CSS, SVG & Figma UI Icons, 6000+ glyphs, patterns, colors and layouts.
 - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) – The best React-based framework with performance, scalability and security built in.
-- [jellyfin/jellyfin-web](https://github.com/jellyfin/jellyfin-web) – Web Client for Jellyfin
+- [jellyfin/jellyfin-web](https://github.com/jellyfin/jellyfin-web) – The Free Software Media System - Official Web Client
 - [joeferner/redis-commander](https://github.com/joeferner/redis-commander) – Redis management tool written in node.js
 - [BretFisher/node-docker-good-defaults](https://github.com/BretFisher/node-docker-good-defaults) – sample node app for Docker examples
 - [nas5w/typeofnan-javascript-quizzes](https://github.com/nas5w/typeofnan-javascript-quizzes) – JavaScript quiz questions and explanations!
