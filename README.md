@@ -361,7 +361,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [cli/cli](https://github.com/cli/cli) – GitHub’s official command line tool
 - [goproxy/goproxy](https://github.com/goproxy/goproxy) – A minimalist Go module proxy handler.
 - [gomods/athens](https://github.com/gomods/athens) – A Go module datastore and proxy
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) – Deliver Go binaries as fast and easily as possible
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) – Release engineering, simplified
 - [geziyor/geziyor](https://github.com/geziyor/geziyor) – Geziyor, blazing fast web crawling & scraping framework for Go. Supports JS rendering.
 - [josephspurrier/goversioninfo](https://github.com/josephspurrier/goversioninfo) – Golang Microsoft Windows File Properties/Version Info and Icon Resource Generator
 - [google/go-querystring](https://github.com/google/go-querystring) – go-querystring is Go library for encoding structs into URL query strings.
