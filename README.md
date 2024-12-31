@@ -672,6 +672,7 @@ $ starred --username yourname --repository awesome-stars --sort
 
 ## Shell 
 
+- [XTLS/Xray-install](https://github.com/XTLS/Xray-install) – Easiest way to install & upgrade Xray.
 - [djmaze/resticker](https://github.com/djmaze/resticker) – Run automatic restic backups via a Docker container.
 - [foundObjects/zram-swap](https://github.com/foundObjects/zram-swap) – A simple zram swap service for modern systemd Linux
 - [azlux/log2ram](https://github.com/azlux/log2ram) – ramlog like for systemd (Put log into a ram folder)
