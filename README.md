@@ -489,7 +489,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [joeferner/redis-commander](https://github.com/joeferner/redis-commander) – Redis management tool written in node.js
 - [BretFisher/node-docker-good-defaults](https://github.com/BretFisher/node-docker-good-defaults) – sample node app for Docker examples
 - [nas5w/typeofnan-javascript-quizzes](https://github.com/nas5w/typeofnan-javascript-quizzes) – JavaScript quiz questions and explanations!
-- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) – Short code snippets for all your development needs
+- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) – Coding articles to level up your development skills
 - [mrluanma/shadowsocks-heroku](https://github.com/mrluanma/shadowsocks-heroku) – shadowsocks over WebSocket, support Heroku.
 - [mochajs/mocha](https://github.com/mochajs/mocha) – ☕️ simple, flexible, fun javascript test framework for node.js & the browser
 - [chaijs/chai](https://github.com/chaijs/chai) – BDD / TDD assertion framework for node.js and the browser that can be paired with any testing framework.
@@ -643,6 +643,7 @@ $ starred --username yourname --repository awesome-stars --sort
 
 ## Rust 
 
+- [wez/wezterm](https://github.com/wez/wezterm) – A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [pkolaczk/fclones](https://github.com/pkolaczk/fclones) – Efficient Duplicate File Finder
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) – Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 - [orf/gping](https://github.com/orf/gping) – Ping, but with a graph
