@@ -170,7 +170,6 @@ $ starred --username yourname --repository awesome-stars --sort
 - [nodegui/nodegui](https://github.com/nodegui/nodegui) – A library for building cross-platform native desktop applications with Node.js and CSS  🚀.  React NodeGui : https://react.nodegui.org and Vue NodeGui: https://vue.nodegui.org
 - [yse/easy_profiler](https://github.com/yse/easy_profiler) – Lightweight profiler library for c++
 - [mahowik/BalancingWii](https://github.com/mahowik/BalancingWii) – Self balancing robot (Segway) based on modified/extended MultiWii 2.3 firmware.
-- [davisking/dlib](https://github.com/davisking/dlib) – A toolkit for making real world machine learning and data analysis applications in C++
 - [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) – Telegram Desktop messaging app
 - [Caphyon/ckrctxt](https://github.com/Caphyon/ckrctxt) – Visual Studio RC Text Bounds Checker
 - [yandex/handystats](https://github.com/yandex/handystats) – C++ library for collecting user-defined in-process runtime statistics with low overhead
@@ -713,6 +712,5 @@ $ starred --username yourname --repository awesome-stars --sort
 - [microsoft/playwright](https://github.com/microsoft/playwright) – Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [caprover/caprover](https://github.com/caprover/caprover) – Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [grafana/grafana](https://github.com/grafana/grafana) – The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
-- [nodegui/react-nodegui](https://github.com/nodegui/react-nodegui) – Build performant, native and cross-platform desktop applications with native React + powerful CSS like styling.🚀
 - [nathankellenicki/node-poweredup](https://github.com/nathankellenicki/node-poweredup) – A Javascript module to interface with LEGO Powered Up components.
 
