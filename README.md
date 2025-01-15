@@ -142,7 +142,6 @@ $ starred --username yourname --repository awesome-stars --sort
 - [qpdf/qpdf](https://github.com/qpdf/qpdf) – qpdf: A content-preserving PDF document transformer
 - [GothenburgBitFactory/taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior) – Taskwarrior - Command line Task Management
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) – A modern replacement for Redis and Memcached
-- [mumble-voip/mumble](https://github.com/mumble-voip/mumble) – Mumble is an open-source, low-latency, high quality voice chat software.
 - [paulftw/hiberlite](https://github.com/paulftw/hiberlite) – C++ ORM for SQLite
 - [MusicPlayerDaemon/MPD](https://github.com/MusicPlayerDaemon/MPD) – Music Player Daemon
 - [google/googletest](https://github.com/google/googletest) – GoogleTest - Google Testing and Mocking Framework
@@ -642,6 +641,7 @@ $ starred --username yourname --repository awesome-stars --sort
 
 ## Rust 
 
+- [Y2Z/monolith](https://github.com/Y2Z/monolith) – ⬛️ CLI tool for saving complete web pages as a single HTML file
 - [wez/wezterm](https://github.com/wez/wezterm) – A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [pkolaczk/fclones](https://github.com/pkolaczk/fclones) – Efficient Duplicate File Finder
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) – Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
@@ -691,7 +691,6 @@ $ starred --username yourname --repository awesome-stars --sort
 - [dicebear/dicebear](https://github.com/dicebear/dicebear) – DiceBear is an avatar library for designers and developers. 🌍
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) – Easy to maintain open source documentation websites.
 - [lindylearn/unclutter](https://github.com/lindylearn/unclutter) – A modern reader mode and article library for your browser.
-- [axentix/axentix](https://github.com/axentix/axentix) – The framework mixing fully customizable components and utility-first classes, leaving the design choice to the developer.
 - [MaxLeiter/Drift](https://github.com/MaxLeiter/Drift) – Drift is a self-hostable Gist and paste service. Built with Next.js 13 and React Server Components.
 - [immich-app/immich](https://github.com/immich-app/immich) – High performance self-hosted photo and video management solution.
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) – Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
