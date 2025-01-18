@@ -179,7 +179,7 @@ $ starred --username yourname --repository awesome-stars --sort
 ## CSS 
 
 - [jgthms/bulma](https://github.com/jgthms/bulma) – Modern CSS framework based on Flexbox
-- [theicfire/vimsheet](https://github.com/theicfire/vimsheet) – Vim cheat sheet from beginners to pros
+- [chaselambda/vimsheet](https://github.com/chaselambda/vimsheet) – Vim cheat sheet from beginners to pros
 - [Chalarangelo/30-seconds-of-css](https://github.com/Chalarangelo/30-seconds-of-css) – Short CSS code snippets for all your development needs
 - [animate-css/animate.css](https://github.com/animate-css/animate.css) – 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
 - [coredns/coredns.io](https://github.com/coredns/coredns.io) – CoreDNS website
@@ -256,7 +256,6 @@ $ starred --username yourname --repository awesome-stars --sort
 - [golang-jwt/jwt](https://github.com/golang-jwt/jwt) – Go implementation of JSON Web Tokens (JWT).
 - [go-oauth2/oauth2](https://github.com/go-oauth2/oauth2) – OAuth 2.0 server library for the Go programming language.
 - [alexedwards/scs](https://github.com/alexedwards/scs) – HTTP Session Management for Go
-- [go-pkgz/auth](https://github.com/go-pkgz/auth) – Authenticator via oauth2, direct, email and telegram
 - [urfave/negroni](https://github.com/urfave/negroni) – Idiomatic HTTP Middleware for Golang
 - [twitchtv/twirp](https://github.com/twitchtv/twirp) – A simple RPC framework with protobuf service definitions
 - [Fs02/go-todo-backend](https://github.com/Fs02/go-todo-backend) – Go Todo Backend example using modular project layout for product microservice.
@@ -410,7 +409,6 @@ $ starred --username yourname --repository awesome-stars --sort
 - [umputun/reproxy](https://github.com/umputun/reproxy) – Simple edge server / reverse proxy
 - [gorilla/websocket](https://github.com/gorilla/websocket) – Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.
 - [gorilla/schema](https://github.com/gorilla/schema) – Package gorilla/schema fills a struct with form values.
-- [gorilla/handlers](https://github.com/gorilla/handlers) – Package gorilla/handlers is a collection of useful middleware for Go HTTP services & web applications 🛃
 - [gorilla/sessions](https://github.com/gorilla/sessions) – Package gorilla/sessions provides cookie and filesystem sessions and infrastructure for custom session backends.
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) – AI-Powered Photos App for the Decentralized Web 🌈💎✨
 - [maxence-charriere/go-app](https://github.com/maxence-charriere/go-app) – A package to build progressive web apps with Go programming language and WebAssembly.
