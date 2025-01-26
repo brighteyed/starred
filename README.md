@@ -62,6 +62,7 @@ $ starred --username yourname --repository awesome-stars --sort
   - [SCSS](#scss)
   - [Shell](#shell)
   - [TypeScript](#typescript)
+  - [Zig](#zig)
 
 ## C 
 
@@ -685,6 +686,7 @@ $ starred --username yourname --repository awesome-stars --sort
 
 ## TypeScript 
 
+- [kysely-org/kysely](https://github.com/kysely-org/kysely) – A type-safe typescript SQL query builder
 - [outline/outline](https://github.com/outline/outline) – The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [jeffvli/feishin](https://github.com/jeffvli/feishin) – A modern self-hosted music player.
 - [iohub/collama](https://github.com/iohub/collama) – VSCode AI coding assistant powered by self-hosted llama.cpp endpoint.
@@ -712,4 +714,8 @@ $ starred --username yourname --repository awesome-stars --sort
 - [caprover/caprover](https://github.com/caprover/caprover) – Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [grafana/grafana](https://github.com/grafana/grafana) – The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [nathankellenicki/node-poweredup](https://github.com/nathankellenicki/node-poweredup) – A Javascript module to interface with LEGO Powered Up components.
+
+## Zig 
+
+- [ziglang/zig](https://github.com/ziglang/zig) – General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 
