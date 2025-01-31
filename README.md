@@ -378,7 +378,6 @@ $ starred --username yourname --repository awesome-stars --sort
 - [hexops/vecty](https://github.com/hexops/vecty) – Vecty lets you build responsive and dynamic web frontends in Go using WebAssembly, competing with modern web frameworks like React & VueJS.
 - [open-telemetry/opentelemetry-collector](https://github.com/open-telemetry/opentelemetry-collector) – OpenTelemetry Collector
 - [rakyll/go-test-trace](https://github.com/rakyll/go-test-trace) – Go test with tracing.
-- [soheilhy/cmux](https://github.com/soheilhy/cmux) – Connection multiplexer for GoLang: serve different services on the same port!
 - [jroimartin/gocui](https://github.com/jroimartin/gocui) – Minimalist Go package aimed at creating Console User Interfaces.
 - [hashicorp/vault](https://github.com/hashicorp/vault) – A tool for secrets management, encryption as a service, and privileged access management
 - [jesseduffield/horcrux](https://github.com/jesseduffield/horcrux) – Split your file into encrypted fragments so that you don't need to remember a passcode
