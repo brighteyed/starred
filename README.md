@@ -284,7 +284,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [go-git/go-git](https://github.com/go-git/go-git) – A highly extensible Git implementation in pure Go.
 - [araddon/dateparse](https://github.com/araddon/dateparse) – GoLang Parse many date strings without knowing format in advance.
 - [dromara/carbon](https://github.com/dromara/carbon) – A simple, semantic and developer-friendly  time  package for golang
-- [go-resty/resty](https://github.com/go-resty/resty) – Simple HTTP and REST client library for Go
+- [go-resty/resty](https://github.com/go-resty/resty) – Simple HTTP, REST, and SSE client library for Go
 - [joewalnes/websocketd](https://github.com/joewalnes/websocketd) – Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets.
 - [juanfont/headscale](https://github.com/juanfont/headscale) – An open source, self-hosted implementation of the Tailscale control server
 - [thomas11/csp](https://github.com/thomas11/csp) – Tony Hoare's seminal 1978 paper "Communicating sequential processes" implemented in Go.
