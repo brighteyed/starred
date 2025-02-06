@@ -402,7 +402,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [hibiken/asynq](https://github.com/hibiken/asynq) – Simple, reliable, and efficient distributed task queue in Go
 - [markbates/grift](https://github.com/markbates/grift) – Go based task runner
 - [go-task/task](https://github.com/go-task/task) – A task runner / simpler Make alternative written in Go
-- [dgraph-io/badger](https://github.com/dgraph-io/badger) – Fast key-value DB in Go.
+- [hypermodeinc/badger](https://github.com/hypermodeinc/badger) – Fast key-value DB in Go.
 - [asdine/storm](https://github.com/asdine/storm) – Simple and powerful toolkit for BoltDB
 - [etcd-io/bbolt](https://github.com/etcd-io/bbolt) – An embedded key/value database for Go.
 - [vmihailenco/taskq](https://github.com/vmihailenco/taskq) – Golang asynchronous task/job queue with Redis, SQS, IronMQ, and in-memory backends
