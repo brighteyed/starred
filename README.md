@@ -641,7 +641,7 @@ $ starred --username yourname --repository awesome-stars --sort
 ## Rust 
 
 - [Y2Z/monolith](https://github.com/Y2Z/monolith) – ⬛️ CLI tool for saving complete web pages as a single HTML file
-- [wez/wezterm](https://github.com/wez/wezterm) – A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
+- [wezterm/wezterm](https://github.com/wezterm/wezterm) – A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [pkolaczk/fclones](https://github.com/pkolaczk/fclones) – Efficient Duplicate File Finder
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) – Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 - [orf/gping](https://github.com/orf/gping) – Ping, but with a graph
