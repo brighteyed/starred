@@ -129,7 +129,7 @@ $ starred --username yourname --repository awesome-stars --sort
 ## C++ 
 
 - [espressif/arduino-esp32](https://github.com/espressif/arduino-esp32) – Arduino core for the ESP32
-- [Aircoookie/WLED](https://github.com/Aircoookie/WLED) – Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!
+- [wled-dev/WLED](https://github.com/wled-dev/WLED) – Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!
 - [razimantv/mazegenerator](https://github.com/razimantv/mazegenerator) – Generate mazes of different shapes and arbitrary sizes using graph theory
 - [Edzelf/ESP32Radio-V2](https://github.com/Edzelf/ESP32Radio-V2) – New version of the well known ESP32 Radio.  Now optional I2S output!
 - [a-a-maly/kumir2](https://github.com/a-a-maly/kumir2) – New home for Kumir2.
