@@ -620,7 +620,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [pympler/pympler](https://github.com/pympler/pympler) – Development tool to measure, monitor and analyze the memory behavior of Python objects in a running Python application.
 - [matplotlib/matplotlib](https://github.com/matplotlib/matplotlib) – matplotlib: plotting with Python
 - [mwaskom/seaborn](https://github.com/mwaskom/seaborn) – Statistical data visualization in Python
-- [plotly/plotly.py](https://github.com/plotly/plotly.py) – The interactive graphing library for Python :sparkles: This project now includes Plotly Express!
+- [plotly/plotly.py](https://github.com/plotly/plotly.py) – The interactive graphing library for Python :sparkles:
 - [wireservice/leather](https://github.com/wireservice/leather) – Python charting for 80% of humans.
 - [mozilla/bleach](https://github.com/mozilla/bleach) – Bleach is an allowed-list-based HTML sanitizing library that escapes or strips markup and attributes
 - [MortenHannemose/pytorch-vfi-cft](https://github.com/MortenHannemose/pytorch-vfi-cft) – Generate slow-motion videos by interpolating more frames
