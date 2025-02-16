@@ -135,7 +135,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [a-a-maly/kumir2](https://github.com/a-a-maly/kumir2) – New home for Kumir2.
 - [AlexandreRouma/SDRPlusPlus](https://github.com/AlexandreRouma/SDRPlusPlus) – Cross-Platform SDR Software
 - [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) – Port of OpenAI's Whisper model in C/C++
-- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) – LLM inference in C/C++
+- [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) – LLM inference in C/C++
 - [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) – Distribute and run LLMs with a single file.
 - [microsoft/proxy](https://github.com/microsoft/proxy) – Proxy: Next Generation Polymorphism in C++
 - [defold/defold](https://github.com/defold/defold) – Defold is a completely free to use game engine for development of desktop, mobile and web games.
