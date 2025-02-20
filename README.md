@@ -640,6 +640,7 @@ $ starred --username yourname --repository awesome-stars --sort
 
 ## Rust 
 
+- [agersant/polaris](https://github.com/agersant/polaris) – Polaris is a music streaming application, designed to let you enjoy your music collection from any computer or mobile device.
 - [Y2Z/monolith](https://github.com/Y2Z/monolith) – ⬛️ CLI tool for saving complete web pages as a single HTML file
 - [wezterm/wezterm](https://github.com/wezterm/wezterm) – A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [pkolaczk/fclones](https://github.com/pkolaczk/fclones) – Efficient Duplicate File Finder
