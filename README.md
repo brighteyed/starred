@@ -251,7 +251,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [gobuffalo/buffalo](https://github.com/gobuffalo/buffalo) – Rapid Web Development w/ Go
 - [radovskyb/watcher](https://github.com/radovskyb/watcher) – watcher is a Go package for watching for files or directory changes without using filesystem events.
 - [fsnotify/fsnotify](https://github.com/fsnotify/fsnotify) – Cross-platform filesystem notifications for Go.
-- [edgedb/edgedb-go](https://github.com/edgedb/edgedb-go) – The official Go client library for EdgeDB
+- [geldata/gel-go](https://github.com/geldata/gel-go) – The official Go client library for EdgeDB
 - [adnanh/webhook](https://github.com/adnanh/webhook) – webhook is a lightweight incoming webhook server to run shell commands
 - [life4/genesis](https://github.com/life4/genesis) – All generic functions for Go you ever need!
 - [golang-jwt/jwt](https://github.com/golang-jwt/jwt) – Go implementation of JSON Web Tokens (JWT).
@@ -559,7 +559,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [fogleman/Minecraft](https://github.com/fogleman/Minecraft) – Simple Minecraft-inspired program using Python and Pyglet
 - [huggingface/transformers](https://github.com/huggingface/transformers) – 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [JuanPotato/Legofy](https://github.com/JuanPotato/Legofy) – Make images look as if they are made out of 1x1 LEGO blocks
-- [edgedb/edgedb](https://github.com/edgedb/edgedb) – A graph-relational database with declarative schema, built-in migration system, and a next-generation query language
+- [geldata/gel](https://github.com/geldata/gel) – A graph-relational database with declarative schema, built-in migration system, and a next-generation query language
 - [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) – Project documentation with Markdown.
 - [datafold/data-diff](https://github.com/datafold/data-diff) – Compare tables within or across databases
 - [anufrievroman/calcure](https://github.com/anufrievroman/calcure) – Modern TUI calendar and task manager with minimal and customizable UI.
