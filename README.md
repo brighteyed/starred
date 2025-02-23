@@ -129,7 +129,7 @@ $ starred --username yourname --repository awesome-stars --sort
 ## C++ 
 
 - [espressif/arduino-esp32](https://github.com/espressif/arduino-esp32) – Arduino core for the ESP32
-- [wled/WLED](https://github.com/wled/WLED) – Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!
+- [wled/WLED](https://github.com/wled/WLED) – Control WS2812B and many more types of digital RGB LEDs with an ESP32 over WiFi!
 - [razimantv/mazegenerator](https://github.com/razimantv/mazegenerator) – Generate mazes of different shapes and arbitrary sizes using graph theory
 - [Edzelf/ESP32Radio-V2](https://github.com/Edzelf/ESP32Radio-V2) – New version of the well known ESP32 Radio.  Now optional I2S output!
 - [a-a-maly/kumir2](https://github.com/a-a-maly/kumir2) – New home for Kumir2.
@@ -559,7 +559,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [fogleman/Minecraft](https://github.com/fogleman/Minecraft) – Simple Minecraft-inspired program using Python and Pyglet
 - [huggingface/transformers](https://github.com/huggingface/transformers) – 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [JuanPotato/Legofy](https://github.com/JuanPotato/Legofy) – Make images look as if they are made out of 1x1 LEGO blocks
-- [geldata/gel](https://github.com/geldata/gel) – A graph-relational database with declarative schema, built-in migration system, and a next-generation query language
+- [geldata/gel](https://github.com/geldata/gel) – Gel supercharges Postgres with a modern data model, graph queries, Auth & AI solutions, and much more.
 - [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) – Project documentation with Markdown.
 - [datafold/data-diff](https://github.com/datafold/data-diff) – Compare tables within or across databases
 - [anufrievroman/calcure](https://github.com/anufrievroman/calcure) – Modern TUI calendar and task manager with minimal and customizable UI.
