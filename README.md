@@ -479,7 +479,6 @@ $ starred --username yourname --repository awesome-stars --sort
 - [mailslurper/mailslurper](https://github.com/mailslurper/mailslurper) – Local, web-based mail server application. Slurp mails into oblivion!
 - [googlesamples/google-photos](https://github.com/googlesamples/google-photos) – Samples for the Google Photos Library API 📸
 - [NUKnightLab/sql-mysteries](https://github.com/NUKnightLab/sql-mysteries) – Inspired by @veltman's command-line mystery, use SQL to research clues and find out whodunit!
-- [subnub/myDrive](https://github.com/subnub/myDrive) – Node.js and mongoDB Google Drive Clone
 - [astrit/css.gg](https://github.com/astrit/css.gg) – 700+ Pure CSS, SVG & Figma UI Icons, 6000+ glyphs, patterns, colors and layouts.
 - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) – The best React-based framework with performance, scalability and security built in.
 - [jellyfin/jellyfin-web](https://github.com/jellyfin/jellyfin-web) – The Free Software Media System - Official Web Client
@@ -706,6 +705,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [bitwarden/clients](https://github.com/bitwarden/clients) – Bitwarden client apps (web, browser extension, desktop, and cli).
 - [bitwarden/desktop](https://github.com/bitwarden/desktop) – The desktop vault (Windows, macOS, & Linux).
 - [actions/starter-workflows](https://github.com/actions/starter-workflows) – Accelerating new GitHub Actions workflows
+- [subnub/myDrive](https://github.com/subnub/myDrive) – Node.js and mongoDB Google Drive Clone
 - [coder/code-server](https://github.com/coder/code-server) – VS Code in the browser
 - [material-motion/direct](https://github.com/material-motion/direct) – Direct is a tool that helps motion designers provide clear, precise motion direction for engineers.
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) – A utility-first CSS framework for rapid UI development.
