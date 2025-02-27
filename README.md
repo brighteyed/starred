@@ -264,6 +264,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [restic/rest-server](https://github.com/restic/rest-server) – Rest Server is a high performance HTTP server that implements restic's REST backend API.
 - [ory/dockertest](https://github.com/ory/dockertest) – Write better integration tests! Dockertest helps you boot up ephermal docker images for your Go tests with minimal work.
 - [shadowsocks/go-shadowsocks2](https://github.com/shadowsocks/go-shadowsocks2) – Modern Shadowsocks in Go
+- [go-shiori/shiori](https://github.com/go-shiori/shiori) – Simple bookmark manager built with Go
 - [itchyny/maze](https://github.com/itchyny/maze) – A maze command written in Go
 - [itchyny/bed](https://github.com/itchyny/bed) – Binary editor written in Go
 - [itchyny/mmv](https://github.com/itchyny/mmv) – rename multiple files with editor
@@ -470,7 +471,6 @@ $ starred --username yourname --repository awesome-stars --sort
 - [qmk/qmk_configurator](https://github.com/qmk/qmk_configurator) – The QMK Configurator
 - [SadeghHayeri/GreenTunnel](https://github.com/SadeghHayeri/GreenTunnel) – GreenTunnel is an anti-censorship utility designed to bypass the DPI system that is put in place by various ISPs to block access to certain websites.
 - [asciinema/asciinema-player](https://github.com/asciinema/asciinema-player) – Web player for terminal session recordings
-- [go-shiori/shiori](https://github.com/go-shiori/shiori) – Simple bookmark manager built with Go
 - [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) – 🦄 A file manager / web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
 - [jwplayer/jwplayer](https://github.com/jwplayer/jwplayer) – JW Player is the world's most popular embeddable media player.
 - [xat/castnow](https://github.com/xat/castnow) – commandline chromecast player
