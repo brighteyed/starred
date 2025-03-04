@@ -498,7 +498,7 @@ $ starred --username yourname --repository awesome-stars --sort
 
 ## Jupyter Notebook 
 
-- [marceloprates/prettymaps](https://github.com/marceloprates/prettymaps) – A small set of Python functions to draw pretty maps from OpenStreetMap data. Based on osmnx, matplotlib and shapely libraries.
+- [marceloprates/prettymaps](https://github.com/marceloprates/prettymaps) – Draw pretty maps from OpenStreetMap data! Built with osmnx +matplotlib + shapely
 - [mml-book/mml-book.github.io](https://github.com/mml-book/mml-book.github.io) – Companion webpage to the book "Mathematics For Machine Learning"
 - [hooram/ownphotos](https://github.com/hooram/ownphotos) – Self hosted alternative to Google Photos
 - [jcjohnson/densecap](https://github.com/jcjohnson/densecap) – Dense image captioning in Torch
