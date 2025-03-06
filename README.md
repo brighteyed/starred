@@ -251,7 +251,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [gobuffalo/buffalo](https://github.com/gobuffalo/buffalo) – Rapid Web Development w/ Go
 - [radovskyb/watcher](https://github.com/radovskyb/watcher) – watcher is a Go package for watching for files or directory changes without using filesystem events.
 - [fsnotify/fsnotify](https://github.com/fsnotify/fsnotify) – Cross-platform filesystem notifications for Go.
-- [geldata/gel-go](https://github.com/geldata/gel-go) – The official Go client library for EdgeDB
+- [geldata/gel-go](https://github.com/geldata/gel-go) – The official Go client library for Gel
 - [adnanh/webhook](https://github.com/adnanh/webhook) – webhook is a lightweight incoming webhook server to run shell commands
 - [life4/genesis](https://github.com/life4/genesis) – All generic functions for Go you ever need!
 - [golang-jwt/jwt](https://github.com/golang-jwt/jwt) – Go implementation of JSON Web Tokens (JWT).
