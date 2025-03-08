@@ -215,6 +215,9 @@ $ starred --username yourname --repository awesome-stars --sort
 
 ## Go 
 
+- [GianlucaP106/minecraft](https://github.com/GianlucaP106/minecraft) – Minecraft clone from scratch with only OpenGL
+- [mgechev/revive](https://github.com/mgechev/revive) – 🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint
+- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) – Fast linters runner for Go
 - [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) – A PDF processor written in Go.
 - [cue-lang/cue](https://github.com/cue-lang/cue) – The home of the CUE language! Validate and define text-based and dynamic configuration
 - [charmbracelet/freeze](https://github.com/charmbracelet/freeze) – Generate images of code and terminal output 📸
@@ -639,7 +642,6 @@ $ starred --username yourname --repository awesome-stars --sort
 
 ## Rust 
 
-- [agersant/polaris](https://github.com/agersant/polaris) – Polaris is a music streaming application, designed to let you enjoy your music collection from any computer or mobile device.
 - [Y2Z/monolith](https://github.com/Y2Z/monolith) – ⬛️ CLI tool for saving complete web pages as a single HTML file
 - [wezterm/wezterm](https://github.com/wezterm/wezterm) – A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [pkolaczk/fclones](https://github.com/pkolaczk/fclones) – Efficient Duplicate File Finder
