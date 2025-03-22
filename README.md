@@ -195,6 +195,7 @@ $ starred --username yourname --repository awesome-stars --sort
 
 ## Dart 
 
+- [hiddify/hiddify-app](https://github.com/hiddify/hiddify-app) – Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.
 - [GitJournal/GitJournal](https://github.com/GitJournal/GitJournal) – Mobile first Note Taking integrated with Git
 - [thielepaul/photoprism-mobile](https://github.com/thielepaul/photoprism-mobile) – Flutter App for PhotoPrism
 - [flutter/samples](https://github.com/flutter/samples) – A collection of Flutter examples and demos
@@ -215,14 +216,12 @@ $ starred --username yourname --repository awesome-stars --sort
 
 ## Go 
 
-- [GianlucaP106/minecraft](https://github.com/GianlucaP106/minecraft) – Minecraft clone from scratch with only OpenGL
 - [mgechev/revive](https://github.com/mgechev/revive) – 🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) – Fast linters runner for Go
 - [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) – A PDF processor written in Go.
 - [cue-lang/cue](https://github.com/cue-lang/cue) – The home of the CUE language! Validate and define text-based and dynamic configuration
 - [charmbracelet/freeze](https://github.com/charmbracelet/freeze) – Generate images of code and terminal output 📸
 - [ebitengine/oto](https://github.com/ebitengine/oto) – ♪ A low-level library to play sound on multiple platforms ♪
-- [aldernero/sketchy](https://github.com/aldernero/sketchy) – A framework for creating generative art in Go
 - [deadpixi/wasm-maze-generator](https://github.com/deadpixi/wasm-maze-generator) – A simple WASM maze generator in Go
 - [brad811/go-dungeon](https://github.com/brad811/go-dungeon) – Random dungeon generator written in go. Based on the method described here: http://journal.stuffwithstuff.com/2014/12/21/rooms-and-mazes/
 - [contribsys/faktory](https://github.com/contribsys/faktory) – Language-agnostic persistent background job server
