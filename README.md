@@ -216,6 +216,7 @@ $ starred --username yourname --repository awesome-stars --sort
 
 ## Go 
 
+- [DiceDB/dice](https://github.com/DiceDB/dice) – DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.
 - [mgechev/revive](https://github.com/mgechev/revive) – 🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) – Fast linters runner for Go
 - [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) – A PDF processor written in Go.
