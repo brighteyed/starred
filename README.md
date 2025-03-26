@@ -80,7 +80,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [veracrypt/VeraCrypt](https://github.com/veracrypt/VeraCrypt) – Disk encryption with strong security based on TrueCrypt
 - [zlib-ng/minizip-ng](https://github.com/zlib-ng/minizip-ng) – Fork of the popular zip manipulation library found in the zlib distribution.
 - [kuba--/zip](https://github.com/kuba--/zip) – A portable, simple zip library written in C
-- [mpv-player/mpv](https://github.com/mpv-player/mpv) – 🎥 Command line video player
+- [mpv-player/mpv](https://github.com/mpv-player/mpv) – 🎥 Command line media player
 - [yrutschle/sslh](https://github.com/yrutschle/sslh) – Applicative Protocol Multiplexer (e.g. share SSH and HTTPS on the same port)
 - [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg) – Mirror of https://git.ffmpeg.org/ffmpeg.git
 - [jqlang/jq](https://github.com/jqlang/jq) – Command-line JSON processor
