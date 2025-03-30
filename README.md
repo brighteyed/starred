@@ -428,7 +428,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [uber-go/zap](https://github.com/uber-go/zap) – Blazing fast, structured, leveled logging in Go.
 - [patrickmn/go-cache](https://github.com/patrickmn/go-cache) – An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications.
 - [labstack/echo](https://github.com/labstack/echo) – High performance, minimalist Go web framework
-- [lestrrat-go/jwx](https://github.com/lestrrat-go/jwx) – Implementation of various JWx (Javascript Object Signing and Encryption/JOSE) technologies
+- [lestrrat-go/jwx](https://github.com/lestrrat-go/jwx) – Complete implementation of JWx (Javascript Object Signing and Encryption/JOSE) technologies for Go. #golang #jwt #jws #jwk #jwe
 - [go-chi/chi](https://github.com/go-chi/chi) – lightweight, idiomatic and composable router for building Go HTTP services
 - [n7olkachev/imgdiff](https://github.com/n7olkachev/imgdiff) – Faster than the fastest in the world pixel-by-pixel image difference tool.
 - [elazarl/goproxy](https://github.com/elazarl/goproxy) – An HTTP proxy library for Go
