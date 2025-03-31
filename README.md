@@ -66,6 +66,7 @@ $ starred --username yourname --repository awesome-stars --sort
 
 ## C 
 
+- [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) – Display and control your Android device
 - [fogleman/Craft](https://github.com/fogleman/Craft) – A simple Minecraft clone written in C using modern OpenGL (shaders).
 - [woltapp/blurhash](https://github.com/woltapp/blurhash) – A very compact representation of a placeholder for an image.
 - [jordansissel/xdotool](https://github.com/jordansissel/xdotool) – fake keyboard/mouse input, window management, and more
