@@ -135,7 +135,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [Edzelf/ESP32Radio-V2](https://github.com/Edzelf/ESP32Radio-V2) – New version of the well known ESP32 Radio.  Now optional I2S output!
 - [a-a-maly/kumir2](https://github.com/a-a-maly/kumir2) – New home for Kumir2.
 - [AlexandreRouma/SDRPlusPlus](https://github.com/AlexandreRouma/SDRPlusPlus) – Cross-Platform SDR Software
-- [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) – Port of OpenAI's Whisper model in C/C++
+- [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) – Port of OpenAI's Whisper model in C/C++
 - [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) – LLM inference in C/C++
 - [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) – Distribute and run LLMs with a single file.
 - [microsoft/proxy](https://github.com/microsoft/proxy) – Proxy: Next Generation Polymorphism in C++
