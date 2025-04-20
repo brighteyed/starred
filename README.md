@@ -217,6 +217,9 @@ $ starred --username yourname --repository awesome-stars --sort
 
 ## Go 
 
+- [hhrutter/lzw](https://github.com/hhrutter/lzw) – An extended version of compress/lzw.
+- [hhrutter/tiff](https://github.com/hhrutter/tiff) – An extended version of x/image/tiff.
+- [nfnt/resize](https://github.com/nfnt/resize) – Pure golang image resizing
 - [DiceDB/dice](https://github.com/DiceDB/dice) – DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.
 - [mgechev/revive](https://github.com/mgechev/revive) – 🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) – Fast linters runner for Go
