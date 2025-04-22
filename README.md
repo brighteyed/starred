@@ -167,7 +167,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) – Tesseract Open Source OCR Engine (main repository)
 - [RedisInsight/RedisDesktopManager](https://github.com/RedisInsight/RedisDesktopManager) – 
 - [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) – Protocol Buffers - Google's data interchange format
-- [grpc/grpc](https://github.com/grpc/grpc) – The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
+- [grpc/grpc](https://github.com/grpc/grpc) – C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
 - [priyankchheda/algorithms](https://github.com/priyankchheda/algorithms) – Data Structure Libraries and Algorithms implementation
 - [nodegui/nodegui](https://github.com/nodegui/nodegui) – A library for building cross-platform native desktop applications with Node.js and CSS  🚀.  React NodeGui : https://react.nodegui.org and Vue NodeGui: https://vue.nodegui.org
 - [yse/easy_profiler](https://github.com/yse/easy_profiler) – Lightweight profiler library for c++
@@ -217,6 +217,7 @@ $ starred --username yourname --repository awesome-stars --sort
 
 ## Go 
 
+- [sunshineplan/tiff](https://github.com/sunshineplan/tiff) – An extended version of x/image/tiff.
 - [hhrutter/lzw](https://github.com/hhrutter/lzw) – An extended version of compress/lzw.
 - [hhrutter/tiff](https://github.com/hhrutter/tiff) – An extended version of x/image/tiff.
 - [nfnt/resize](https://github.com/nfnt/resize) – Pure golang image resizing
@@ -556,6 +557,7 @@ $ starred --username yourname --repository awesome-stars --sort
 
 ## Python 
 
+- [DenisSergeevitch/poll-story-telegram-bot](https://github.com/DenisSergeevitch/poll-story-telegram-bot) – Скрипт предназначен для автоматической публикации опросов в Telegram-канале, создавая интерактивную историю.
 - [gruns/icecream](https://github.com/gruns/icecream) – 🍦 Never use print() to debug again.
 - [kiltum/litres-backup](https://github.com/kiltum/litres-backup) – Backup tool for litres.ru site
 - [MyBook/litresapi](https://github.com/MyBook/litresapi) – python-обёртка вокруг API ЛитРес на базе requests и xmltodict
@@ -692,7 +694,7 @@ $ starred --username yourname --repository awesome-stars --sort
 
 ## TypeScript 
 
-- [kysely-org/kysely](https://github.com/kysely-org/kysely) – A type-safe typescript SQL query builder
+- [kysely-org/kysely](https://github.com/kysely-org/kysely) – A type-safe TypeScript SQL query builder
 - [outline/outline](https://github.com/outline/outline) – The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [jeffvli/feishin](https://github.com/jeffvli/feishin) – A modern self-hosted music player.
 - [iohub/collama](https://github.com/iohub/collama) – VSCode AI coding assistant powered by self-hosted llama.cpp endpoint.
