@@ -633,7 +633,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [wireservice/leather](https://github.com/wireservice/leather) – Python charting for 80% of humans.
 - [mozilla/bleach](https://github.com/mozilla/bleach) – Bleach is an allowed-list-based HTML sanitizing library that escapes or strips markup and attributes
 - [MortenHannemose/pytorch-vfi-cft](https://github.com/MortenHannemose/pytorch-vfi-cft) – Generate slow-motion videos by interpolating more frames
-- [aerkalov/ebooklib](https://github.com/aerkalov/ebooklib) – Python E-book library for handling books in EPUB2/EPUB3  format -
+- [aerkalov/ebooklib](https://github.com/aerkalov/ebooklib) – A versatile Python library for EPUB2/EPUB3 manipulation and processing.
 - [takluyver/pynsist](https://github.com/takluyver/pynsist) – Build Windows installers for Python applications
 - [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition) – The world's simplest facial recognition api for Python and the command line
 - [python-telegram-bot/python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) – We have made you a wrapper you can't refuse
