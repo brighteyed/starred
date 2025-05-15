@@ -439,7 +439,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [elazarl/goproxy](https://github.com/elazarl/goproxy) – An HTTP proxy library for Go
 - [kisielk/errcheck](https://github.com/kisielk/errcheck) – errcheck checks that you checked errors.
 - [schollz/croc](https://github.com/schollz/croc) – Easily and securely send things from one computer to another :crocodile: :package:
-- [git-bug/git-bug](https://github.com/git-bug/git-bug) – Distributed, offline-first bug tracker embedded in git, with bridges
+- [git-bug/git-bug](https://github.com/git-bug/git-bug) – Distributed, offline-first bug tracker embedded in git
 - [akrylysov/pogreb](https://github.com/akrylysov/pogreb) – Embedded key-value store for read-heavy workloads written in Go
 - [harness/harness](https://github.com/harness/harness) – Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.
 - [coder/sshcode](https://github.com/coder/sshcode) – Run VS Code on any server over SSH.
