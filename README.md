@@ -298,7 +298,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [juanfont/headscale](https://github.com/juanfont/headscale) – An open source, self-hosted implementation of the Tailscale control server
 - [thomas11/csp](https://github.com/thomas11/csp) – Tony Hoare's seminal 1978 paper "Communicating sequential processes" implemented in Go.
 - [umputun/sys-agent](https://github.com/umputun/sys-agent) – System agent. Reports server status via HTTP API
-- [authelia/authelia](https://github.com/authelia/authelia) – The Single Sign-On Multi-Factor portal for web apps
+- [authelia/authelia](https://github.com/authelia/authelia) – The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
 - [gotify/server](https://github.com/gotify/server) – A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
 - [miniflux/v2](https://github.com/miniflux/v2) – Minimalist and opinionated feed reader
 - [mutagen-io/mutagen](https://github.com/mutagen-io/mutagen) – Fast file synchronization and network forwarding for remote development
