@@ -471,7 +471,7 @@ $ starred --username yourname --repository awesome-stars --sort
 
 ## JavaScript 
 
-- [usebruno/bruno](https://github.com/usebruno/bruno) – Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
+- [usebruno/bruno](https://github.com/usebruno/bruno) – Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 - [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) – Self-hosted audiobook and podcast server
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) – &lt;/&gt; htmx - high power tools for HTML
 - [webpro/reveal-md](https://github.com/webpro/reveal-md) – reveal.js on steroids! Get beautiful reveal.js presentations from any Markdown file
@@ -602,7 +602,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [ponty/PyVirtualDisplay](https://github.com/ponty/PyVirtualDisplay) – Python wrapper for Xvfb, Xephyr and Xvnc
 - [ionelmc/python-redis-lock](https://github.com/ionelmc/python-redis-lock) – Lock context manager implemented via redis SET NX EX and BLPOP.
 - [xxao/rebrick](https://github.com/xxao/rebrick) – Retrieve data from Rebrickable.com
-- [pyinfra-dev/pyinfra](https://github.com/pyinfra-dev/pyinfra) – :wrench: pyinfra turns Python code into shell commands and runs them on your servers. Execute ad-hoc commands and write declarative operations. Target SSH servers, local machine and Docker containers. Fast and scales from one server to thousands.
+- [pyinfra-dev/pyinfra](https://github.com/pyinfra-dev/pyinfra) – 🔧 pyinfra turns Python code into shell commands and runs them on your servers. Execute ad-hoc commands and write declarative operations. Target SSH servers, local machine and Docker containers. Fast and scales from one server to thousands.
 - [scrapy/scrapyd](https://github.com/scrapy/scrapyd) – A service daemon to run Scrapy spiders
 - [rmax/scrapy-redis](https://github.com/rmax/scrapy-redis) – Redis-based components for Scrapy.
 - [scrapy/scrapy](https://github.com/scrapy/scrapy) – Scrapy, a fast high-level web crawling & scraping framework for Python.
@@ -661,7 +661,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [shadowsocks/shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust) – A Rust port of shadowsocks
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) – a structural diff that understands syntax 🟥🟩
 - [agrinman/tunnelto](https://github.com/agrinman/tunnelto) – Expose your local web server to the internet with a public URL.
-- [rapiz1/rathole](https://github.com/rapiz1/rathole) – A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
+- [yujqiao/rathole](https://github.com/yujqiao/rathole) – A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) – A terminal workspace with batteries included
 - [PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless) – jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data.
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) – Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
