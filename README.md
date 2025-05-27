@@ -515,7 +515,7 @@ $ starred --username yourname --repository awesome-stars --sort
 
 - [OxygenCobalt/Auxio](https://github.com/OxygenCobalt/Auxio) – A simple, rational music player for android
 - [VREMSoftwareDevelopment/WiFiAnalyzer](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer) – Android application to analyze WiFi signals.
-- [Waboodoo/HTTP-Shortcuts](https://github.com/Waboodoo/HTTP-Shortcuts) – Android app to create home screen shortcuts that trigger arbitrary HTTP requests
+- [Waboodoo/HTTP-Shortcuts](https://github.com/Waboodoo/HTTP-Shortcuts) – Android app to create home screen shortcuts that trigger arbitrary HTTP requests and more
 - [shadowsocks/shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) – A shadowsocks client for Android
 - [tailscale/tailscale-android](https://github.com/tailscale/tailscale-android) – Tailscale Android Client
 - [jellyfin/jellyfin-android](https://github.com/jellyfin/jellyfin-android) – Android Client for Jellyfin
