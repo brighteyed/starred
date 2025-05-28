@@ -519,7 +519,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [shadowsocks/shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) – A shadowsocks client for Android
 - [tailscale/tailscale-android](https://github.com/tailscale/tailscale-android) – Tailscale Android Client
 - [jellyfin/jellyfin-android](https://github.com/jellyfin/jellyfin-android) – Android Client for Jellyfin
-- [bitwarden/android](https://github.com/bitwarden/android) – Bitwarden mobile app for Android.
+- [bitwarden/android](https://github.com/bitwarden/android) – Bitwarden mobile apps (Password Manager and Authenticator) for Android.
 - [square/picasso](https://github.com/square/picasso) – A powerful image downloading and caching library for Android
 - [muzei/muzei](https://github.com/muzei/muzei) – Muzei Live Wallpaper for Android
 
