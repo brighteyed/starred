@@ -567,7 +567,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [pypa/pipx](https://github.com/pypa/pipx) – Install and Run Python Applications in Isolated Environments
 - [coqui-ai/TTS](https://github.com/coqui-ai/TTS) – 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
 - [fogleman/Minecraft](https://github.com/fogleman/Minecraft) – Simple Minecraft-inspired program using Python and Pyglet
-- [huggingface/transformers](https://github.com/huggingface/transformers) – 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
+- [huggingface/transformers](https://github.com/huggingface/transformers) – 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
 - [JuanPotato/Legofy](https://github.com/JuanPotato/Legofy) – Make images look as if they are made out of 1x1 LEGO blocks
 - [geldata/gel](https://github.com/geldata/gel) – Gel supercharges Postgres with a modern data model, graph queries, Auth & AI solutions, and much more.
 - [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) – Project documentation with Markdown.
