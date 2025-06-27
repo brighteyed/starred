@@ -251,7 +251,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [samber/lo](https://github.com/samber/lo) – 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) – Your CLI home video recorder 📼
 - [uptrace/bun](https://github.com/uptrace/bun) – SQL-first Golang ORM
-- [volatiletech/sqlboiler](https://github.com/volatiletech/sqlboiler) – Generate a Go ORM tailored to your database schema.
+- [aarondl/sqlboiler](https://github.com/aarondl/sqlboiler) – Generate a Go ORM tailored to your database schema.
 - [zladovan/gorched](https://github.com/zladovan/gorched) – Gorched is terminal based game written in Go inspired by "The Mother of all games" Scorched Earth
 - [Masterminds/sprig](https://github.com/Masterminds/sprig) – Useful template functions for Go templates.
 - [wailsapp/wails](https://github.com/wailsapp/wails) – Create beautiful applications using Go
