@@ -165,7 +165,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [trevorsandy/lpub3d](https://github.com/trevorsandy/lpub3d) – An LDraw™ editor for LEGO® style digital building instructions.
 - [leozide/leocad](https://github.com/leozide/leocad) – A CAD application for creating virtual LEGO models
 - [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) – Tesseract Open Source OCR Engine (main repository)
-- [RedisInsight/RedisDesktopManager](https://github.com/RedisInsight/RedisDesktopManager) – 
+- [redis/RedisDesktopManager](https://github.com/redis/RedisDesktopManager) – 
 - [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) – Protocol Buffers - Google's data interchange format
 - [grpc/grpc](https://github.com/grpc/grpc) – C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
 - [priyankchheda/algorithms](https://github.com/priyankchheda/algorithms) – Data Structure Libraries and Algorithms implementation
