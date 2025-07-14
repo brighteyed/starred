@@ -235,7 +235,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [brad811/go-dungeon](https://github.com/brad811/go-dungeon) – Random dungeon generator written in go. Based on the method described here: http://journal.stuffwithstuff.com/2014/12/21/rooms-and-mazes/
 - [contribsys/faktory](https://github.com/contribsys/faktory) – Language-agnostic persistent background job server
 - [agejevasv/goradion](https://github.com/agejevasv/goradion) – Terminal based online radio player
-- [nalgeon/redka](https://github.com/nalgeon/redka) – Redis re-implemented with SQLite
+- [nalgeon/redka](https://github.com/nalgeon/redka) – Redis re-implemented with SQL
 - [reugn/go-quartz](https://github.com/reugn/go-quartz) – Minimalist and zero-dependency scheduling library for Go
 - [sosedoff/pgweb](https://github.com/sosedoff/pgweb) – Cross-platform client for PostgreSQL databases
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) – Render markdown on the CLI, with pizzazz! 💅🏻
