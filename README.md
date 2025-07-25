@@ -217,6 +217,7 @@ $ starred --username yourname --repository awesome-stars --sort
 
 ## Go 
 
+- [brianvoe/gofakeit](https://github.com/brianvoe/gofakeit) – Random fake data generator written in go
 - [BobdaProgrammer/doWM](https://github.com/BobdaProgrammer/doWM) – A beautiful window manager for x11
 - [gtsteffaniak/filebrowser](https://github.com/gtsteffaniak/filebrowser) – 📂 Web File Browser
 - [moby/swarmkit](https://github.com/moby/swarmkit) – A toolkit for orchestrating distributed systems at any scale. It includes primitives for node discovery, raft-based consensus, task scheduling and more.
