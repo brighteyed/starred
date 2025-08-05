@@ -349,7 +349,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [spf13/mgphoto](https://github.com/spf13/mgphoto) – A dead simple photo import tool
 - [mgerb/mgphoto](https://github.com/mgerb/mgphoto) – A dead simple command line photo import tool
 - [spf13/pflag](https://github.com/spf13/pflag) – Drop-in replacement for Go's flag package, implementing POSIX/GNU-style --flags.
-- [spf13/afero](https://github.com/spf13/afero) – A FileSystem Abstraction System for Go
+- [spf13/afero](https://github.com/spf13/afero) – The Universal Filesystem Abstraction for Go
 - [spf13/cobra](https://github.com/spf13/cobra) – A Commander for modern Go CLI interactions
 - [kkyr/fig](https://github.com/kkyr/fig) – A minimalist Go configuration library
 - [JeremyLoy/config](https://github.com/JeremyLoy/config) – 12 factor configuration as a typesafe struct in as little as two function calls
