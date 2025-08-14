@@ -77,7 +77,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [esnet/iperf](https://github.com/esnet/iperf) – iperf3:  A TCP, UDP, and SCTP network bandwidth measurement tool
 - [jpmens/jo](https://github.com/jpmens/jo) – JSON output from a shell
 - [zerotier/DesktopUI](https://github.com/zerotier/DesktopUI) – ZeroTier Desktop Tray Application and UI
-- [haiwen/seafile](https://github.com/haiwen/seafile) – High performance file syncing and sharing, with also Markdown WYSIWYG editing, Wiki, file label and other knowledge management features.
+- [haiwen/seafile](https://github.com/haiwen/seafile) – Beyong file syncing and sharing, a new way to organize your files with extensible file properties and flexible views
 - [veracrypt/VeraCrypt](https://github.com/veracrypt/VeraCrypt) – Disk encryption with strong security based on TrueCrypt
 - [zlib-ng/minizip-ng](https://github.com/zlib-ng/minizip-ng) – Fork of the popular zip manipulation library found in the zlib distribution.
 - [kuba--/zip](https://github.com/kuba--/zip) – A portable, simple zip library written in C
