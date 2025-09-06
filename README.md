@@ -484,7 +484,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [qmk/qmk_configurator](https://github.com/qmk/qmk_configurator) – The QMK Configurator
 - [SadeghHayeri/GreenTunnel](https://github.com/SadeghHayeri/GreenTunnel) – GreenTunnel is an anti-censorship utility designed to bypass the DPI system that is put in place by various ISPs to block access to certain websites.
 - [asciinema/asciinema-player](https://github.com/asciinema/asciinema-player) – Web player for terminal session recordings
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) – :file_folder: A file manager / web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) – :file_folder: The Dropbox like web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
 - [jwplayer/jwplayer](https://github.com/jwplayer/jwplayer) – JW Player is the world's most popular embeddable media player.
 - [xat/castnow](https://github.com/xat/castnow) – commandline chromecast player
 - [microsoft/Windows-universal-samples](https://github.com/microsoft/Windows-universal-samples) – API samples for the Universal Windows Platform.
