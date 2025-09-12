@@ -664,7 +664,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [Schniz/fnm](https://github.com/Schniz/fnm) – 🚀 Fast and simple Node.js version manager, built in Rust
 - [getzola/zola](https://github.com/getzola/zola) – A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) – Hurl, run and test HTTP requests with plain text.
-- [asciinema/asciinema](https://github.com/asciinema/asciinema) – Terminal session recorder 📹
+- [asciinema/asciinema](https://github.com/asciinema/asciinema) – Terminal session recorder, streamer and player 📹
 - [shadowsocks/shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust) – A Rust port of shadowsocks
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) – a structural diff that understands syntax 🟥🟩
 - [agrinman/tunnelto](https://github.com/agrinman/tunnelto) – Expose your local web server to the internet with a public URL.
