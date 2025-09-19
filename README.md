@@ -218,6 +218,7 @@ $ starred --username yourname --repository awesome-stars --sort
 
 ## Go 
 
+- [integrii/flaggy](https://github.com/integrii/flaggy) – Idiomatic Go input parsing with subcommands, positional values, and flags at any position. No required project or package layout and no external dependencies.
 - [brianvoe/gofakeit](https://github.com/brianvoe/gofakeit) – Random fake data generator written in go
 - [BobdaProgrammer/doWM](https://github.com/BobdaProgrammer/doWM) – A beautiful window manager for x11
 - [gtsteffaniak/filebrowser](https://github.com/gtsteffaniak/filebrowser) – 📂 Web File Browser
