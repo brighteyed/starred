@@ -106,7 +106,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [CommunityToolkit/WindowsCommunityToolkit](https://github.com/CommunityToolkit/WindowsCommunityToolkit) – The Windows Community Toolkit is a collection of helpers, extensions, and custom controls. It simplifies and demonstrates common developer tasks building .NET apps with UWP and the Windows App SDK / WinUI 3 for Windows 10 and Windows 11. The toolkit is part of the .NET Foundation.
 - [yoshiask/FluentSystemIconsUWP](https://github.com/yoshiask/FluentSystemIconsUWP) – A UWP library that provides easy access to the Fluent System Icons at https://github.com/microsoft/fluentui-system-icons
 - [dotnet/maui](https://github.com/dotnet/maui) – .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.
-- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) – Windows system utilities to maximize productivity
+- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) – Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks
 - [MathewSachin/Captura](https://github.com/MathewSachin/Captura) – Capture Screen, Audio, Cursor, Mouse Clicks and Keystrokes
 - [microsoft/Appsample-Photosharing](https://github.com/microsoft/Appsample-Photosharing) – Sample code for a UWP photo sharing app.
 - [microsoft/Windows-appsample-rssreader](https://github.com/microsoft/Windows-appsample-rssreader) – An RSS aggregator sample for the Universal Windows Platform.
