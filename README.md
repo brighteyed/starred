@@ -567,7 +567,6 @@ $ starred --username yourname --repository awesome-stars --sort
 
 ## Python 
 
-- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) – NVR with realtime local object detection for IP cameras
 - [DenisSergeevitch/poll-story-telegram-bot](https://github.com/DenisSergeevitch/poll-story-telegram-bot) – Скрипт предназначен для автоматической публикации опросов в Telegram-канале, создавая интерактивную историю.
 - [gruns/icecream](https://github.com/gruns/icecream) – 🍦 Never use print() to debug again.
 - [kiltum/litres-backup](https://github.com/kiltum/litres-backup) – Backup tool for litres.ru site
@@ -704,6 +703,7 @@ $ starred --username yourname --repository awesome-stars --sort
 ## TypeScript 
 
 - [cjpais/Handy](https://github.com/cjpais/Handy) – A free, open source, and extensible speech-to-text application that works completely offline.
+- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) – NVR with realtime local object detection for IP cameras
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) – A type-safe TypeScript SQL query builder
 - [outline/outline](https://github.com/outline/outline) – The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [jeffvli/feishin](https://github.com/jeffvli/feishin) – A modern self-hosted music player.
