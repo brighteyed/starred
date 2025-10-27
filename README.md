@@ -251,7 +251,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [a-h/templ](https://github.com/a-h/templ) – A language for writing HTML user interfaces in Go.
 - [ollama/ollama](https://github.com/ollama/ollama) – Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
 - [air-verse/air](https://github.com/air-verse/air) – ☁️ Live reload for Go apps
-- [usememos/memos](https://github.com/usememos/memos) – An open-source, self-hosted alternative to cloud note-taking services. No tracking, no ads, no subscription fees — just a clean, fast way to capture and organize your ideas.
+- [usememos/memos](https://github.com/usememos/memos) – An open-source, self-hosted note-taking services. No tracking, no ads, no subscription fees — just a clean, fast way to capture your ideas.
 - [samber/lo](https://github.com/samber/lo) – 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) – Your CLI home video recorder 📼
 - [uptrace/bun](https://github.com/uptrace/bun) – SQL-first Golang ORM
@@ -417,7 +417,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [hibiken/asynq](https://github.com/hibiken/asynq) – Simple, reliable, and efficient distributed task queue in Go
 - [markbates/grift](https://github.com/markbates/grift) – Go based task runner
 - [go-task/task](https://github.com/go-task/task) – A task runner / simpler Make alternative written in Go
-- [hypermodeinc/badger](https://github.com/hypermodeinc/badger) – Fast key-value DB in Go.
+- [dgraph-io/badger](https://github.com/dgraph-io/badger) – Fast key-value DB in Go.
 - [asdine/storm](https://github.com/asdine/storm) – Simple and powerful toolkit for BoltDB
 - [etcd-io/bbolt](https://github.com/etcd-io/bbolt) – An embedded key/value database for Go.
 - [vmihailenco/taskq](https://github.com/vmihailenco/taskq) – Golang asynchronous task/job queue with Redis, SQS, IronMQ, and in-memory backends
