@@ -274,7 +274,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [urfave/negroni](https://github.com/urfave/negroni) – Idiomatic HTTP Middleware for Golang
 - [twitchtv/twirp](https://github.com/twitchtv/twirp) – A simple RPC framework with protobuf service definitions
 - [Fs02/go-todo-backend](https://github.com/Fs02/go-todo-backend) – Go Todo Backend example using modular project layout for product microservice.
-- [xvzc/SpoofDPI](https://github.com/xvzc/SpoofDPI) – A simple and fast anti-censorship tool written in Go
+- [xvzc/SpoofDPI](https://github.com/xvzc/SpoofDPI) – Simple and fast anti-censorship tool written in Go
 - [restic/rest-server](https://github.com/restic/rest-server) – Rest Server is a high performance HTTP server that implements restic's REST backend API.
 - [ory/dockertest](https://github.com/ory/dockertest) – Write better integration tests! Dockertest helps you boot up ephermal docker images for your Go tests with minimal work.
 - [shadowsocks/go-shadowsocks2](https://github.com/shadowsocks/go-shadowsocks2) – Modern Shadowsocks in Go
