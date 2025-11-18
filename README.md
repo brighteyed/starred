@@ -292,7 +292,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) – 📂 Web File Browser
 - [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go) – Algorithms and Data Structures implemented in Go for beginners, following best practices.
 - [golang/go](https://github.com/golang/go) – The Go programming language
-- [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) – Cloudflare Tunnel client (formerly Argo Tunnel)
+- [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) – Cloudflare Tunnel client
 - [vultr/vultr-cli](https://github.com/vultr/vultr-cli) – Official command line tool for Vultr services
 - [joho/godotenv](https://github.com/joho/godotenv) – A Go port of Ruby's dotenv library (Loads environment variables from .env files)
 - [niklasfasching/go-org](https://github.com/niklasfasching/go-org) – Org mode parser with html & pretty printed org rendering. also shitty static site generator.
@@ -594,7 +594,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [hylang/hy](https://github.com/hylang/hy) – A dialect of Lisp that's embedded in Python
 - [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) – Your self hosted YouTube media server
 - [helloall1900/starred](https://github.com/helloall1900/starred) – creating your own Awesome List by GitHub stars!
-- [baserow/baserow](https://github.com/baserow/baserow) – Open-source no-code platform and the best alternative to Airtable. Build databases, applications, automations, and dashboards — all in one secure, self-hostable environment. Empower your team to create powerful tools without writing a single line of code.
+- [baserow/baserow](https://github.com/baserow/baserow) – Build databases, automations, apps & agents with AI — no code.  Open source platform available on cloud and self-hosted. GDPR, HIPAA, SOC 2 compliant. Best Airtable alternative.
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) – 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [sissbruecker/linkding](https://github.com/sissbruecker/linkding) – Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
 - [dbcli/pgcli](https://github.com/dbcli/pgcli) – Postgres CLI with autocompletion and syntax highlighting
