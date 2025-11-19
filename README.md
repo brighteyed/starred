@@ -486,7 +486,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [SadeghHayeri/GreenTunnel](https://github.com/SadeghHayeri/GreenTunnel) – GreenTunnel is an anti-censorship utility designed to bypass the DPI system that is put in place by various ISPs to block access to certain websites.
 - [asciinema/asciinema-player](https://github.com/asciinema/asciinema-player) – Web player for terminal session recordings
 - [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) – :file_folder: The Dropbox like web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
-- [jwplayer/jwplayer](https://github.com/jwplayer/jwplayer) – JW Player is the world's most popular embeddable media player.
+- [jwplayer/jwplayer](https://github.com/jwplayer/jwplayer) – No Longer Maintained
 - [xat/castnow](https://github.com/xat/castnow) – commandline chromecast player
 - [microsoft/Windows-universal-samples](https://github.com/microsoft/Windows-universal-samples) – API samples for the Universal Windows Platform.
 - [nextcloud/photos](https://github.com/nextcloud/photos) – 📸 Your memories under your control
