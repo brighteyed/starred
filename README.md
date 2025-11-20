@@ -433,7 +433,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [go-critic/go-critic](https://github.com/go-critic/go-critic) – The most opinionated Go source code linter for code audit.
 - [mackerelio/go-osstat](https://github.com/mackerelio/go-osstat) – OS system statistics library for Go
 - [uber-go/goleak](https://github.com/uber-go/goleak) – Goroutine leak detector
-- [ory/hydra](https://github.com/ory/hydra) – The only web-scale, fully customizable OpenID Certified™ OpenID Connect and OAuth2 Provider in the world. Become an OpenID Connect and OAuth2 Provider over night. Written in Go, cloud native, headless, API-first. Available as a service on Ory Network and for self-hosters. Relied upon by OpenAI and others for web-scale security.
+- [ory/hydra](https://github.com/ory/hydra) – Internet-scale OpenID Certified™ OpenID Connect and OAuth2.1 provider that integrates with your user management through headless APIs. Solve OIDC/OAuth2 user cases over night. Consume as a service on Ory Network or self-host. Trusted by OpenAI and many others for scale and security. Written in Go.
 - [ory/kratos](https://github.com/ory/kratos) – Headless cloud-native authentication and identity management written in Go. Scales to a billion+ users. Replace Homegrown, Auth0, Okta, Firebase with better UX and DX. Passkeys, Social Sign In, OIDC, Magic Link, Multi-Factor Auth, SMS, SAML, TOTP, and more. Runs everywhere, runs best on Ory Network.
 - [skratchdot/open-golang](https://github.com/skratchdot/open-golang) – Open a file, directory, or URI using the OS's default application for that object type. Optionally, you can specify an application to use.
 - [uber-go/zap](https://github.com/uber-go/zap) – Blazing fast, structured, leveled logging in Go.
