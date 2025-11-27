@@ -737,5 +737,5 @@ $ starred --username yourname --repository awesome-stars --sort
 
 ## Zig 
 
-- [ziglang/zig](https://github.com/ziglang/zig) – General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
+- [ziglang/zig](https://github.com/ziglang/zig) – Moved to Codeberg
 
