@@ -405,7 +405,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [nektos/act](https://github.com/nektos/act) – Run your GitHub Actions locally 🚀
 - [brendonmatos/golive](https://github.com/brendonmatos/golive) – ⚡ Live views for GoLang with reactive HTML over WebSockets 🔌
 - [direnv/direnv](https://github.com/direnv/direnv) – unclutter your .profile
-- [TwiN/gatus](https://github.com/TwiN/gatus) – ⛑ Automated developer-oriented status page
+- [TwiN/gatus](https://github.com/TwiN/gatus) – The most advanced status page in the world
 - [golobby/config](https://github.com/golobby/config) – A lightweight yet powerful configuration manager for the Go programming language
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) – A process for automating Docker container base image updates.
 - [evanw/esbuild](https://github.com/evanw/esbuild) – An extremely fast bundler for the web
