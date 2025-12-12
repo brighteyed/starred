@@ -251,7 +251,6 @@ $ starred --username yourname --repository awesome-stars --sort
 - [a-h/templ](https://github.com/a-h/templ) – A language for writing HTML user interfaces in Go.
 - [ollama/ollama](https://github.com/ollama/ollama) – Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
 - [air-verse/air](https://github.com/air-verse/air) – ☁️ Live reload for Go apps
-- [usememos/memos](https://github.com/usememos/memos) – An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
 - [samber/lo](https://github.com/samber/lo) – 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) – Your CLI home video recorder 📼
 - [uptrace/bun](https://github.com/uptrace/bun) – SQL-first Golang ORM
@@ -709,6 +708,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [outline/outline](https://github.com/outline/outline) – The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [jeffvli/feishin](https://github.com/jeffvli/feishin) – A modern self-hosted music player.
 - [iohub/collama](https://github.com/iohub/collama) – VSCode AI coding assistant powered by self-hosted llama.cpp endpoint.
+- [usememos/memos](https://github.com/usememos/memos) – An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
 - [dicebear/dicebear](https://github.com/dicebear/dicebear) – DiceBear is an avatar library for designers and developers. 🌍
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) – Easy to maintain open source documentation websites.
 - [lindylearn/unclutter](https://github.com/lindylearn/unclutter) – A modern reader mode and article library for your browser.
