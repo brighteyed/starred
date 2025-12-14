@@ -131,6 +131,7 @@ $ starred --username yourname --repository awesome-stars --sort
 
 ## C++ 
 
+- [AndrewB330/EuclideanMST](https://github.com/AndrewB330/EuclideanMST) – Implementations of different algorithms for building Euclidean minimum spanning tree in k-dimensional space.
 - [espressif/arduino-esp32](https://github.com/espressif/arduino-esp32) – Arduino core for the ESP32
 - [wled/WLED](https://github.com/wled/WLED) – Control WS2812B and many more types of digital RGB LEDs with an ESP32 over WiFi!
 - [razimantv/mazegenerator](https://github.com/razimantv/mazegenerator) – Generate mazes of different shapes and arbitrary sizes using graph theory
@@ -218,6 +219,7 @@ $ starred --username yourname --repository awesome-stars --sort
 
 ## Go 
 
+- [Workiva/go-datastructures](https://github.com/Workiva/go-datastructures) – A collection of useful, performant, and threadsafe Go datastructures.
 - [integrii/flaggy](https://github.com/integrii/flaggy) – Idiomatic Go input parsing with subcommands, positional values, and flags at any position. No required project or package layout and no external dependencies.
 - [brianvoe/gofakeit](https://github.com/brianvoe/gofakeit) – Random fake data generator written in go
 - [BobdaProgrammer/doWM](https://github.com/BobdaProgrammer/doWM) – A beautiful window manager for x11
