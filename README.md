@@ -583,7 +583,6 @@ $ starred --username yourname --repository awesome-stars --sort
 - [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) – Project documentation with Markdown.
 - [datafold/data-diff](https://github.com/datafold/data-diff) – Compare tables within or across databases
 - [anufrievroman/calcure](https://github.com/anufrievroman/calcure) – Modern TUI calendar and task manager with minimal and customizable UI.
-- [DavidMStraub/homeconnect](https://github.com/DavidMStraub/homeconnect) – 
 - [osresearch/hcpy](https://github.com/osresearch/hcpy) – Python tool to talk to Home Connect appliances over the local network (no cloud required)
 - [varunsridharan/github-gitea-mirror](https://github.com/varunsridharan/github-gitea-mirror) – Simple Python Script To Mirror Repository From Github To Gitea
 - [alexta69/metube](https://github.com/alexta69/metube) – Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)
