@@ -53,6 +53,7 @@ $ starred --username yourname --repository awesome-stars --sort
   - [Kotlin](#kotlin)
   - [Makefile](#makefile)
   - [Nim](#nim)
+  - [Nix](#nix)
   - [Others](#others)
   - [PHP](#php)
   - [PowerShell](#powershell)
@@ -538,6 +539,10 @@ $ starred --username yourname --repository awesome-stars --sort
 
 - [WyattBlue/auto-editor](https://github.com/WyattBlue/auto-editor) – Auto-Editor: Efficient media analysis and rendering
 
+## Nix 
+
+- [kawarimidoll/gh-q](https://github.com/kawarimidoll/gh-q) – A gh extension to clone GitHub repositories using fzf and ghq.
+
 ## Others 
 
 - [avito-tech/playbook](https://github.com/avito-tech/playbook) – AvitoTech team playbook
@@ -695,7 +700,6 @@ $ starred --username yourname --repository awesome-stars --sort
 - [foundObjects/zram-swap](https://github.com/foundObjects/zram-swap) – A simple zram swap service for modern systemd Linux
 - [azlux/log2ram](https://github.com/azlux/log2ram) – ramlog like for systemd (Put log into a ram folder)
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) – A black hole for Internet advertisements
-- [kawarimidoll/gh-q](https://github.com/kawarimidoll/gh-q) – A gh extension to clone GitHub repositories using fzf and ghq.
 - [matt-bartel/gh-clone-org](https://github.com/matt-bartel/gh-clone-org) – A github-cli extension script to clone all repositories in an organization, optionally filtering by topic.
 - [ghidraninja/game-and-watch-backup](https://github.com/ghidraninja/game-and-watch-backup) – Relatively easy to use scripts for backing up (and restoring) the original Game & Watch firmware.
 - [dokku/dokku](https://github.com/dokku/dokku) – A docker-powered PaaS that helps you build and manage the lifecycle of applications
