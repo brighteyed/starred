@@ -538,7 +538,7 @@ $ starred --username yourname --repository awesome-stars --sort
 
 ## Nim 
 
-- [WyattBlue/auto-editor](https://github.com/WyattBlue/auto-editor) – Auto-Editor: Efficient media analysis and rendering
+- [WyattBlue/auto-editor](https://github.com/WyattBlue/auto-editor) – Effort free video editing!
 
 ## Nix 
 
