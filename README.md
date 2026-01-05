@@ -408,7 +408,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [nektos/act](https://github.com/nektos/act) – Run your GitHub Actions locally 🚀
 - [brendonmatos/golive](https://github.com/brendonmatos/golive) – ⚡ Live views for GoLang with reactive HTML over WebSockets 🔌
 - [direnv/direnv](https://github.com/direnv/direnv) – unclutter your .profile
-- [TwiN/gatus](https://github.com/TwiN/gatus) – The most advanced status page in the world
+- [TwiN/gatus](https://github.com/TwiN/gatus) – Automated developer-oriented status page with alerting and incident support
 - [golobby/config](https://github.com/golobby/config) – A lightweight yet powerful configuration manager for the Go programming language
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) – A process for automating Docker container base image updates.
 - [evanw/esbuild](https://github.com/evanw/esbuild) – An extremely fast bundler for the web
@@ -504,7 +504,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [nas5w/typeofnan-javascript-quizzes](https://github.com/nas5w/typeofnan-javascript-quizzes) – JavaScript quiz questions and explanations!
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) – Coding articles to level up your development skills
 - [mrluanma/shadowsocks-heroku](https://github.com/mrluanma/shadowsocks-heroku) – shadowsocks over WebSocket, support Heroku.
-- [mochajs/mocha](https://github.com/mochajs/mocha) – ☕️ simple, flexible, fun javascript test framework for node.js & the browser
+- [mochajs/mocha](https://github.com/mochajs/mocha) – ☕️ classic, reliable, trusted JavaScript test framework for Node.js & the browser
 - [chaijs/chai](https://github.com/chaijs/chai) – BDD / TDD assertion framework for node.js and the browser that can be paired with any testing framework.
 - [postmanlabs/newman](https://github.com/postmanlabs/newman) – Newman is a command-line collection runner for Postman
 - [plotly/plotly.js](https://github.com/plotly/plotly.js) – Open-source JavaScript charting library behind Plotly and Dash
