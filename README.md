@@ -504,7 +504,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [nas5w/typeofnan-javascript-quizzes](https://github.com/nas5w/typeofnan-javascript-quizzes) – JavaScript quiz questions and explanations!
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) – Coding articles to level up your development skills
 - [mrluanma/shadowsocks-heroku](https://github.com/mrluanma/shadowsocks-heroku) – shadowsocks over WebSocket, support Heroku.
-- [mochajs/mocha](https://github.com/mochajs/mocha) – ☕️ classic, reliable, trusted JavaScript test framework for Node.js & the browser
+- [mochajs/mocha](https://github.com/mochajs/mocha) – ☕️ Classic, reliable, trusted test framework for Node.js and the browser
 - [chaijs/chai](https://github.com/chaijs/chai) – BDD / TDD assertion framework for node.js and the browser that can be paired with any testing framework.
 - [postmanlabs/newman](https://github.com/postmanlabs/newman) – Newman is a command-line collection runner for Postman
 - [plotly/plotly.js](https://github.com/plotly/plotly.js) – Open-source JavaScript charting library behind Plotly and Dash
