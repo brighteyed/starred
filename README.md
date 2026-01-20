@@ -335,7 +335,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [itchyny/gojq](https://github.com/itchyny/gojq) – Pure Go implementation of jq
 - [codenotary/immudb](https://github.com/codenotary/immudb) – immudb - immutable database based on zero trust, SQL/Key-Value/Document model, tamperproof, data change history
 - [GoogleChromeLabs/go-hackernews](https://github.com/GoogleChromeLabs/go-hackernews) – A Hacker News client written in Go
-- [zyedidia/micro](https://github.com/zyedidia/micro) – A modern and intuitive terminal-based text editor
+- [micro-editor/micro](https://github.com/micro-editor/micro) – A modern and intuitive terminal-based text editor
 - [gopherjs/gopherjs](https://github.com/gopherjs/gopherjs) – A compiler from Go to JavaScript for running Go code in a browser
 - [navidrome/navidrome](https://github.com/navidrome/navidrome) – 🎧☁️ Your Personal Streaming Service
 - [0xERR0R/blocky](https://github.com/0xERR0R/blocky) – Fast and lightweight DNS proxy as ad-blocker for local network with many features
