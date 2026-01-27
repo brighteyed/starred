@@ -252,7 +252,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [simulot/immich-go](https://github.com/simulot/immich-go) – An alternative to the immich-CLI command that doesn't depend on nodejs installation. It tries its best for importing google photos takeout archives.
 - [riverqueue/river](https://github.com/riverqueue/river) – Fast and reliable background jobs in Go
 - [a-h/templ](https://github.com/a-h/templ) – A language for writing HTML user interfaces in Go.
-- [ollama/ollama](https://github.com/ollama/ollama) – Get up and running with OpenAI GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) – Get up and running with GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [air-verse/air](https://github.com/air-verse/air) – ☁️ Live reload for Go apps
 - [usememos/memos](https://github.com/usememos/memos) – An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
 - [samber/lo](https://github.com/samber/lo) – 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
