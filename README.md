@@ -69,6 +69,7 @@ $ starred --username yourname --repository awesome-stars --sort
 ## C 
 
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) – Display and control your Android device
+- [dicedb/dicedb](https://github.com/dicedb/dicedb) – DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.
 - [mozilla-ai/llamafile](https://github.com/mozilla-ai/llamafile) – Distribute and run LLMs with a single file.
 - [fogleman/Craft](https://github.com/fogleman/Craft) – A simple Minecraft clone written in C using modern OpenGL (shaders).
 - [woltapp/blurhash](https://github.com/woltapp/blurhash) – A very compact representation of a placeholder for an image.
@@ -230,7 +231,6 @@ $ starred --username yourname --repository awesome-stars --sort
 - [hhrutter/lzw](https://github.com/hhrutter/lzw) – An extended version of compress/lzw.
 - [hhrutter/tiff](https://github.com/hhrutter/tiff) – An extended version of x/image/tiff.
 - [nfnt/resize](https://github.com/nfnt/resize) – Pure golang image resizing
-- [dicedb/dicedb](https://github.com/dicedb/dicedb) – DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.
 - [mgechev/revive](https://github.com/mgechev/revive) – 🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) – Fast linters runner for Go
 - [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) – A PDF processor written in Go.
@@ -488,7 +488,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [qmk/qmk_configurator](https://github.com/qmk/qmk_configurator) – The QMK Configurator
 - [SadeghHayeri/GreenTunnel](https://github.com/SadeghHayeri/GreenTunnel) – GreenTunnel is an anti-censorship utility designed to bypass the DPI system that is put in place by various ISPs to block access to certain websites.
 - [asciinema/asciinema-player](https://github.com/asciinema/asciinema-player) – Web player for terminal session recordings
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) – :file_folder: File Management Platform / Universal Data Access Gateway (without FUSE)
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) – :file_folder: File Management Platform / Universal Data Access Layer (without FUSE)
 - [jwplayer/jwplayer](https://github.com/jwplayer/jwplayer) – No Longer Maintained
 - [xat/castnow](https://github.com/xat/castnow) – commandline chromecast player
 - [microsoft/Windows-universal-samples](https://github.com/microsoft/Windows-universal-samples) – API samples for the Universal Windows Platform.
