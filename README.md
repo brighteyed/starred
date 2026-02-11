@@ -69,7 +69,7 @@ $ starred --username yourname --repository awesome-stars --sort
 ## C 
 
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) – Display and control your Android device
-- [dicedb/dicedb](https://github.com/dicedb/dicedb) – DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.
+- [dicedb/dicedb](https://github.com/dicedb/dicedb) – Open-source, low-latency key/value engine built on Valkey with hierarchical storage tiers.
 - [mozilla-ai/llamafile](https://github.com/mozilla-ai/llamafile) – Distribute and run LLMs with a single file.
 - [fogleman/Craft](https://github.com/fogleman/Craft) – A simple Minecraft clone written in C using modern OpenGL (shaders).
 - [woltapp/blurhash](https://github.com/woltapp/blurhash) – A very compact representation of a placeholder for an image.
