@@ -106,7 +106,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [microsoft/dotnet-podcasts](https://github.com/microsoft/dotnet-podcasts) – .NET reference application shown at .NET Conf featuring ASP.NET Core, Blazor, .NET MAUI, Microservices, Orleans, Playwright, and more!
 - [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) – A Swiss Army knife for developers.
 - [unoplatform/uno](https://github.com/unoplatform/uno) – Open-source platform for building cross-platform native Mobile, Web, Desktop and Embedded apps quickly.  Create rich, C#/XAML, single-codebase apps from any IDE. Hot Reload included! 90m+ NuGet Downloads!!
-- [CommunityToolkit/WindowsCommunityToolkit](https://github.com/CommunityToolkit/WindowsCommunityToolkit) – The Windows Community Toolkit is a collection of helpers, extensions, and custom controls. It simplifies and demonstrates common developer tasks building .NET apps with UWP and the Windows App SDK / WinUI 3 for Windows 10 and Windows 11. The toolkit is part of the .NET Foundation.
+- [CommunityToolkit/WindowsCommunityToolkit](https://github.com/CommunityToolkit/WindowsCommunityToolkit) – ARCHIVE - New Repo: https://aka.ms/toolkit/windows
 - [yoshiask/FluentSystemIconsUWP](https://github.com/yoshiask/FluentSystemIconsUWP) – A UWP library that provides easy access to the Fluent System Icons at https://github.com/microsoft/fluentui-system-icons
 - [dotnet/maui](https://github.com/dotnet/maui) – .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) – Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
@@ -497,7 +497,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [googlesamples/google-photos](https://github.com/googlesamples/google-photos) – Samples for the Google Photos Library API 📸
 - [NUKnightLab/sql-mysteries](https://github.com/NUKnightLab/sql-mysteries) – Inspired by @veltman's command-line mystery, use SQL to research clues and find out whodunit!
 - [astrit/css.gg](https://github.com/astrit/css.gg) – 700+ Pure CSS, SVG & Figma UI Icons, 6000+ glyphs, patterns, colors and layouts.
-- [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) – The best React-based framework with performance, scalability and security built in.
+- [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) – React-based framework with performance, scalability, and security built in.
 - [jellyfin/jellyfin-web](https://github.com/jellyfin/jellyfin-web) – The Free Software Media System - Official Web Client
 - [joeferner/redis-commander](https://github.com/joeferner/redis-commander) – Redis management tool written in node.js
 - [BretFisher/node-docker-good-defaults](https://github.com/BretFisher/node-docker-good-defaults) – sample node app for Docker examples
