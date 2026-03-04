@@ -64,6 +64,7 @@ $ starred --username yourname --repository awesome-stars --sort
   - [SCSS](#scss)
   - [Shell](#shell)
   - [TypeScript](#typescript)
+  - [Vue](#vue)
   - [Zig](#zig)
 
 ## C 
@@ -716,7 +717,6 @@ $ starred --username yourname --repository awesome-stars --sort
 - [outline/outline](https://github.com/outline/outline) – The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [jeffvli/feishin](https://github.com/jeffvli/feishin) – A modern self-hosted music player.
 - [iohub/collama](https://github.com/iohub/collama) – VSCode AI coding assistant powered by self-hosted llama.cpp endpoint.
-- [dicebear/dicebear](https://github.com/dicebear/dicebear) – DiceBear is an avatar library for designers and developers. 🌍
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) – Easy to maintain open source documentation websites.
 - [lindylearn/unclutter](https://github.com/lindylearn/unclutter) – A modern reader mode and article library for your browser.
 - [MaxLeiter/Drift](https://github.com/MaxLeiter/Drift) – Drift is a self-hostable Gist and paste service. Built with Next.js 13 and React Server Components.
@@ -741,6 +741,10 @@ $ starred --username yourname --repository awesome-stars --sort
 - [caprover/caprover](https://github.com/caprover/caprover) – Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [grafana/grafana](https://github.com/grafana/grafana) – The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [nathankellenicki/node-poweredup](https://github.com/nathankellenicki/node-poweredup) – A Javascript module to interface with LEGO Powered Up components.
+
+## Vue 
+
+- [dicebear/dicebear](https://github.com/dicebear/dicebear) – DiceBear is an avatar library for designers and developers. 🌍
 
 ## Zig 
 
