@@ -70,7 +70,7 @@ $ starred --username yourname --repository awesome-stars --sort
 ## C 
 
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) – Display and control your Android device
-- [dicedb/dicedb](https://github.com/dicedb/dicedb) – Open-source, low-latency key/value engine built on Valkey with hierarchical storage tiers.
+- [dicedb/dicedb](https://github.com/dicedb/dicedb) – Open-source, low-latency key/value engine built on Valkey with query subscriptions and hierarchical storage tiers.
 - [mozilla-ai/llamafile](https://github.com/mozilla-ai/llamafile) – Distribute and run LLMs with a single file.
 - [fogleman/Craft](https://github.com/fogleman/Craft) – A simple Minecraft clone written in C using modern OpenGL (shaders).
 - [woltapp/blurhash](https://github.com/woltapp/blurhash) – A very compact representation of a placeholder for an image.
@@ -255,7 +255,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [a-h/templ](https://github.com/a-h/templ) – A language for writing HTML user interfaces in Go.
 - [ollama/ollama](https://github.com/ollama/ollama) – Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [air-verse/air](https://github.com/air-verse/air) – ☁️ Live reload for Go apps
-- [usememos/memos](https://github.com/usememos/memos) – An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
+- [usememos/memos](https://github.com/usememos/memos) – An open-source, self-hosted note-taking tool. Capture thoughts instantly, own them completely — no tracking, no ads, no subscription fees.
 - [samber/lo](https://github.com/samber/lo) – 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) – Your CLI home video recorder 📼
 - [uptrace/bun](https://github.com/uptrace/bun) – SQL-first Golang ORM
@@ -594,7 +594,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [DavidMStraub/homeconnect](https://github.com/DavidMStraub/homeconnect) – 
 - [osresearch/hcpy](https://github.com/osresearch/hcpy) – Python tool to talk to Home Connect appliances over the local network (no cloud required)
 - [varunsridharan/github-gitea-mirror](https://github.com/varunsridharan/github-gitea-mirror) – Simple Python Script To Mirror Repository From Github To Gitea
-- [alexta69/metube](https://github.com/alexta69/metube) – Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)
+- [alexta69/metube](https://github.com/alexta69/metube) – Self-hosted video downloader for YouTube and other sites (web UI for youtube-dl / yt-dlp)
 - [evilsocket/opensnitch](https://github.com/evilsocket/opensnitch) – OpenSnitch is a GNU/Linux interactive application firewall inspired by Little Snitch.
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) – An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) – The official source code repository for the calibre ebook manager
