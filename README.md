@@ -222,6 +222,7 @@ $ starred --username yourname --repository awesome-stars --sort
 
 ## Go 
 
+- [alexballas/go2tv](https://github.com/alexballas/go2tv) – Cast media files to Smart TVs and Chromecast devices.
 - [Workiva/go-datastructures](https://github.com/Workiva/go-datastructures) – A collection of useful, performant, and threadsafe Go datastructures.
 - [integrii/flaggy](https://github.com/integrii/flaggy) – Idiomatic Go input parsing with subcommands, positional values, and flags at any position. No required project or package layout and no external dependencies.
 - [brianvoe/gofakeit](https://github.com/brianvoe/gofakeit) – Random fake data generator written in go
@@ -317,6 +318,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [mcuadros/ofelia](https://github.com/mcuadros/ofelia) – A docker job scheduler (aka. crontab for docker)
 - [felixge/httpsnoop](https://github.com/felixge/httpsnoop) – Package httpsnoop provides an easy way to capture http related metrics (i.e. response time, bytes written, and http status code) from your application's http.Handlers.
 - [wagoodman/dive](https://github.com/wagoodman/dive) – A tool for exploring each layer in a docker image
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) – :file_folder: File Management Platform / Universal Data Access Layer (without FUSE)
 - [alicebob/miniredis](https://github.com/alicebob/miniredis) – Pure Go Redis server for Go unittests
 - [goharbor/harbor](https://github.com/goharbor/harbor) – An open source trusted cloud native registry project that stores, signs, and scans content.
 - [peco/peco](https://github.com/peco/peco) – Simplistic interactive filtering tool
@@ -489,7 +491,6 @@ $ starred --username yourname --repository awesome-stars --sort
 - [qmk/qmk_configurator](https://github.com/qmk/qmk_configurator) – The QMK Configurator
 - [SadeghHayeri/GreenTunnel](https://github.com/SadeghHayeri/GreenTunnel) – GreenTunnel is an anti-censorship utility designed to bypass the DPI system that is put in place by various ISPs to block access to certain websites.
 - [asciinema/asciinema-player](https://github.com/asciinema/asciinema-player) – Web player for terminal session recordings and streams
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) – :file_folder: File Management Platform / Universal Data Access Layer (without FUSE)
 - [jwplayer/jwplayer](https://github.com/jwplayer/jwplayer) – No Longer Maintained
 - [xat/castnow](https://github.com/xat/castnow) – commandline chromecast player
 - [microsoft/Windows-universal-samples](https://github.com/microsoft/Windows-universal-samples) – API samples for the Universal Windows Platform.
@@ -643,7 +644,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [pika/pika](https://github.com/pika/pika) – Pure Python RabbitMQ/AMQP 0-9-1 client library
 - [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub) – Typed interactions with the GitHub API v3
 - [microservices-demo/microservices-demo](https://github.com/microservices-demo/microservices-demo) – Deployment scripts & config for Sock Shop
-- [coleifer/peewee](https://github.com/coleifer/peewee) – a small, expressive orm -- supports postgresql, mysql, sqlite and cockroachdb
+- [coleifer/peewee](https://github.com/coleifer/peewee) – a small, expressive orm -- supports postgresql, mysql, sqlite
 - [pympler/pympler](https://github.com/pympler/pympler) – Development tool to measure, monitor and analyze the memory behavior of Python objects in a running Python application.
 - [matplotlib/matplotlib](https://github.com/matplotlib/matplotlib) – matplotlib: plotting with Python
 - [mwaskom/seaborn](https://github.com/mwaskom/seaborn) – Statistical data visualization in Python
