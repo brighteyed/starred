@@ -222,6 +222,7 @@ $ starred --username yourname --repository awesome-stars --sort
 
 ## Go 
 
+- [9seconds/mtg](https://github.com/9seconds/mtg) – Highly opinionated MTPROTO proxy for Telegram
 - [alexballas/go2tv](https://github.com/alexballas/go2tv) – Cast media files to Smart TVs and Chromecast devices.
 - [Workiva/go-datastructures](https://github.com/Workiva/go-datastructures) – A collection of useful, performant, and threadsafe Go datastructures.
 - [integrii/flaggy](https://github.com/integrii/flaggy) – Idiomatic Go input parsing with subcommands, positional values, and flags at any position. No required project or package layout and no external dependencies.
