@@ -341,7 +341,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [GoogleChromeLabs/go-hackernews](https://github.com/GoogleChromeLabs/go-hackernews) – A Hacker News client written in Go
 - [micro-editor/micro](https://github.com/micro-editor/micro) – A modern and intuitive terminal-based text editor
 - [gopherjs/gopherjs](https://github.com/gopherjs/gopherjs) – A compiler from Go to JavaScript for running Go code in a browser
-- [navidrome/navidrome](https://github.com/navidrome/navidrome) – 🎧☁️ Your Personal Streaming Service
+- [navidrome/navidrome](https://github.com/navidrome/navidrome) – 🎧 Your Personal Streaming Service
 - [0xERR0R/blocky](https://github.com/0xERR0R/blocky) – Fast and lightweight DNS proxy as ad-blocker for local network with many features
 - [cristalhq/aconfig](https://github.com/cristalhq/aconfig) – Simple, useful and opinionated config loader.
 - [99designs/gqlgen](https://github.com/99designs/gqlgen) – go generate based graphql server library
