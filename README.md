@@ -71,7 +71,6 @@ $ starred --username yourname --repository awesome-stars --sort
 
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) – Display and control your Android device
 - [dicedb/dicedb](https://github.com/dicedb/dicedb) – Open-source, low-latency key/value engine built on Valkey with query subscriptions and hierarchical storage tiers.
-- [mozilla-ai/llamafile](https://github.com/mozilla-ai/llamafile) – Distribute and run LLMs with a single file.
 - [fogleman/Craft](https://github.com/fogleman/Craft) – A simple Minecraft clone written in C using modern OpenGL (shaders).
 - [woltapp/blurhash](https://github.com/woltapp/blurhash) – A very compact representation of a placeholder for an image.
 - [jordansissel/xdotool](https://github.com/jordansissel/xdotool) – fake keyboard/mouse input, window management, and more
@@ -143,6 +142,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [AlexandreRouma/SDRPlusPlus](https://github.com/AlexandreRouma/SDRPlusPlus) – Cross-Platform SDR Software
 - [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) – Port of OpenAI's Whisper model in C/C++
 - [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) – LLM inference in C/C++
+- [mozilla-ai/llamafile](https://github.com/mozilla-ai/llamafile) – Distribute and run LLMs with a single file.
 - [microsoft/proxy](https://github.com/microsoft/proxy) – Proxy: Next Generation Polymorphism in C++
 - [defold/defold](https://github.com/defold/defold) – Defold is a completely free to use game engine for development of desktop, mobile and web games.
 - [godotengine/godot](https://github.com/godotengine/godot) – Godot Engine – Multi-platform 2D and 3D game engine
