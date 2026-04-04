@@ -43,6 +43,7 @@ $ starred --username yourname --repository awesome-stars --sort
   - [Dart](#dart)
   - [Dockerfile](#dockerfile)
   - [Elixir](#elixir)
+  - [Fluent](#fluent)
   - [FreeMarker](#freemarker)
   - [Go](#go)
   - [HTML](#html)
@@ -215,6 +216,10 @@ $ starred --username yourname --repository awesome-stars --sort
 ## Elixir 
 
 - [asciinema/asciinema-server](https://github.com/asciinema/asciinema-server) – Platform for hosting and sharing terminal session recordings
+
+## Fluent 
+
+- [qarmin/czkawka](https://github.com/qarmin/czkawka) – Multi functional app to find duplicates, empty folders, similar images etc.
 
 ## FreeMarker 
 
@@ -687,7 +692,6 @@ $ starred --username yourname --repository awesome-stars --sort
 - [PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless) – jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data.
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) – Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) – A high-performance observability data pipeline.
-- [qarmin/czkawka](https://github.com/qarmin/czkawka) – Multi functional app to find duplicates, empty folders, similar images etc.
 - [dandavison/delta](https://github.com/dandavison/delta) – A syntax-highlighting pager for git, diff, grep, and blame output
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) – ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) – A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
