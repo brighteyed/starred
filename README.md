@@ -76,7 +76,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [woltapp/blurhash](https://github.com/woltapp/blurhash) – A very compact representation of a placeholder for an image.
 - [jordansissel/xdotool](https://github.com/jordansissel/xdotool) – fake keyboard/mouse input, window management, and more
 - [pygame/pygame](https://github.com/pygame/pygame) – 🐍🎮 pygame (the library) is a Free and Open Source python programming language library for making multimedia applications like games built on top of the excellent SDL library. C, Python, Native, OpenGL.
-- [Keychron/qmk_firmware](https://github.com/Keychron/qmk_firmware) – Open-source keyboard firmware for Atmel AVR and Arm USB families
+- [Keychron/qmk_firmware](https://github.com/Keychron/qmk_firmware) – Official QMK firmware for Keychron and Lemokey keyboards — 63 boards, Hall Effect support, online configurator compatible.
 - [ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) – GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)
 - [krallin/tini](https://github.com/krallin/tini) – A tiny but valid `init` for containers
 - [esnet/iperf](https://github.com/esnet/iperf) – iperf3:  A TCP, UDP, and SCTP network bandwidth measurement tool
