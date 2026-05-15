@@ -272,7 +272,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [wailsapp/wails](https://github.com/wailsapp/wails) – Create beautiful applications using Go
 - [PuerkitoBio/goquery](https://github.com/PuerkitoBio/goquery) – A little like that j-thing, only in Go.
 - [dewey/feedbridge](https://github.com/dewey/feedbridge) – Plugin based RSS feed generator for sites that don't offer any. Serves RSS, Atom and JSON Feeds.
-- [tidwall/gjson](https://github.com/tidwall/gjson) – Get JSON values quickly - JSON parser for Go
+- [tidwall/gjson](https://github.com/tidwall/gjson) – Get JSON values quickly - JSON parser for Go - MIRROR https://codeberg.org/tidwall/gjson
 - [gobuffalo/buffalo](https://github.com/gobuffalo/buffalo) – Rapid Web Development w/ Go
 - [radovskyb/watcher](https://github.com/radovskyb/watcher) – watcher is a Go package for watching for files or directory changes without using filesystem events.
 - [fsnotify/fsnotify](https://github.com/fsnotify/fsnotify) – Cross-platform filesystem notifications for Go.
