@@ -52,6 +52,7 @@ $ starred --username yourname --repository awesome-stars --sort
   - [Jinja](#jinja)
   - [Jupyter Notebook](#jupyter-notebook)
   - [Kotlin](#kotlin)
+  - [MDX](#mdx)
   - [Makefile](#makefile)
   - [Nim](#nim)
   - [Nix](#nix)
@@ -541,6 +542,10 @@ $ starred --username yourname --repository awesome-stars --sort
 - [square/picasso](https://github.com/square/picasso) – A powerful image downloading and caching library for Android
 - [muzei/muzei](https://github.com/muzei/muzei) – Muzei Live Wallpaper for Android
 
+## MDX 
+
+- [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) – 🗂 The essential checklist for modern web development, for humans and AI agents
+
 ## Makefile 
 
 - [jncraton/rebrickable-sqlite](https://github.com/jncraton/rebrickable-sqlite) – Set of scripts to create a local copy of the Rebrickable database
@@ -568,7 +573,6 @@ $ starred --username yourname --repository awesome-stars --sort
 - [ipfs/ipfs](https://github.com/ipfs/ipfs) – Peer-to-peer hypermedia protocol
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) – A curated list of awesome actions to use on GitHub
 - [toml-lang/toml](https://github.com/toml-lang/toml) – Tom's Obvious, Minimal Language
-- [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) – 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
 - [joshbuchea/HEAD](https://github.com/joshbuchea/HEAD) – A simple guide to HTML &lt;head&gt; elements
 - [mfornos/awesome-microservices](https://github.com/mfornos/awesome-microservices) – A curated list of Microservice Architecture related principles and technologies.
 - [LEGO/lego-ble-wireless-protocol-docs](https://github.com/LEGO/lego-ble-wireless-protocol-docs) – This repository contains information about LEGO Hubs (name, battery level, etc.) and to interact with any sensors and motors connected to it.
