@@ -71,6 +71,7 @@ $ starred --username yourname --repository awesome-stars --sort
 
 ## C 
 
+- [artyomsoft/pico-nu-pogodi](https://github.com/artyomsoft/pico-nu-pogodi) – Emulator of the Soviet hand held game "Nu, pogodi!" for Raspberry Pi Pico
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) – Display and control your Android device
 - [dicedb/dicedb](https://github.com/dicedb/dicedb) – Open-source, low-latency key/value engine built on Valkey with query subscriptions and hierarchical storage tiers.
 - [fogleman/Craft](https://github.com/fogleman/Craft) – A simple Minecraft clone written in C using modern OpenGL (shaders).
@@ -723,6 +724,7 @@ $ starred --username yourname --repository awesome-stars --sort
 
 ## TypeScript 
 
+- [RAIT-09/obsidian-agent-client](https://github.com/RAIT-09/obsidian-agent-client) – Bring AI agents into Obsidian via Agent Client Protocol (ACP), such as Claude Code, Codex and Gemini CLI.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) – Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) – NVR with realtime local object detection for IP cameras
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) – A type-safe TypeScript SQL query builder
