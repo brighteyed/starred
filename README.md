@@ -244,7 +244,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [nfnt/resize](https://github.com/nfnt/resize) – Pure golang image resizing
 - [mgechev/revive](https://github.com/mgechev/revive) – 🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) – Fast linters runner for Go
-- [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) – A PDF processor written in Go.
+- [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) – PDF tooling for Go and the command line.
 - [cue-lang/cue](https://github.com/cue-lang/cue) – The home of the CUE language! Validate and define text-based and dynamic configuration
 - [charmbracelet/freeze](https://github.com/charmbracelet/freeze) – Generate images of code and terminal output 📸
 - [ebitengine/oto](https://github.com/ebitengine/oto) – ♪ A low-level library to play sound on multiple platforms ♪
