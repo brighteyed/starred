@@ -89,6 +89,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [zlib-ng/minizip-ng](https://github.com/zlib-ng/minizip-ng) – Fork of the popular zip manipulation library found in the zlib distribution.
 - [kuba--/zip](https://github.com/kuba--/zip) – A portable, simple zip library written in C
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) – 🎥 Command line media player
+- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) – Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
 - [yrutschle/sslh](https://github.com/yrutschle/sslh) – Applicative Protocol Multiplexer (e.g. share SSH and HTTPS on the same port)
 - [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg) – Mirror of https://git.ffmpeg.org/ffmpeg.git
 - [jqlang/jq](https://github.com/jqlang/jq) – Command-line JSON processor
@@ -112,7 +113,6 @@ $ starred --username yourname --repository awesome-stars --sort
 - [CommunityToolkit/WindowsCommunityToolkit](https://github.com/CommunityToolkit/WindowsCommunityToolkit) – ARCHIVE - New Repo: https://aka.ms/toolkit/windows
 - [yoshiask/FluentSystemIconsUWP](https://github.com/yoshiask/FluentSystemIconsUWP) – A UWP library that provides easy access to the Fluent System Icons at https://github.com/microsoft/fluentui-system-icons
 - [dotnet/maui](https://github.com/dotnet/maui) – .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.
-- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) – Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
 - [MathewSachin/Captura](https://github.com/MathewSachin/Captura) – Capture Screen, Audio, Cursor, Mouse Clicks and Keystrokes
 - [microsoft/Appsample-Photosharing](https://github.com/microsoft/Appsample-Photosharing) – Sample code for a UWP photo sharing app.
 - [microsoft/Windows-appsample-rssreader](https://github.com/microsoft/Windows-appsample-rssreader) – An RSS aggregator sample for the Universal Windows Platform.
