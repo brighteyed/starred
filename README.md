@@ -656,7 +656,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [pika/pika](https://github.com/pika/pika) – Pure Python RabbitMQ/AMQP 0-9-1 client library
 - [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub) – Typed interactions with the GitHub API v3
 - [microservices-demo/microservices-demo](https://github.com/microservices-demo/microservices-demo) – Deployment scripts & config for Sock Shop
-- [coleifer/peewee](https://github.com/coleifer/peewee) – a small, expressive orm -- supports postgresql, mysql, sqlite
+- [coleifer/peewee](https://github.com/coleifer/peewee) – a small, expressive orm -- supports postgresql, mysql, sqlite, now with asyncio
 - [pympler/pympler](https://github.com/pympler/pympler) – Development tool to measure, monitor and analyze the memory behavior of Python objects in a running Python application.
 - [matplotlib/matplotlib](https://github.com/matplotlib/matplotlib) – matplotlib: plotting with Python
 - [mwaskom/seaborn](https://github.com/mwaskom/seaborn) – Statistical data visualization in Python
