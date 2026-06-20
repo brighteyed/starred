@@ -109,7 +109,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [MarcAnt01/Fluent-Screen-Recorder](https://github.com/MarcAnt01/Fluent-Screen-Recorder) – An award-winning minimal screen recorder for Windows
 - [microsoft/dotnet-podcasts](https://github.com/microsoft/dotnet-podcasts) – .NET reference application shown at .NET Conf featuring ASP.NET Core, Blazor, .NET MAUI, Microservices, Orleans, Playwright, and more!
 - [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) – A Swiss Army knife for developers.
-- [unoplatform/uno](https://github.com/unoplatform/uno) – Open-source platform for building cross-platform native Mobile, Web, Desktop and Embedded apps quickly.  Create rich, C#/XAML, single-codebase apps from any IDE. Hot Reload included! 90m+ NuGet Downloads!!
+- [unoplatform/uno](https://github.com/unoplatform/uno) – Open-source platform for building cross-platform native Mobile, Web, Desktop, and Embedded apps from a single C#/XAML codebase. Work from any IDE/CLI with Hot Reload, Visual Designer, MCPs, and Skills built for modern .NET workflows. 200M+ NuGet downloads.
 - [CommunityToolkit/WindowsCommunityToolkit](https://github.com/CommunityToolkit/WindowsCommunityToolkit) – ARCHIVE - New Repo: https://aka.ms/toolkit/windows
 - [yoshiask/FluentSystemIconsUWP](https://github.com/yoshiask/FluentSystemIconsUWP) – A UWP library that provides easy access to the Fluent System Icons at https://github.com/microsoft/fluentui-system-icons
 - [dotnet/maui](https://github.com/dotnet/maui) – .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.
