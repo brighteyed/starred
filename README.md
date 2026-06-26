@@ -440,7 +440,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [gorilla/websocket](https://github.com/gorilla/websocket) – Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.
 - [gorilla/schema](https://github.com/gorilla/schema) – Package gorilla/schema fills a struct with form values.
 - [gorilla/sessions](https://github.com/gorilla/sessions) – Package gorilla/sessions provides cookie and filesystem sessions and infrastructure for custom session backends.
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) – AI-Powered Photos App for the Decentralized Web 🌈💎✨
+- [photoprism/photoprism](https://github.com/photoprism/photoprism) – AI-Powered Photos App 🌈💎✨
 - [maxence-charriere/go-app](https://github.com/maxence-charriere/go-app) – A package to build progressive web apps with Go programming language and WebAssembly.
 - [mattetti/filebuffer](https://github.com/mattetti/filebuffer) – filebuffer is a package implementing a few file-like interfaces. The implementation is backed by a byte buffer. The main purpose is to have in-memory file alternative.
 - [miku/zek](https://github.com/miku/zek) – Generate a Go struct from XML.
@@ -724,6 +724,7 @@ $ starred --username yourname --repository awesome-stars --sort
 
 ## TypeScript 
 
+- [jamiepine/voicebox](https://github.com/jamiepine/voicebox) – The open-source AI voice studio. Clone, dictate, create.
 - [DenisSergeevitch/pole-chudes-2](https://github.com/DenisSergeevitch/pole-chudes-2) – Поле Чудес 2 (1993) — faithful TypeScript browser port of the DOS classic. Zero binaries: sprites are editable WebP, every asset rebuilds the original byte-for-byte.
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) – The open source coding agent.
 - [RAIT-09/obsidian-agent-client](https://github.com/RAIT-09/obsidian-agent-client) – Bring AI agents into Obsidian via Agent Client Protocol (ACP), such as Claude Code, Codex and Gemini CLI.
