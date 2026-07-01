@@ -499,7 +499,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [hakimel/reveal.js](https://github.com/hakimel/reveal.js) – The HTML Presentation Framework
 - [qmk/qmk_configurator](https://github.com/qmk/qmk_configurator) – The QMK Configurator
 - [SadeghHayeri/GreenTunnel](https://github.com/SadeghHayeri/GreenTunnel) – GreenTunnel is an anti-censorship utility designed to bypass the DPI system that is put in place by various ISPs to block access to certain websites.
-- [asciinema/asciinema-player](https://github.com/asciinema/asciinema-player) – Web player for terminal session recordings and streams
+- [asciinema/asciinema-player](https://github.com/asciinema/asciinema-player) – Web player for terminal session recordings and live streams
 - [jwplayer/jwplayer](https://github.com/jwplayer/jwplayer) – No Longer Maintained
 - [xat/castnow](https://github.com/xat/castnow) – commandline chromecast player
 - [microsoft/Windows-universal-samples](https://github.com/microsoft/Windows-universal-samples) – API samples for the Universal Windows Platform.
