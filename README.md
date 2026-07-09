@@ -327,7 +327,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [mcuadros/ofelia](https://github.com/mcuadros/ofelia) – A docker job scheduler (aka. crontab for docker)
 - [felixge/httpsnoop](https://github.com/felixge/httpsnoop) – Package httpsnoop provides an easy way to capture http related metrics (i.e. response time, bytes written, and http status code) from your application's http.Handlers.
 - [wagoodman/dive](https://github.com/wagoodman/dive) – A tool for exploring each layer in a docker image
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) – :file_folder: File Management Platform / Universal Data Access Layer (without FUSE)
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) – :file_folder: Universal File Storage Client
 - [alicebob/miniredis](https://github.com/alicebob/miniredis) – Pure Go Redis server for Go unittests
 - [goharbor/harbor](https://github.com/goharbor/harbor) – An open source trusted cloud native registry project that stores, signs, and scans content.
 - [peco/peco](https://github.com/peco/peco) – Simplistic interactive filtering tool
