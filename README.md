@@ -428,7 +428,6 @@ $ starred --username yourname --repository awesome-stars --sort
 - [stretchr/testify](https://github.com/stretchr/testify) – A toolkit with common assertions and mocks that plays nicely with the standard library
 - [jessevdk/go-flags](https://github.com/jessevdk/go-flags) – go command line option parser
 - [VKCOM/joy4](https://github.com/VKCOM/joy4) – Golang audio/video library and streaming server
-- [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) – Network-wide ads & trackers blocking DNS server
 - [hibiken/asynq](https://github.com/hibiken/asynq) – Simple, reliable, and efficient distributed task queue in Go
 - [markbates/grift](https://github.com/markbates/grift) – Go based task runner
 - [go-task/task](https://github.com/go-task/task) – A fast, cross-platform build tool inspired by Make, designed for modern workflows.
@@ -441,6 +440,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [gorilla/schema](https://github.com/gorilla/schema) – Package gorilla/schema fills a struct with form values.
 - [gorilla/sessions](https://github.com/gorilla/sessions) – Package gorilla/sessions provides cookie and filesystem sessions and infrastructure for custom session backends.
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) – AI-Powered Photos App 🌈💎✨
+- [photoview/photoview](https://github.com/photoview/photoview) – Photo gallery for self-hosted personal servers
 - [maxence-charriere/go-app](https://github.com/maxence-charriere/go-app) – A package to build progressive web apps with Go programming language and WebAssembly.
 - [mattetti/filebuffer](https://github.com/mattetti/filebuffer) – filebuffer is a package implementing a few file-like interfaces. The implementation is backed by a byte buffer. The main purpose is to have in-memory file alternative.
 - [miku/zek](https://github.com/miku/zek) – Generate a Go struct from XML.
@@ -744,7 +744,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [pawelmalak/flame](https://github.com/pawelmalak/flame) – Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.
 - [material-components/material-components-web](https://github.com/material-components/material-components-web) – Modular and customizable Material Design UI components for the web
 - [banga/git-split-diffs](https://github.com/banga/git-split-diffs) – Syntax highlighted side-by-side diffs in your terminal
-- [photoview/photoview](https://github.com/photoview/photoview) – Photo gallery for self-hosted personal servers
+- [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) – Network-wide ads & trackers blocking DNS server
 - [bitwarden/cli](https://github.com/bitwarden/cli) – The command line vault (Windows, macOS, & Linux).
 - [bitwarden/clients](https://github.com/bitwarden/clients) – Bitwarden client apps (web, browser extension, desktop, and cli).
 - [bitwarden/desktop](https://github.com/bitwarden/desktop) – The desktop vault (Windows, macOS, & Linux).
