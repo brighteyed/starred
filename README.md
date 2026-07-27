@@ -498,7 +498,6 @@ $ starred --username yourname --repository awesome-stars --sort
 - [webpro/reveal-md](https://github.com/webpro/reveal-md) – reveal.js on steroids! Get beautiful reveal.js presentations from any Markdown file
 - [hakimel/reveal.js](https://github.com/hakimel/reveal.js) – The HTML Presentation Framework
 - [qmk/qmk_configurator](https://github.com/qmk/qmk_configurator) – The QMK Configurator
-- [SadeghHayeri/GreenTunnel](https://github.com/SadeghHayeri/GreenTunnel) – GreenTunnel is an anti-censorship utility designed to bypass the DPI system that is put in place by various ISPs to block access to certain websites.
 - [asciinema/asciinema-player](https://github.com/asciinema/asciinema-player) – Web player for terminal session recordings and live streams
 - [jwplayer/jwplayer](https://github.com/jwplayer/jwplayer) – No Longer Maintained
 - [xat/castnow](https://github.com/xat/castnow) – commandline chromecast player
@@ -736,6 +735,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [iohub/collama](https://github.com/iohub/collama) – VSCode AI coding assistant powered by self-hosted llama.cpp endpoint.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) – Easy to maintain open source documentation websites.
 - [lindylearn/unclutter](https://github.com/lindylearn/unclutter) – A modern reader mode and article library for your browser.
+- [SadeghHayeri/GreenTunnel](https://github.com/SadeghHayeri/GreenTunnel) – GreenTunnel is an anti-censorship utility designed to bypass the DPI system that is put in place by various ISPs to block access to certain websites.
 - [MaxLeiter/Drift](https://github.com/MaxLeiter/Drift) – Drift is a self-hostable Gist and paste service. Built with Next.js 13 and React Server Components.
 - [immich-app/immich](https://github.com/immich-app/immich) – High performance self-hosted photo and video management solution.
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) – Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
