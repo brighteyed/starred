@@ -525,7 +525,6 @@ $ starred --username yourname --repository awesome-stars --sort
 
 ## Jupyter Notebook 
 
-- [marceloprates/prettymaps](https://github.com/marceloprates/prettymaps) – Draw pretty maps from OpenStreetMap data! Built with osmnx +matplotlib + shapely
 - [mml-book/mml-book.github.io](https://github.com/mml-book/mml-book.github.io) – Companion webpage to the book "Mathematics For Machine Learning"
 - [hooram/ownphotos](https://github.com/hooram/ownphotos) – Self hosted alternative to Google Photos
 - [jcjohnson/densecap](https://github.com/jcjohnson/densecap) – Dense image captioning in Torch
@@ -627,6 +626,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [jftuga/less-Windows](https://github.com/jftuga/less-Windows) – GNU less compiled for Windows 10 & 11. Stand-alone version with no dependencies.
 - [decalage2/oletools](https://github.com/decalage2/oletools) – oletools - python tools to analyze MS OLE2 files (Structured Storage, Compound File Binary Format) and MS Office documents, for malware analysis, forensics and debugging.
 - [sethblack/python-gift-exchange](https://github.com/sethblack/python-gift-exchange) – pyge: Holiday Gift Exchange Picker
+- [marceloprates/prettymaps](https://github.com/marceloprates/prettymaps) – Draw pretty maps from OpenStreetMap data! Built with osmnx +matplotlib + shapely
 - [gpdaniels/spike-prime](https://github.com/gpdaniels/spike-prime) – Experiments with the LEGO Mindstorms (51515) and SPIKE Prime (45678)
 - [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) – get things from one computer to another, safely
 - [ponty/PyVirtualDisplay](https://github.com/ponty/PyVirtualDisplay) – Python wrapper for Xvfb, Xephyr and Xvnc
