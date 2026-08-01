@@ -303,7 +303,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [cespare/reflex](https://github.com/cespare/reflex) – Run a command when files change
 - [wagslane/go-rabbitmq](https://github.com/wagslane/go-rabbitmq) – A wrapper of streadway/amqp that provides reconnection logic and sane defaults
 - [o1egl/govatar](https://github.com/o1egl/govatar) – Avatar generation library for GO language
-- [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) – 📂 Web File Browser
+- [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) – File Browser provides a file managing interface within a specified directory and it can be used to upload, delete, preview and edit your files.
 - [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go) – Algorithms and Data Structures implemented in Go for beginners, following best practices.
 - [golang/go](https://github.com/golang/go) – The Go programming language
 - [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) – Cloudflare Tunnel client
