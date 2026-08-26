@@ -492,6 +492,7 @@ $ starred --username yourname --repository awesome-stars --sort
 
 ## JavaScript 
 
+- [jkrandom-sudo/opencode-plugin-peers](https://github.com/jkrandom-sudo/opencode-plugin-peers) – Cross-session messaging for opencode — let independent sessions discover and text each other, modeled after Claude Code's cross-session messaging
 - [usebruno/bruno](https://github.com/usebruno/bruno) – Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 - [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) – Self-hosted audiobook and podcast server
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) – &lt;/&gt; htmx - high power tools for HTML
