@@ -147,7 +147,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) – LLM inference in C/C++
 - [mozilla-ai/llamafile](https://github.com/mozilla-ai/llamafile) – Distribute and run LLMs with a single file.
 - [microsoft/proxy](https://github.com/microsoft/proxy) – Proxy: Next Generation Polymorphism in C++
-- [defold/defold](https://github.com/defold/defold) – Defold is a completely free to use game engine for development of desktop, mobile and web games.
+- [defold/defold](https://github.com/defold/defold) – Defold is a completely free to use game engine for development of desktop, console, mobile and web games.
 - [godotengine/godot](https://github.com/godotengine/godot) – Godot Engine – Multi-platform 2D and 3D game engine
 - [facebook/watchman](https://github.com/facebook/watchman) – Watches files and records, or triggers actions, when they change.
 - [qpdf/qpdf](https://github.com/qpdf/qpdf) – qpdf: A content-preserving PDF document transformer
