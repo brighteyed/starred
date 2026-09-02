@@ -548,7 +548,7 @@ $ starred --username yourname --repository awesome-stars --sort
 
 ## Makefile 
 
-- [jncraton/rebrickable-sqlite](https://github.com/jncraton/rebrickable-sqlite) – Set of scripts to create a local copy of the Rebrickable database
+- [jncraton/rebrickable-sqlite](https://github.com/jncraton/rebrickable-sqlite) – Create a local copy of the Rebrickable database
 
 ## Nim 
 
