@@ -468,6 +468,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [mholt/timeliner](https://github.com/mholt/timeliner) – All your digital life on a single timeline, stored locally -- DEPRECATED, SEE TIMELINIZE (link below)
 - [upspin/upspin](https://github.com/upspin/upspin) – Upspin: A framework for naming everyone's everything.
 - [perkeep/perkeep](https://github.com/perkeep/perkeep) – Perkeep (née Camlistore) is your personal storage system for life: a way of storing, syncing, sharing, modelling and backing up content.
+- [dokku/dokku](https://github.com/dokku/dokku) – A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [hasura/gitkube](https://github.com/hasura/gitkube) – Build and deploy docker images to Kubernetes using git push
 - [linki/chaoskube](https://github.com/linki/chaoskube) – chaoskube periodically kills random pods in your Kubernetes cluster.
 - [dolthub/dolt](https://github.com/dolthub/dolt) – Dolt – Git for Data
@@ -718,7 +719,6 @@ $ starred --username yourname --repository awesome-stars --sort
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) – A black hole for Internet advertisements
 - [matt-bartel/gh-clone-org](https://github.com/matt-bartel/gh-clone-org) – A github-cli extension script to clone all repositories in an organization, optionally filtering by topic.
 - [ghidraninja/game-and-watch-backup](https://github.com/ghidraninja/game-and-watch-backup) – Relatively easy to use scripts for backing up (and restoring) the original Game & Watch firmware.
-- [dokku/dokku](https://github.com/dokku/dokku) – A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [elgohr/Publish-Docker-Github-Action](https://github.com/elgohr/Publish-Docker-Github-Action) – A Github Action used to build and publish Docker images
 - [umputun/mongo-auth](https://github.com/umputun/mongo-auth) – mongo docker with auth
 
