@@ -589,6 +589,7 @@ $ starred --username yourname --repository awesome-stars --sort
 ## Python 
 
 - [conan-io/conan](https://github.com/conan-io/conan) – Conan - The open-source C and C++ package manager
+- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) – NVR with realtime local object detection for IP cameras
 - [DenisSergeevitch/poll-story-telegram-bot](https://github.com/DenisSergeevitch/poll-story-telegram-bot) – Скрипт предназначен для автоматической публикации опросов в Telegram-канале, создавая интерактивную историю.
 - [gruns/icecream](https://github.com/gruns/icecream) – 🍦 Never use print() to debug again.
 - [kiltum/litres-backup](https://github.com/kiltum/litres-backup) – Backup tool for litres.ru site
@@ -729,7 +730,6 @@ $ starred --username yourname --repository awesome-stars --sort
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) – The open source coding agent.
 - [RAIT-09/obsidian-agent-client](https://github.com/RAIT-09/obsidian-agent-client) – Bring AI agents into Obsidian via Agent Client Protocol (ACP), such as Claude Code, Codex and Gemini CLI.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) – Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) – NVR with realtime local object detection for IP cameras
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) – A type-safe TypeScript SQL query builder
 - [outline/outline](https://github.com/outline/outline) – The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [jeffvli/feishin](https://github.com/jeffvli/feishin) – A modern self-hosted music player.
