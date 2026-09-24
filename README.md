@@ -242,7 +242,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [hhrutter/lzw](https://github.com/hhrutter/lzw) – An extended version of compress/lzw.
 - [hhrutter/tiff](https://github.com/hhrutter/tiff) – An extended version of x/image/tiff.
 - [nfnt/resize](https://github.com/nfnt/resize) – Pure golang image resizing
-- [mgechev/revive](https://github.com/mgechev/revive) – 🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint
+- [revive-lint/revive](https://github.com/revive-lint/revive) – 🔥 Fast, strict, configurable, extensible, and beautiful linter for Go
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) – Fast linters runner for Go
 - [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) – PDF tooling for Go and the command line.
 - [cue-lang/cue](https://github.com/cue-lang/cue) – The home of the CUE language! Validate and define text-based and dynamic configuration
