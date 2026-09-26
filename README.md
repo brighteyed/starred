@@ -251,7 +251,6 @@ $ starred --username yourname --repository awesome-stars --sort
 - [deadpixi/wasm-maze-generator](https://github.com/deadpixi/wasm-maze-generator) – A simple WASM maze generator in Go
 - [brad811/go-dungeon](https://github.com/brad811/go-dungeon) – Random dungeon generator written in go. Based on the method described here: http://journal.stuffwithstuff.com/2014/12/21/rooms-and-mazes/
 - [contribsys/faktory](https://github.com/contribsys/faktory) – Language-agnostic persistent background job server
-- [agejevasv/goradion](https://github.com/agejevasv/goradion) – Terminal based online radio player
 - [nalgeon/redka](https://github.com/nalgeon/redka) – Redis re-implemented with SQL
 - [reugn/go-quartz](https://github.com/reugn/go-quartz) – Minimalist and zero-dependency scheduling library for Go
 - [sosedoff/pgweb](https://github.com/sosedoff/pgweb) – Cross-platform client for PostgreSQL databases
@@ -460,7 +459,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [elazarl/goproxy](https://github.com/elazarl/goproxy) – An HTTP proxy library for Go
 - [kisielk/errcheck](https://github.com/kisielk/errcheck) – errcheck checks that you checked errors.
 - [schollz/croc](https://github.com/schollz/croc) – Easily and securely send things from one computer to another :crocodile: :package:
-- [git-bug/git-bug](https://github.com/git-bug/git-bug) – Distributed, offline-first bug tracker embedded in git
+- [git-bug/git-bug](https://github.com/git-bug/git-bug) – Distributed, offline-first bug tracker integrated in git
 - [akrylysov/pogreb](https://github.com/akrylysov/pogreb) – Embedded key-value store for read-heavy workloads written in Go
 - [harness/harness](https://github.com/harness/harness) – Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.
 - [coder/sshcode](https://github.com/coder/sshcode) – Run VS Code on any server over SSH.
@@ -588,6 +587,7 @@ $ starred --username yourname --repository awesome-stars --sort
 
 ## Python 
 
+- [xonika9/agent-skills](https://github.com/xonika9/agent-skills) – Practical Agent Skills for source-backed research, controlled browser sessions, idea critique, and reliable AI workflows.
 - [conan-io/conan](https://github.com/conan-io/conan) – Conan - The open-source C and C++ package manager
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) – NVR with realtime local object detection for IP cameras
 - [DenisSergeevitch/poll-story-telegram-bot](https://github.com/DenisSergeevitch/poll-story-telegram-bot) – Скрипт предназначен для автоматической публикации опросов в Telegram-канале, создавая интерактивную историю.
@@ -685,6 +685,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [cjpais/Handy](https://github.com/cjpais/Handy) – A free, open source, and extensible speech-to-text application that works completely offline.
 - [Y2Z/monolith](https://github.com/Y2Z/monolith) – ⬛️ CLI tool and library for saving complete web pages as a single HTML file
 - [wezterm/wezterm](https://github.com/wezterm/wezterm) – A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
+- [agejevasv/goradion](https://github.com/agejevasv/goradion) – Terminal based online radio player
 - [pkolaczk/fclones](https://github.com/pkolaczk/fclones) – Efficient Duplicate File Finder
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) – Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 - [orf/gping](https://github.com/orf/gping) – Ping, but with a graph
