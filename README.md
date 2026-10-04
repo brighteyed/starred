@@ -63,7 +63,6 @@ $ starred --username yourname --repository awesome-stars --sort
   - [Rich Text Format](#rich-text-format)
   - [Ruby](#ruby)
   - [Rust](#rust)
-  - [SCSS](#scss)
   - [Shell](#shell)
   - [TypeScript](#typescript)
   - [Vue](#vue)
@@ -708,10 +707,6 @@ $ starred --username yourname --repository awesome-stars --sort
 - [ducaale/xh](https://github.com/ducaale/xh) – Friendly and fast tool for sending HTTP requests
 - [timvisee/ffsend](https://github.com/timvisee/ffsend) – :mailbox_with_mail: Easily and securely share files from the command line. A fully featured Firefox Send client.
 
-## SCSS 
-
-- [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) – Cheatsheets for web development - devhints.io
-
 ## Shell 
 
 - [XTLS/Xray-install](https://github.com/XTLS/Xray-install) – Easiest way to install & upgrade Xray
@@ -755,6 +750,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [coder/code-server](https://github.com/coder/code-server) – VS Code in the browser
 - [material-motion/direct](https://github.com/material-motion/direct) – Direct is a tool that helps motion designers provide clear, precise motion direction for engineers.
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) – A utility-first CSS framework for rapid UI development.
+- [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) – Cheatsheets for web development - devhints.io
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) – JavaScript API for Chrome and Firefox
 - [microsoft/playwright](https://github.com/microsoft/playwright) – Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [caprover/caprover](https://github.com/caprover/caprover) – Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
