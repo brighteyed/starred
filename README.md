@@ -587,6 +587,7 @@ $ starred --username yourname --repository awesome-stars --sort
 ## Python 
 
 - [xonika9/agent-skills](https://github.com/xonika9/agent-skills) – Practical Agent Skills for source-backed research, controlled browser sessions, idea critique, and reliable AI workflows.
+- [jamiepine/voicebox](https://github.com/jamiepine/voicebox) – The open-source AI voice studio. Clone, dictate, create.
 - [conan-io/conan](https://github.com/conan-io/conan) – Conan - The open-source C and C++ package manager
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) – NVR with realtime local object detection for IP cameras
 - [DenisSergeevitch/poll-story-telegram-bot](https://github.com/DenisSergeevitch/poll-story-telegram-bot) – Скрипт предназначен для автоматической публикации опросов в Telegram-канале, создавая интерактивную историю.
@@ -721,7 +722,6 @@ $ starred --username yourname --repository awesome-stars --sort
 
 ## TypeScript 
 
-- [jamiepine/voicebox](https://github.com/jamiepine/voicebox) – The open-source AI voice studio. Clone, dictate, create.
 - [DenisSergeevitch/pole-chudes-2](https://github.com/DenisSergeevitch/pole-chudes-2) – Поле Чудес 2 (1993) — faithful TypeScript browser port of the DOS classic. Zero binaries: sprites are editable WebP, every asset rebuilds the original byte-for-byte.
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) – The open source coding agent.
 - [RAIT-09/obsidian-agent-client](https://github.com/RAIT-09/obsidian-agent-client) – Bring AI agents into Obsidian via Agent Client Protocol (ACP), such as Claude Code, Codex and Gemini CLI.
