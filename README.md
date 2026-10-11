@@ -259,7 +259,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [steebchen/prisma-client-go](https://github.com/steebchen/prisma-client-go) – Prisma Client Go is an auto-generated and fully type-safe database client
 - [tmrts/go-patterns](https://github.com/tmrts/go-patterns) – Curated list of Go design patterns, recipes and idioms
 - [simulot/immich-go](https://github.com/simulot/immich-go) – An alternative to the immich-CLI command that doesn't depend on nodejs installation. It tries its best for importing google photos takeout archives.
-- [riverqueue/river](https://github.com/riverqueue/river) – Fast and reliable background jobs in Go
+- [riverqueue/river](https://github.com/riverqueue/river) – The polyglot queue: Fast and reliable background jobs in Go, Ruby, Rust, and JS/TS on Postgres or SQLite.
 - [a-h/templ](https://github.com/a-h/templ) – A language for writing HTML user interfaces in Go.
 - [ollama/ollama](https://github.com/ollama/ollama) – Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [air-verse/air](https://github.com/air-verse/air) – ☁️ Live reload for Go apps
