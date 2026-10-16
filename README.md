@@ -70,6 +70,8 @@ $ starred --username yourname --repository awesome-stars --sort
 
 ## C 
 
+- [Quixotic7/ChoralRootFM1](https://github.com/Quixotic7/ChoralRootFM1) – Telepathic chord machine for the MVave FM-1
+- [hugelton/Felucca](https://github.com/hugelton/Felucca) – Custom firmware for M-VAVE FM-1
 - [artyomsoft/pico-nu-pogodi](https://github.com/artyomsoft/pico-nu-pogodi) – Emulator of the Soviet hand held game "Nu, pogodi!" for Raspberry Pi Pico
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) – Display and control your Android device
 - [dicedb/dicedb](https://github.com/dicedb/dicedb) – Open-source, low-latency key/value engine built on Valkey with query subscriptions and hierarchical storage tiers.
