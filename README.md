@@ -52,6 +52,7 @@ $ starred --username yourname --repository awesome-stars --sort
   - [Jinja](#jinja)
   - [Jupyter Notebook](#jupyter-notebook)
   - [Kotlin](#kotlin)
+  - [Lua](#lua)
   - [MDX](#mdx)
   - [Makefile](#makefile)
   - [Nim](#nim)
@@ -542,6 +543,10 @@ $ starred --username yourname --repository awesome-stars --sort
 - [bitwarden/android](https://github.com/bitwarden/android) – Bitwarden mobile apps (Password Manager and Authenticator) for Android.
 - [square/picasso](https://github.com/square/picasso) – A powerful image downloading and caching library for Android
 - [muzei/muzei](https://github.com/muzei/muzei) – Muzei Live Wallpaper for Android
+
+## Lua 
+
+- [kevinraymond/florilegium](https://github.com/kevinraymond/florilegium) – Procedurally generated Delft-blue floral page margins for LuaLaTeX, drawn in Lua
 
 ## MDX 
 
