@@ -52,7 +52,6 @@ $ starred --username yourname --repository awesome-stars --sort
   - [Jinja](#jinja)
   - [Jupyter Notebook](#jupyter-notebook)
   - [Kotlin](#kotlin)
-  - [Lua](#lua)
   - [MDX](#mdx)
   - [Makefile](#makefile)
   - [Nim](#nim)
@@ -65,6 +64,7 @@ $ starred --username yourname --repository awesome-stars --sort
   - [Ruby](#ruby)
   - [Rust](#rust)
   - [Shell](#shell)
+  - [TeX](#tex)
   - [TypeScript](#typescript)
   - [Vue](#vue)
   - [Zig](#zig)
@@ -543,10 +543,6 @@ $ starred --username yourname --repository awesome-stars --sort
 - [square/picasso](https://github.com/square/picasso) – A powerful image downloading and caching library for Android
 - [muzei/muzei](https://github.com/muzei/muzei) – Muzei Live Wallpaper for Android
 
-## Lua 
-
-- [kevinraymond/florilegium](https://github.com/kevinraymond/florilegium) – Procedurally generated Delft-blue floral page margins for LuaLaTeX, drawn in Lua
-
 ## MDX 
 
 - [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) – 🗂 The essential checklist for modern web development, for humans and AI agents
@@ -726,6 +722,10 @@ $ starred --username yourname --repository awesome-stars --sort
 - [dokku/dokku](https://github.com/dokku/dokku) – A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [elgohr/Publish-Docker-Github-Action](https://github.com/elgohr/Publish-Docker-Github-Action) – A Github Action used to build and publish Docker images
 - [umputun/mongo-auth](https://github.com/umputun/mongo-auth) – mongo docker with auth
+
+## TeX 
+
+- [kevinraymond/florilegium](https://github.com/kevinraymond/florilegium) – Procedurally generated Delft-blue floral page margins for LuaLaTeX, drawn in Lua
 
 ## TypeScript 
 
