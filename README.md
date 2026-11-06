@@ -725,7 +725,7 @@ $ starred --username yourname --repository awesome-stars --sort
 
 ## TeX 
 
-- [kevinraymond/florilegium](https://github.com/kevinraymond/florilegium) – Procedurally generated Delft-blue floral page margins for LuaLaTeX, drawn in Lua
+- [kevinraymond/florilegium](https://github.com/kevinraymond/florilegium) – Procedurally generated Delft-blue floral page margins for LuaLaTeX, with plants and visitors sampled from genomes and a TikZ library that also draws them under pdfLaTeX
 
 ## TypeScript 
 
