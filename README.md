@@ -703,7 +703,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless) – jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data.
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) – Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) – A high-performance observability data pipeline.
-- [dandavison/delta](https://github.com/dandavison/delta) – A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
+- [dandavison/delta](https://github.com/dandavison/delta) – A syntax-highlighting interface for git, diff, blame, and grep/ripgrep
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) – ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) – A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) – Secure and fast microVMs for serverless computing.
@@ -725,7 +725,7 @@ $ starred --username yourname --repository awesome-stars --sort
 
 ## TeX 
 
-- [kevinraymond/florilegium](https://github.com/kevinraymond/florilegium) – Procedurally generated Delft-blue floral page margins for LuaLaTeX, with plants and visitors sampled from genomes and a TikZ library that also draws them under pdfLaTeX
+- [kevinraymond/florilegium](https://github.com/kevinraymond/florilegium) – Procedurally generated Delft-blue page margins for LuaLaTeX, with plants, visitors, shells and Gothic tracery sampled from genomes, and a TikZ library that draws them in pure TikZ under pdfLaTeX.
 
 ## TypeScript 
 
