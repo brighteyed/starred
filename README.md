@@ -330,7 +330,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [wagoodman/dive](https://github.com/wagoodman/dive) – A tool for exploring each layer in a docker image
 - [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) – :file_folder: Universal File Management Platform (for humans and agents)
 - [alicebob/miniredis](https://github.com/alicebob/miniredis) – Pure Go Redis server for Go unittests
-- [goharbor/harbor](https://github.com/goharbor/harbor) – An open source trusted cloud native registry project that stores, signs, and scans content.
+- [goharbor/harbor](https://github.com/goharbor/harbor) – Harbor is a CNCF graduated open-source container registry to manage container images and other OCI artifacts securely with policies, role-based access control, vulnerability scans and signing.
 - [peco/peco](https://github.com/peco/peco) – Simplistic interactive filtering tool
 - [anacrolix/torrent](https://github.com/anacrolix/torrent) – Full-featured BitTorrent client package and utilities
 - [jpillora/cloud-torrent](https://github.com/jpillora/cloud-torrent) – ☁️ Cloud Torrent: a self-hosted remote torrent client
