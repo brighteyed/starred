@@ -469,7 +469,6 @@ $ starred --username yourname --repository awesome-stars --sort
 - [mholt/timeliner](https://github.com/mholt/timeliner) – All your digital life on a single timeline, stored locally -- DEPRECATED, SEE TIMELINIZE (link below)
 - [upspin/upspin](https://github.com/upspin/upspin) – Upspin: A framework for naming everyone's everything.
 - [perkeep/perkeep](https://github.com/perkeep/perkeep) – Perkeep (née Camlistore) is your personal storage system for life: a way of storing, syncing, sharing, modelling and backing up content.
-- [dokku/dokku](https://github.com/dokku/dokku) – A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [hasura/gitkube](https://github.com/hasura/gitkube) – Build and deploy docker images to Kubernetes using git push
 - [linki/chaoskube](https://github.com/linki/chaoskube) – chaoskube periodically kills random pods in your Kubernetes cluster.
 - [dolthub/dolt](https://github.com/dolthub/dolt) – Dolt – Git for Data
@@ -477,6 +476,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [hoanhan101/ultimate-go](https://github.com/hoanhan101/ultimate-go) – The Ultimate Go Study Guide
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) – Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) – The Prometheus monitoring system and time series database.
+- [grafana/grafana](https://github.com/grafana/grafana) – The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [mmcgrana/gobyexample](https://github.com/mmcgrana/gobyexample) – Go by Example
 - [quii/learn-go-with-tests](https://github.com/quii/learn-go-with-tests) – Learn Go with test-driven development
 - [jpillora/chisel](https://github.com/jpillora/chisel) – A fast TCP/UDP tunnel over HTTP
@@ -720,6 +720,7 @@ $ starred --username yourname --repository awesome-stars --sort
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) – A black hole for Internet advertisements
 - [matt-bartel/gh-clone-org](https://github.com/matt-bartel/gh-clone-org) – A github-cli extension script to clone all repositories in an organization, optionally filtering by topic.
 - [ghidraninja/game-and-watch-backup](https://github.com/ghidraninja/game-and-watch-backup) – Relatively easy to use scripts for backing up (and restoring) the original Game & Watch firmware.
+- [dokku/dokku](https://github.com/dokku/dokku) – A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [elgohr/Publish-Docker-Github-Action](https://github.com/elgohr/Publish-Docker-Github-Action) – A Github Action used to build and publish Docker images
 - [umputun/mongo-auth](https://github.com/umputun/mongo-auth) – mongo docker with auth
 
@@ -761,7 +762,6 @@ $ starred --username yourname --repository awesome-stars --sort
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) – JavaScript API for Chrome and Firefox
 - [microsoft/playwright](https://github.com/microsoft/playwright) – Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [caprover/caprover](https://github.com/caprover/caprover) – Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
-- [grafana/grafana](https://github.com/grafana/grafana) – The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [nathankellenicki/node-poweredup](https://github.com/nathankellenicki/node-poweredup) – A Javascript module to interface with LEGO Powered Up components.
 
 ## Vue 
